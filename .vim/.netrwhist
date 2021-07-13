@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/tmp'
+let g:netrw_dirhist_4='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_3='/home/crazy_li/.local/share/applications/wine'
+let g:netrw_dirhist_2='/home/crazy_li/Projects/guessing_game/src'
+let g:netrw_dirhist_1='/home/crazy_li/Projects/guessing_game'
+let g:netrw_dirhist_0='/home/crazy_li/Projects/guessing_game/src'
+let g:netrw_dirhist_9='/home/crazy_li/Projects/guessing_game'
+let g:netrw_dirhist_8='/home/crazy_li/Projects'
+let g:netrw_dirhist_7='/home/crazy_li/Projects/learn_rust'
+let g:netrw_dirhist_6='/home/crazy_li/Projects/guessing_game/src'
