@@ -1,0 +1,1 @@
+/home/crazy_li/.dotfiles/.vimrc
