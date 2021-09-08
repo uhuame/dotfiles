@@ -11,7 +11,7 @@ Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
 Plug 'tpope/vim-fugitive'
 Plug 'easymotion/vim-easymotion'
-
+Plug 'morhetz/gruvbox'
 "code
 Plug 'vim-test/vim-test'
 Plug 'Valloric/YouCompleteMe', {'do': './install.py --rust-completer'}
@@ -20,13 +20,14 @@ call plug#end()
 
 " => 设置-----
 syntax on
-colorscheme elflord
+set background=dark    " Setting dark mode"
+autocmd vimenter * ++nested colorscheme gruvbox
+"colorscheme elflord
 filetype plugin indent on 
 
 set foldmethod=syntax
 set directory=$HOME/.vim/swap//
 
-"set background=dark
 set autoindent 			"自动缩进
 set expandtab 			"展开制表符
 set tabstop=4
@@ -42,17 +43,17 @@ let test#strategy = "vimterminal"
 let g:airline#extensions#tabline#enabled = 1
 
 
-"autocmd BufWritePost *.rs silent! !ctags -R &
+autocmd BufWritePost *.rs silent! !ctags -R &
 "autocmd VimEnter * NERDTree
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 "按键云云
 let mapleader = "\<space>"
 noremap <leader>w :w<cr>
-inoremap ,' ''<esc>i
-inoremap ," ""<esc>i
-inoremap ,( ()<esc>i
-inoremap ,{ {}<esc>i
-inoremap ,[ []<esc>i
+inoremap ' ''<esc>i
+inoremap " ""<esc>i
+inoremap () ()<esc>i
+inoremap { {}<esc>i
+inoremap [ []<esc>i
 "跳转到函数定义处
 noremap <leader>] :YcmCompleter GoTo<cr>
 noremap <leader>w :w<cr>

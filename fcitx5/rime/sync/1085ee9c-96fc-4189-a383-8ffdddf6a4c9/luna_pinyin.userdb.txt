@@ -1,0 +1,3950 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin
+#@/db_type	userdb
+#@/rime_version	1.7.3
+#@/tick	1
+#@/user_id	1085ee9c-96fc-4189-a383-8ffdddf6a4c9
+cheng du 	程度	c=1 d=1 t=1
+㩐下 	den xia 	c=0 d=0 t=0
+一 	yi 	c=0 d=0 t=0
+一下 	yi xia 	c=0 d=0 t=0
+一些 	yi xie 	c=0 d=0 t=0
+一代 	yi dai 	c=0 d=0 t=0
+一件 	yi jian 	c=0 d=0 t=0
+一件事 	yi jian shi 	c=0 d=0 t=0
+一個 	yi ge 	c=0 d=0 t=0
+一個人 	yi ge ren 	c=0 d=0 t=0
+一個個 	yi ge ge 	c=0 d=0 t=0
+一個吧 	yi ge ba 	c=0 d=0 t=0
+一個月 	yi ge yue 	c=0 d=0 t=0
+一元 	yi yuan 	c=0 d=0 t=0
+一共 	yi gong 	c=0 d=0 t=0
+一切 	yi qie 	c=0 d=0 t=0
+一半 	yi ban 	c=0 d=0 t=0
+一堆 	yi dui 	c=0 d=0 t=0
+一堆人 	yi dui ren 	c=0 d=0 t=0
+一場 	yi chang 	c=0 d=0 t=0
+一塊 	yi kuai 	c=0 d=0 t=0
+一大 	yi da 	c=0 d=0 t=0
+一大堆 	yi da dui 	c=0 d=0 t=0
+一天 	yi tian 	c=0 d=0 t=0
+一定 	yi ding 	c=0 d=0 t=0
+一對 	yi dui 	c=0 d=0 t=0
+一層 	yi ceng 	c=0 d=0 t=0
+一年 	yi nian 	c=0 d=0 t=0
+一度 	yi du 	c=0 d=0 t=0
+一拖 	yi tuo 	c=0 d=0 t=0
+一搜 	yi sou 	c=0 d=0 t=0
+一時 	yi shi 	c=0 d=0 t=0
+一會 	yi hui 	c=0 d=0 t=0
+一樣 	yi yang 	c=0 d=0 t=0
+一次 	yi ci 	c=0 d=0 t=0
+一款 	yi kuan 	c=0 d=0 t=0
+一步 	yi bu 	c=0 d=0 t=0
+一步步 	yi bu bu 	c=0 d=0 t=0
+一段 	yi duan 	c=0 d=0 t=0
+一波 	yi bo 	c=0 d=0 t=0
+一生 	yi sheng 	c=0 d=0 t=0
+一番 	yi fan 	c=0 d=0 t=0
+一直 	yi zhi 	c=0 d=0 t=0
+一直被 	yi zhi bei 	c=0 d=0 t=0
+一種 	yi zhong 	c=0 d=0 t=0
+一筆 	yi bi 	c=0 d=0 t=0
+一筆沒動 	yi bi mei dong 	c=0 d=0 t=0
+一絲絲 	yi si si 	c=0 d=0 t=0
+一羣 	yi qun 	c=0 d=0 t=0
+一聲 	yi sheng 	c=0 d=0 t=0
+一般 	yi ban 	c=0 d=0 t=0
+一般不看 	yi ban bu kan 	c=0 d=0 t=0
+一般的 	yi ban de 	c=0 d=0 t=0
+一說 	yi shuo 	c=0 d=0 t=0
+一起 	yi qi 	c=0 d=0 t=0
+一起啊 	yi qi a 	c=0 d=0 t=0
+一遍 	yi bian 	c=0 d=0 t=0
+一道 	yi dao 	c=0 d=0 t=0
+一邊 	yi bian 	c=0 d=0 t=0
+一部 	yi bu 	c=0 d=0 t=0
+一隻 	yi zhi 	c=0 d=0 t=0
+一集 	yi ji 	c=0 d=0 t=0
+一頓 	yi dun 	c=0 d=0 t=0
+一點 	yi dian 	c=0 d=0 t=0
+丁 	ding 	c=0 d=0 t=0
+三 	san 	c=0 d=0 t=0
+三代 	san dai 	c=0 d=0 t=0
+三哥 	san ge 	c=0 d=0 t=0
+三天 	san tian 	c=0 d=0 t=0
+三年 	san nian 	c=0 d=0 t=0
+三星 	san xing 	c=0 d=0 t=0
+三次 	san ci 	c=0 d=0 t=0
+三段 	san duan 	c=0 d=0 t=0
+三部 	san bu 	c=0 d=0 t=0
+上 	shang 	c=0 d=0 t=0
+上不去 	shang bu qu 	c=0 d=0 t=0
+上來 	shang lai 	c=0 d=0 t=0
+上來了 	shang lai le 	c=0 d=0 t=0
+上個 	shang ge 	c=0 d=0 t=0
+上午 	shang wu 	c=0 d=0 t=0
+上去 	shang qu 	c=0 d=0 t=0
+上市 	shang shi 	c=0 d=0 t=0
+上次 	shang ci 	c=0 d=0 t=0
+上班 	shang ban 	c=0 d=0 t=0
+上過 	shang guo 	c=0 d=0 t=0
+上面 	shang mian 	c=0 d=0 t=0
+上麼 	shang me 	c=0 d=0 t=0
+下 	xia 	c=0 d=0 t=0
+下了 	xia le 	c=0 d=0 t=0
+下來 	xia lai 	c=0 d=0 t=0
+下個 	xia ge 	c=0 d=0 t=0
+下午 	xia wu 	c=0 d=0 t=0
+下場 	xia chang 	c=0 d=0 t=0
+下好 	xia hao 	c=0 d=0 t=0
+下好了 	xia hao le 	c=0 d=0 t=0
+下完 	xia wan 	c=0 d=0 t=0
+下巴 	xia ba 	c=0 d=0 t=0
+下樓 	xia lou 	c=0 d=0 t=0
+下的 	xia de 	c=0 d=0 t=0
+下腳 	xia jiao 	c=0 d=0 t=0
+下載 	xia zai 	c=0 d=0 t=0
+下週 	xia zhou 	c=0 d=0 t=0
+下過 	xia guo 	c=0 d=0 t=0
+下降 	xia jiang 	c=0 d=0 t=0
+下面 	xia mian 	c=0 d=0 t=0
+不 	bu 	c=0 d=0 t=0
+不一定 	bu yi ding 	c=0 d=0 t=0
+不一樣 	bu yi yang 	c=0 d=0 t=0
+不一樣的 	bu yi yang de 	c=0 d=0 t=0
+不了 	bu le 	c=0 d=0 t=0
+不了 	bu liao 	c=0 d=0 t=0
+不代表 	bu dai biao 	c=0 d=0 t=0
+不住 	bu zhu 	c=0 d=0 t=0
+不住的 	bu zhu de 	c=0 d=0 t=0
+不佔 	bu zhan 	c=0 d=0 t=0
+不來 	bu lai 	c=0 d=0 t=0
+不保證 	bu bao zheng 	c=0 d=0 t=0
+不值 	bu zhi 	c=0 d=0 t=0
+不做 	bu zuo 	c=0 d=0 t=0
+不光 	bu guang 	c=0 d=0 t=0
+不光貴 	bu guang gui 	c=0 d=0 t=0
+不再 	bu zai 	c=0 d=0 t=0
+不到 	bu dao 	c=0 d=0 t=0
+不加 	bu jia 	c=0 d=0 t=0
+不卡 	bu ka 	c=0 d=0 t=0
+不卡麼 	bu ka me 	c=0 d=0 t=0
+不去 	bu qu 	c=0 d=0 t=0
+不反對 	bu fan dui 	c=0 d=0 t=0
+不受 	bu shou 	c=0 d=0 t=0
+不可以 	bu ke yi 	c=0 d=0 t=0
+不可能 	bu ke neng 	c=0 d=0 t=0
+不合理 	bu he li 	c=0 d=0 t=0
+不合適 	bu he shi 	c=0 d=0 t=0
+不同 	bu tong 	c=0 d=0 t=0
+不同意 	bu tong yi 	c=0 d=0 t=0
+不喜歡 	bu xi huan 	c=0 d=0 t=0
+不在 	bu zai 	c=0 d=0 t=0
+不在了 	bu zai le 	c=0 d=0 t=0
+不多 	bu duo 	c=0 d=0 t=0
+不夠 	bu gou 	c=0 d=0 t=0
+不大 	bu da 	c=0 d=0 t=0
+不大吧 	bu da ba 	c=0 d=0 t=0
+不太 	bu tai 	c=0 d=0 t=0
+不好 	bu hao 	c=0 d=0 t=0
+不好麼 	bu hao me 	c=0 d=0 t=0
+不如 	bu ru 	c=0 d=0 t=0
+不如說 	bu ru shuo 	c=0 d=0 t=0
+不妨礙 	bu fang ai 	c=0 d=0 t=0
+不存在 	bu cun zai 	c=0 d=0 t=0
+不完美 	bu wan mei 	c=0 d=0 t=0
+不宜 	bu yi 	c=0 d=0 t=0
+不寫 	bu xie 	c=0 d=0 t=0
+不寫了 	bu xie le 	c=0 d=0 t=0
+不對 	bu dui 	c=0 d=0 t=0
+不小心 	bu xiao xin 	c=0 d=0 t=0
+不就 	bu jiu 	c=0 d=0 t=0
+不帶 	bu dai 	c=0 d=0 t=0
+不得 	bu de 	c=0 d=0 t=0
+不得不 	bu de bu 	c=0 d=0 t=0
+不得不說 	bu de bu shuo 	c=0 d=0 t=0
+不得了 	bu de liao 	c=0 d=0 t=0
+不愛 	bu ai 	c=0 d=0 t=0
+不懂 	bu dong 	c=0 d=0 t=0
+不應該 	bu ying gai 	c=0 d=0 t=0
+不敢 	bu gan 	c=0 d=0 t=0
+不是 	bu shi 	c=0 d=0 t=0
+不是啊 	bu shi a 	c=0 d=0 t=0
+不是嗎 	bu shi ma 	c=0 d=0 t=0
+不會 	bu hui 	c=0 d=0 t=0
+不會用 	bu hui yong 	c=0 d=0 t=0
+不染 	bu ran 	c=0 d=0 t=0
+不止是 	bu zhi shi 	c=0 d=0 t=0
+不正確 	bu zheng que 	c=0 d=0 t=0
+不比 	bu bi 	c=0 d=0 t=0
+不滿 	bu man 	c=0 d=0 t=0
+不然 	bu ran 	c=0 d=0 t=0
+不熟 	bu shu 	c=0 d=0 t=0
+不用 	bu yong 	c=0 d=0 t=0
+不用心 	bu yong xin 	c=0 d=0 t=0
+不登錄 	bu deng lu 	c=0 d=0 t=0
+不盈利 	bu ying li 	c=0 d=0 t=0
+不看 	bu kan 	c=0 d=0 t=0
+不知 	bu zhi 	c=0 d=0 t=0
+不知嗲 	bu zhi dia 	c=0 d=0 t=0
+不知道 	bu zhi dao 	c=0 d=0 t=0
+不確信 	bu que xin 	c=0 d=0 t=0
+不穩定 	bu wen ding 	c=0 d=0 t=0
+不等式 	bu deng shi 	c=0 d=0 t=0
+不算 	bu suan 	c=0 d=0 t=0
+不管 	bu guan 	c=0 d=0 t=0
+不管了 	bu guan le 	c=0 d=0 t=0
+不管是 	bu guan shi 	c=0 d=0 t=0
+不精日 	bu jing ri 	c=0 d=0 t=0
+不繁殖 	bu fan zhi 	c=0 d=0 t=0
+不聊 	bu liao 	c=0 d=0 t=0
+不聊了 	bu liao le 	c=0 d=0 t=0
+不能 	bu neng 	c=0 d=0 t=0
+不能用 	bu neng yong 	c=0 d=0 t=0
+不自己 	bu zi ji 	c=0 d=0 t=0
+不至於 	bu zhi yu 	c=0 d=0 t=0
+不致於 	bu zhi yu 	c=0 d=0 t=0
+不舒服 	bu shu fu 	c=0 d=0 t=0
+不花 	bu hua 	c=0 d=0 t=0
+不行 	bu xing 	c=0 d=0 t=0
+不行麼 	bu xing me 	c=0 d=0 t=0
+不要 	bu yao 	c=0 d=0 t=0
+不要太 	bu yao tai 	c=0 d=0 t=0
+不見 	bu jian 	c=0 d=0 t=0
+不覺 	bu jue 	c=0 d=0 t=0
+不記得 	bu ji de 	c=0 d=0 t=0
+不許 	bu xu 	c=0 d=0 t=0
+不認 	bu ren 	c=0 d=0 t=0
+不認同 	bu ren tong 	c=0 d=0 t=0
+不說 	bu shuo 	c=0 d=0 t=0
+不讓 	bu rang 	c=0 d=0 t=0
+不讓搞 	bu rang gao 	c=0 d=0 t=0
+不貴 	bu gui 	c=0 d=0 t=0
+不過 	bu guo 	c=0 d=0 t=0
+不適合 	bu shi he 	c=0 d=0 t=0
+不錯 	bu cuo 	c=0 d=0 t=0
+不開 	bu kai 	c=0 d=0 t=0
+不難 	bu nan 	c=0 d=0 t=0
+不願 	bu yuan 	c=0 d=0 t=0
+不願意 	bu yuan yi 	c=0 d=0 t=0
+不香 	bu xiang 	c=0 d=0 t=0
+丑 	chou 	c=0 d=0 t=0
+世界 	shi jie 	c=0 d=0 t=0
+丟 	diu 	c=0 d=0 t=0
+丟丟 	diu diu 	c=0 d=0 t=0
+丟過來 	diu guo lai 	c=0 d=0 t=0
+並 	bing 	c=0 d=0 t=0
+並不 	bing bu 	c=0 d=0 t=0
+並不懂 	bing bu dong 	c=0 d=0 t=0
+並不是 	bing bu shi 	c=0 d=0 t=0
+並且 	bing qie 	c=0 d=0 t=0
+並沒 	bing mei 	c=0 d=0 t=0
+中 	zhong 	c=0 d=0 t=0
+中午 	zhong wu 	c=0 d=0 t=0
+中國 	zhong guo 	c=0 d=0 t=0
+中心 	zhong xin 	c=0 d=0 t=0
+中文 	zhong wen 	c=0 d=0 t=0
+中文的 	zhong wen de 	c=0 d=0 t=0
+中樞 	zhong shu 	c=0 d=0 t=0
+中考 	zhong kao 	c=0 d=0 t=0
+中風 	zhong feng 	c=0 d=0 t=0
+主 	zhu 	c=0 d=0 t=0
+主板 	zhu ban 	c=0 d=0 t=0
+主機 	zhu ji 	c=0 d=0 t=0
+主流 	zhu liu 	c=0 d=0 t=0
+主界面 	zhu jie mian 	c=0 d=0 t=0
+主義 	zhu yi 	c=0 d=0 t=0
+主要 	zhu yao 	c=0 d=0 t=0
+主要是 	zhu yao shi 	c=0 d=0 t=0
+主觀 	zhu guan 	c=0 d=0 t=0
+主題 	zhu ti 	c=0 d=0 t=0
+久 	jiu 	c=0 d=0 t=0
+之下 	zhi xia 	c=0 d=0 t=0
+之中 	zhi zhong 	c=0 d=0 t=0
+之前 	zhi qian 	c=0 d=0 t=0
+之後 	zhi hou 	c=0 d=0 t=0
+之最 	zhi zui 	c=0 d=0 t=0
+之門 	zhi men 	c=0 d=0 t=0
+之類 	zhi lei 	c=0 d=0 t=0
+乎 	hu 	c=0 d=0 t=0
+九 	jiu 	c=0 d=0 t=0
+也 	ye 	c=0 d=0 t=0
+也不 	ye bu 	c=0 d=0 t=0
+也不一定 	ye bu yi ding 	c=0 d=0 t=0
+也不是 	ye bu shi 	c=0 d=0 t=0
+也不會 	ye bu hui 	c=0 d=0 t=0
+也不用 	ye bu yong 	c=0 d=0 t=0
+也不知道 	ye bu zhi dao 	c=0 d=0 t=0
+也不說 	ye bu shuo 	c=0 d=0 t=0
+也不難 	ye bu nan 	c=0 d=0 t=0
+也不願 	ye bu yuan 	c=0 d=0 t=0
+也像 	ye xiang 	c=0 d=0 t=0
+也可 	ye ke 	c=0 d=0 t=0
+也可以 	ye ke yi 	c=0 d=0 t=0
+也可能 	ye ke neng 	c=0 d=0 t=0
+也太 	ye tai 	c=0 d=0 t=0
+也好 	ye hao 	c=0 d=0 t=0
+也就 	ye jiu 	c=0 d=0 t=0
+也很 	ye hen 	c=0 d=0 t=0
+也是 	ye shi 	c=0 d=0 t=0
+也會 	ye hui 	c=0 d=0 t=0
+也有 	ye you 	c=0 d=0 t=0
+也沒 	ye mei 	c=0 d=0 t=0
+也沒有 	ye mei you 	c=0 d=0 t=0
+也算 	ye suan 	c=0 d=0 t=0
+也能 	ye neng 	c=0 d=0 t=0
+也能用 	ye neng yong 	c=0 d=0 t=0
+也行 	ye xing 	c=0 d=0 t=0
+也要 	ye yao 	c=0 d=0 t=0
+也許 	ye xu 	c=0 d=0 t=0
+也許是 	ye xu shi 	c=0 d=0 t=0
+也還 	ye hai 	c=0 d=0 t=0
+也還是 	ye hai shi 	c=0 d=0 t=0
+也都 	ye dou 	c=0 d=0 t=0
+也需要 	ye xu yao 	c=0 d=0 t=0
+乳房 	ru fang 	c=0 d=0 t=0
+乳房豐富彷彿 	ru fang feng fu fang fu 	c=0 d=0 t=0
+乾了 	gan le 	c=0 d=0 t=0
+乾死 	gan si 	c=0 d=0 t=0
+乾死了 	gan si le 	c=0 d=0 t=0
+亂了 	luan le 	c=0 d=0 t=0
+亂碼 	luan ma 	c=0 d=0 t=0
+了 	le 	c=0 d=0 t=0
+了個 	le ge 	c=0 d=0 t=0
+了個啥呀 	le ge sha ya 	c=0 d=0 t=0
+了呢 	le ne 	c=0 d=0 t=0
+了啊 	le a 	c=0 d=0 t=0
+了嗎 	le ma 	c=0 d=0 t=0
+了巴 	le ba 	c=0 d=0 t=0
+了的 	le de 	c=0 d=0 t=0
+了那 	le na 	c=0 d=0 t=0
+事 	shi 	c=0 d=0 t=0
+事實 	shi shi 	c=0 d=0 t=0
+事情 	shi qing 	c=0 d=0 t=0
+事物 	shi wu 	c=0 d=0 t=0
+事物的 	shi wu de 	c=0 d=0 t=0
+二 	er 	c=0 d=0 t=0
+二個 	er ge 	c=0 d=0 t=0
+二次 	er ci 	c=0 d=0 t=0
+二次元 	er ci yuan 	c=0 d=0 t=0
+些 	xie 	c=0 d=0 t=0
+交 	jiao 	c=0 d=0 t=0
+交易 	jiao yi 	c=0 d=0 t=0
+交易所 	jiao yi suo 	c=0 d=0 t=0
+交流 	jiao liu 	c=0 d=0 t=0
+交給 	jiao gei 	c=0 d=0 t=0
+享受 	xiang shou 	c=0 d=0 t=0
+京東 	jing dong 	c=0 d=0 t=0
+人 	ren 	c=0 d=0 t=0
+人了 	ren le 	c=0 d=0 t=0
+人人 	ren ren 	c=0 d=0 t=0
+人吧 	ren ba 	c=0 d=0 t=0
+人啊 	ren a 	c=0 d=0 t=0
+人均 	ren jun 	c=0 d=0 t=0
+人家 	ren jia 	c=0 d=0 t=0
+人對 	ren dui 	c=0 d=0 t=0
+人性 	ren xing 	c=0 d=0 t=0
+人每天 	ren mei tian 	c=0 d=0 t=0
+人民 	ren min 	c=0 d=0 t=0
+人生 	ren sheng 	c=0 d=0 t=0
+人的 	ren de 	c=0 d=0 t=0
+人看 	ren kan 	c=0 d=0 t=0
+人身 	ren shen 	c=0 d=0 t=0
+人都 	ren dou 	c=0 d=0 t=0
+人類 	ren lei 	c=0 d=0 t=0
+人體 	ren ti 	c=0 d=0 t=0
+人麼 	ren me 	c=0 d=0 t=0
+什麼 	shen me 	c=0 d=0 t=0
+仁慈 	ren ci 	c=0 d=0 t=0
+今天 	jin tian 	c=0 d=0 t=0
+今晚 	jin wan 	c=0 d=0 t=0
+介於 	jie yu 	c=0 d=0 t=0
+介紹 	jie shao 	c=0 d=0 t=0
+他 	ta 	c=0 d=0 t=0
+他也 	ta ye 	c=0 d=0 t=0
+他倆 	ta lia 	c=0 d=0 t=0
+他們 	ta men 	c=0 d=0 t=0
+他又 	ta you 	c=0 d=0 t=0
+他又不是 	ta you bu shi 	c=0 d=0 t=0
+他媽的 	ta ma de 	c=0 d=0 t=0
+他把 	ta ba 	c=0 d=0 t=0
+他是 	ta shi 	c=0 d=0 t=0
+他的 	ta de 	c=0 d=0 t=0
+他要 	ta yao 	c=0 d=0 t=0
+仙劍 	xian jian 	c=0 d=0 t=0
+代 	dai 	c=0 d=0 t=0
+代步 	dai bu 	c=0 d=0 t=0
+代理 	dai li 	c=0 d=0 t=0
+代表 	dai biao 	c=0 d=0 t=0
+以 	yi 	c=0 d=0 t=0
+以上 	yi shang 	c=0 d=0 t=0
+以下 	yi xia 	c=0 d=0 t=0
+以來 	yi lai 	c=0 d=0 t=0
+以前 	yi qian 	c=0 d=0 t=0
+以及 	yi ji 	c=0 d=0 t=0
+以外 	yi wai 	c=0 d=0 t=0
+以後 	yi hou 	c=0 d=0 t=0
+以求 	yi qiu 	c=0 d=0 t=0
+以爲 	yi wei 	c=0 d=0 t=0
+任何 	ren he 	c=0 d=0 t=0
+任何人 	ren he ren 	c=0 d=0 t=0
+伊 	yi 	c=0 d=0 t=0
+休息 	xiu xi 	c=0 d=0 t=0
+休閒 	xiu xian 	c=0 d=0 t=0
+伴侶 	ban lv 	c=0 d=0 t=0
+但 	dan 	c=0 d=0 t=0
+但不一定 	dan bu yi ding 	c=0 d=0 t=0
+但也 	dan ye 	c=0 d=0 t=0
+但也是 	dan ye shi 	c=0 d=0 t=0
+但你 	dan ni 	c=0 d=0 t=0
+但你要有 	dan ni yao you 	c=0 d=0 t=0
+但卻 	dan que 	c=0 d=0 t=0
+但如果 	dan ru guo 	c=0 d=0 t=0
+但是 	dan shi 	c=0 d=0 t=0
+但是啊 	dan shi a 	c=0 d=0 t=0
+但是爲什麼 	dan shi wei shen me 	c=0 d=0 t=0
+但這 	dan zhe 	c=0 d=0 t=0
+位於 	wei yu 	c=0 d=0 t=0
+位置 	wei zhi 	c=0 d=0 t=0
+低 	di 	c=0 d=0 t=0
+低下 	di xia 	c=0 d=0 t=0
+低壓 	di ya 	c=0 d=0 t=0
+低情商 	di qing shang 	c=0 d=0 t=0
+低版本 	di ban ben 	c=0 d=0 t=0
+低版本的 	di ban ben de 	c=0 d=0 t=0
+低端 	di duan 	c=0 d=0 t=0
+低端機 	di duan ji 	c=0 d=0 t=0
+低落 	di luo 	c=0 d=0 t=0
+低陪 	di pei 	c=0 d=0 t=0
+住宿 	zhu su 	c=0 d=0 t=0
+佔比 	zhan bi 	c=0 d=0 t=0
+佔用 	zhan yong 	c=0 d=0 t=0
+何 	he 	c=0 d=0 t=0
+作品 	zuo pin 	c=0 d=0 t=0
+作文 	zuo wen 	c=0 d=0 t=0
+作文了 	zuo wen le 	c=0 d=0 t=0
+作業 	zuo ye 	c=0 d=0 t=0
+作用 	zuo yong 	c=0 d=0 t=0
+作者 	zuo zhe 	c=0 d=0 t=0
+你 	ni 	c=0 d=0 t=0
+你上 	ni shang 	c=0 d=0 t=0
+你上次 	ni shang ci 	c=0 d=0 t=0
+你下個 	ni xia ge 	c=0 d=0 t=0
+你不 	ni bu 	c=0 d=0 t=0
+你不是 	ni bu shi 	c=0 d=0 t=0
+你不會 	ni bu hui 	c=0 d=0 t=0
+你也 	ni ye 	c=0 d=0 t=0
+你也會 	ni ye hui 	c=0 d=0 t=0
+你以爲 	ni yi wei 	c=0 d=0 t=0
+你住宿 	ni zhu su 	c=0 d=0 t=0
+你來 	ni lai 	c=0 d=0 t=0
+你們 	ni men 	c=0 d=0 t=0
+你值得 	ni zhi de 	c=0 d=0 t=0
+你先 	ni xian 	c=0 d=0 t=0
+你到 	ni dao 	c=0 d=0 t=0
+你到是 	ni dao shi 	c=0 d=0 t=0
+你去 	ni qu 	c=0 d=0 t=0
+你又能 	ni you neng 	c=0 d=0 t=0
+你只是 	ni zhi shi 	c=0 d=0 t=0
+你可以 	ni ke yi 	c=0 d=0 t=0
+你呢 	ni ne 	c=0 d=0 t=0
+你咋 	ni za 	c=0 d=0 t=0
+你問 	ni wen 	c=0 d=0 t=0
+你啥時候 	ni sha shi hou 	c=0 d=0 t=0
+你在 	ni zai 	c=0 d=0 t=0
+你在做 	ni zai zuo 	c=0 d=0 t=0
+你媽 	ni ma 	c=0 d=0 t=0
+你媽的 	ni ma de 	c=0 d=0 t=0
+你寫 	ni xie 	c=0 d=0 t=0
+你就 	ni jiu 	c=0 d=0 t=0
+你帶 	ni dai 	c=0 d=0 t=0
+你幫我 	ni bang wo 	c=0 d=0 t=0
+你得 	ni de 	c=0 d=0 t=0
+你從 	ni cong 	c=0 d=0 t=0
+你想 	ni xiang 	c=0 d=0 t=0
+你打算 	ni da suan 	c=0 d=0 t=0
+你打開 	ni da kai 	c=0 d=0 t=0
+你把 	ni ba 	c=0 d=0 t=0
+你指望 	ni zhi wang 	c=0 d=0 t=0
+你按照 	ni an zhao 	c=0 d=0 t=0
+你放學 	ni fang xue 	c=0 d=0 t=0
+你是 	ni shi 	c=0 d=0 t=0
+你是不是 	ni shi bu shi 	c=0 d=0 t=0
+你是個 	ni shi ge 	c=0 d=0 t=0
+你會 	ni hui 	c=0 d=0 t=0
+你會搭 	ni hui da 	c=0 d=0 t=0
+你有 	ni you 	c=0 d=0 t=0
+你有麼 	ni you me 	c=0 d=0 t=0
+你添加 	ni tian jia 	c=0 d=0 t=0
+你用 	ni yong 	c=0 d=0 t=0
+你發現 	ni fa xian 	c=0 d=0 t=0
+你的 	ni de 	c=0 d=0 t=0
+你的錯 	ni de cuo 	c=0 d=0 t=0
+你直接 	ni zhi jie 	c=0 d=0 t=0
+你看 	ni kan 	c=0 d=0 t=0
+你看了 	ni kan le 	c=0 d=0 t=0
+你知道 	ni zhi dao 	c=0 d=0 t=0
+你知道麼 	ni zhi dao me 	c=0 d=0 t=0
+你等下 	ni deng xia 	c=0 d=0 t=0
+你等着 	ni deng zhe 	c=0 d=0 t=0
+你管你媽 	ni guan ni ma 	c=0 d=0 t=0
+你粉絲 	ni fen si 	c=0 d=0 t=0
+你總不能 	ni zong bu neng 	c=0 d=0 t=0
+你聯繫 	ni lian xi 	c=0 d=0 t=0
+你能 	ni neng 	c=0 d=0 t=0
+你能下 	ni neng xia 	c=0 d=0 t=0
+你能到 	ni neng dao 	c=0 d=0 t=0
+你要 	ni yao 	c=0 d=0 t=0
+你要不 	ni yao bu 	c=0 d=0 t=0
+你要不要 	ni yao bu yao 	c=0 d=0 t=0
+你要把 	ni yao ba 	c=0 d=0 t=0
+你要的 	ni yao de 	c=0 d=0 t=0
+你要看 	ni yao kan 	c=0 d=0 t=0
+你試試 	ni shi shi 	c=0 d=0 t=0
+你認爲 	ni ren wei 	c=0 d=0 t=0
+你說 	ni shuo 	c=0 d=0 t=0
+你誰 	ni shei 	c=0 d=0 t=0
+你買 	ni mai 	c=0 d=0 t=0
+你買一 	ni mai yi 	c=0 d=0 t=0
+你這 	ni zhe 	c=0 d=0 t=0
+你這個 	ni zhe ge 	c=0 d=0 t=0
+你還 	ni hai 	c=0 d=0 t=0
+你還沒 	ni hai mei 	c=0 d=0 t=0
+你都 	ni dou 	c=0 d=0 t=0
+你開 	ni kai 	c=0 d=0 t=0
+你需要 	ni xu yao 	c=0 d=0 t=0
+你點 	ni dian 	c=0 d=0 t=0
+你點開 	ni dian kai 	c=0 d=0 t=0
+佳 	jia 	c=0 d=0 t=0
+使用 	shi yong 	c=0 d=0 t=0
+來 	lai 	c=0 d=0 t=0
+來一個 	lai yi ge 	c=0 d=0 t=0
+來了 	lai le 	c=0 d=0 t=0
+來個 	lai ge 	c=0 d=0 t=0
+來的 	lai de 	c=0 d=0 t=0
+來看 	lai kan 	c=0 d=0 t=0
+來着 	lai zhe 	c=0 d=0 t=0
+來自 	lai zi 	c=0 d=0 t=0
+來說 	lai shuo 	c=0 d=0 t=0
+來講 	lai jiang 	c=0 d=0 t=0
+來過 	lai guo 	c=0 d=0 t=0
+例子 	li zi 	c=0 d=0 t=0
+依然 	yi ran 	c=0 d=0 t=0
+依雲 	yi yun 	c=0 d=0 t=0
+侵權 	qin quan 	c=0 d=0 t=0
+便 	bian 	c=0 d=0 t=0
+便宜 	pian yi 	c=0 d=0 t=0
+保留 	bao liu 	c=0 d=0 t=0
+保證 	bao zheng 	c=0 d=0 t=0
+保護 	bao hu 	c=0 d=0 t=0
+信息 	xin xi 	c=0 d=0 t=0
+修 	xiu 	c=0 d=0 t=0
+修修 	xiu xiu 	c=0 d=0 t=0
+修好 	xiu hao 	c=0 d=0 t=0
+倆 	lia 	c=0 d=0 t=0
+倉 	cang 	c=0 d=0 t=0
+個 	ge 	c=0 d=0 t=0
+個人 	ge ren 	c=0 d=0 t=0
+個別 	ge bie 	c=0 d=0 t=0
+個啥 	ge sha 	c=0 d=0 t=0
+個月 	ge yue 	c=0 d=0 t=0
+個體 	ge ti 	c=0 d=0 t=0
+個體戶 	ge ti hu 	c=0 d=0 t=0
+們 	men 	c=0 d=0 t=0
+倒 	dao 	c=0 d=0 t=0
+倒了 	dao le 	c=0 d=0 t=0
+倒是 	dao shi 	c=0 d=0 t=0
+倒閉 	dao bi 	c=0 d=0 t=0
+倒閉了 	dao bi le 	c=0 d=0 t=0
+值得 	zhi de 	c=0 d=0 t=0
+假 	jia 	c=0 d=0 t=0
+假的 	jia de 	c=0 d=0 t=0
+偉大 	wei da 	c=0 d=0 t=0
+偉大的 	wei da de 	c=0 d=0 t=0
+做 	zuo 	c=0 d=0 t=0
+做不了 	zuo bu liao 	c=0 d=0 t=0
+做了 	zuo le 	c=0 d=0 t=0
+做事 	zuo shi 	c=0 d=0 t=0
+做個 	zuo ge 	c=0 d=0 t=0
+做個人 	zuo ge ren 	c=0 d=0 t=0
+做啥 	zuo sha 	c=0 d=0 t=0
+做夢 	zuo meng 	c=0 d=0 t=0
+做大做強 	zuo da zuo qiang 	c=0 d=0 t=0
+做好 	zuo hao 	c=0 d=0 t=0
+做好了 	zuo hao le 	c=0 d=0 t=0
+做完 	zuo wan 	c=0 d=0 t=0
+做完了 	zuo wan le 	c=0 d=0 t=0
+做法 	zuo fa 	c=0 d=0 t=0
+做的 	zuo de 	c=0 d=0 t=0
+做起 	zuo qi 	c=0 d=0 t=0
+停止 	ting zhi 	c=0 d=0 t=0
+健康 	jian kang 	c=0 d=0 t=0
+側面 	ce mian 	c=0 d=0 t=0
+偶像 	ou xiang 	c=0 d=0 t=0
+偶然 	ou ran 	c=0 d=0 t=0
+偷跑 	tou pao 	c=0 d=0 t=0
+備份 	bei fen 	c=0 d=0 t=0
+備忘 	bei wang 	c=0 d=0 t=0
+傢伙 	jia huo 	c=0 d=0 t=0
+催 	cui 	c=0 d=0 t=0
+催眠 	cui mian 	c=0 d=0 t=0
+傳 	chuan 	c=0 d=0 t=0
+傳播 	chuan bo 	c=0 d=0 t=0
+傳播地 	chuan bo di 	c=0 d=0 t=0
+傳教 	chuan jiao 	c=0 d=0 t=0
+傳染 	chuan ran 	c=0 d=0 t=0
+傳說 	chuan shuo 	c=0 d=0 t=0
+傳銷 	chuan xiao 	c=0 d=0 t=0
+傷害 	shang hai 	c=0 d=0 t=0
+傻 	sha 	c=0 d=0 t=0
+傻了 	sha le 	c=0 d=0 t=0
+傻子 	sha zi 	c=0 d=0 t=0
+傻瓜 	sha gua 	c=0 d=0 t=0
+傻逼 	sha bi 	c=0 d=0 t=0
+僅存 	jin cun 	c=0 d=0 t=0
+僅憑 	jin ping 	c=0 d=0 t=0
+像 	xiang 	c=0 d=0 t=0
+像個 	xiang ge 	c=0 d=0 t=0
+僚機 	liao ji 	c=0 d=0 t=0
+僞裝 	wei zhuang 	c=0 d=0 t=0
+價 	jia 	c=0 d=0 t=0
+價格 	jia ge 	c=0 d=0 t=0
+億 	yi 	c=0 d=0 t=0
+儘管 	jin guan 	c=0 d=0 t=0
+儘量 	jin liang 	c=0 d=0 t=0
+優化 	you hua 	c=0 d=0 t=0
+優越 	you yue 	c=0 d=0 t=0
+優題 	you ti 	c=0 d=0 t=0
+允許 	yun xu 	c=0 d=0 t=0
+元 	yuan 	c=0 d=0 t=0
+元氣 	yuan qi 	c=0 d=0 t=0
+兄弟 	xiong di 	c=0 d=0 t=0
+兄弟們 	xiong di men 	c=0 d=0 t=0
+充 	chong 	c=0 d=0 t=0
+充分 	chong fen 	c=0 d=0 t=0
+充大會 	chong da hui 	c=0 d=0 t=0
+充滿 	chong man 	c=0 d=0 t=0
+充滿了 	chong man le 	c=0 d=0 t=0
+充電 	chong dian 	c=0 d=0 t=0
+充電器 	chong dian qi 	c=0 d=0 t=0
+先 	xian 	c=0 d=0 t=0
+先去 	xian qu 	c=0 d=0 t=0
+先天 	xian tian 	c=0 d=0 t=0
+先把 	xian ba 	c=0 d=0 t=0
+先決 	xian jue 	c=0 d=0 t=0
+先發 	xian fa 	c=0 d=0 t=0
+先看 	xian kan 	c=0 d=0 t=0
+光 	guang 	c=0 d=0 t=0
+光影 	guang ying 	c=0 d=0 t=0
+光明 	guang ming 	c=0 d=0 t=0
+免費 	mian fei 	c=0 d=0 t=0
+免費哦 	mian fei o 	c=0 d=0 t=0
+兒童 	er tong 	c=0 d=0 t=0
+兔兔 	tu tu 	c=0 d=0 t=0
+入 	ru 	c=0 d=0 t=0
+入侵 	ru qin 	c=0 d=0 t=0
+入夥 	ru huo 	c=0 d=0 t=0
+入的 	ru de 	c=0 d=0 t=0
+入門 	ru men 	c=0 d=0 t=0
+內 	nei 	c=0 d=0 t=0
+內存 	nei cun 	c=0 d=0 t=0
+內容 	nei rong 	c=0 d=0 t=0
+內核 	nei he 	c=0 d=0 t=0
+內測 	nei ce 	c=0 d=0 t=0
+內置 	nei zhi 	c=0 d=0 t=0
+內酚酞 	nei fen tai 	c=0 d=0 t=0
+全 	quan 	c=0 d=0 t=0
+全做 	quan zuo 	c=0 d=0 t=0
+全品 	quan pin 	c=0 d=0 t=0
+全新 	quan xin 	c=0 d=0 t=0
+全是 	quan shi 	c=0 d=0 t=0
+全無 	quan wu 	c=0 d=0 t=0
+全班 	quan ban 	c=0 d=0 t=0
+全綵 	quan cai 	c=0 d=0 t=0
+全部 	quan bu 	c=0 d=0 t=0
+全部人 	quan bu ren 	c=0 d=0 t=0
+兩 	liang 	c=0 d=0 t=0
+兩人 	liang ren 	c=0 d=0 t=0
+兩個 	liang ge 	c=0 d=0 t=0
+兩個人 	liang ge ren 	c=0 d=0 t=0
+兩千多 	liang qian duo 	c=0 d=0 t=0
+兩天 	liang tian 	c=0 d=0 t=0
+兩次 	liang ci 	c=0 d=0 t=0
+兩點 	liang dian 	c=0 d=0 t=0
+八 	ba 	c=0 d=0 t=0
+公信力 	gong xin li 	c=0 d=0 t=0
+公共 	gong gong 	c=0 d=0 t=0
+公式 	gong shi 	c=0 d=0 t=0
+公開 	gong kai 	c=0 d=0 t=0
+共 	gong 	c=0 d=0 t=0
+共產 	gong chan 	c=0 d=0 t=0
+其他 	qi ta 	c=0 d=0 t=0
+其他人 	qi ta ren 	c=0 d=0 t=0
+其他的 	qi ta de 	c=0 d=0 t=0
+其實 	qi shi 	c=0 d=0 t=0
+具有 	ju you 	c=0 d=0 t=0
+具體 	ju ti 	c=0 d=0 t=0
+兼容 	jian rong 	c=0 d=0 t=0
+再 	zai 	c=0 d=0 t=0
+再來 	zai lai 	c=0 d=0 t=0
+再慢 	zai man 	c=0 d=0 t=0
+再看 	zai kan 	c=0 d=0 t=0
+再給 	zai gei 	c=0 d=0 t=0
+再見 	zai jian 	c=0 d=0 t=0
+再說 	zai shuo 	c=0 d=0 t=0
+再談 	zai tan 	c=0 d=0 t=0
+再過去 	zai guo qu 	c=0 d=0 t=0
+冒個泡 	mao ge pao 	c=0 d=0 t=0
+冠心病 	guan xin bing 	c=0 d=0 t=0
+冰箱 	bing xiang 	c=0 d=0 t=0
+冷笑 	leng xiao 	c=0 d=0 t=0
+冷門 	leng men 	c=0 d=0 t=0
+凡爾 	fan er 	c=0 d=0 t=0
+凱 	kai 	c=0 d=0 t=0
+出 	chu 	c=0 d=0 t=0
+出了 	chu le 	c=0 d=0 t=0
+出來 	chu lai 	c=0 d=0 t=0
+出去 	chu qu 	c=0 d=0 t=0
+出去過 	chu qu guo 	c=0 d=0 t=0
+出售 	chu shou 	c=0 d=0 t=0
+出問題 	chu wen ti 	c=0 d=0 t=0
+出格 	chu ge 	c=0 d=0 t=0
+出現 	chu xian 	c=0 d=0 t=0
+出生 	chu sheng 	c=0 d=0 t=0
+出的 	chu de 	c=0 d=0 t=0
+出血 	chu xie 	c=0 d=0 t=0
+出賣 	chu mai 	c=0 d=0 t=0
+刀劍 	dao jian 	c=0 d=0 t=0
+刀劍神域 	dao jian shen yu 	c=0 d=0 t=0
+分 	fen 	c=0 d=0 t=0
+分不清 	fen bu qing 	c=0 d=0 t=0
+分享 	fen xiang 	c=0 d=0 t=0
+分享下 	fen xiang xia 	c=0 d=0 t=0
+分分鐘 	fen fen zhong 	c=0 d=0 t=0
+分叉 	fen cha 	c=0 d=0 t=0
+分憂 	fen you 	c=0 d=0 t=0
+分泌 	fen mi 	c=0 d=0 t=0
+分給 	fen gei 	c=0 d=0 t=0
+分鐘 	fen zhong 	c=0 d=0 t=0
+切換 	qie huan 	c=0 d=0 t=0
+列表 	lie biao 	c=0 d=0 t=0
+初一 	chu yi 	c=0 d=0 t=0
+初三 	chu san 	c=0 d=0 t=0
+初中 	chu zhong 	c=0 d=0 t=0
+初中麼 	chu zhong me 	c=0 d=0 t=0
+初二 	chu er 	c=0 d=0 t=0
+初衷 	chu zhong 	c=0 d=0 t=0
+判 	pan 	c=0 d=0 t=0
+判刑 	pan xing 	c=0 d=0 t=0
+判刑了 	pan xing le 	c=0 d=0 t=0
+判斷 	pan duan 	c=0 d=0 t=0
+別 	bie 	c=0 d=0 t=0
+別人 	bie ren 	c=0 d=0 t=0
+別和 	bie he 	c=0 d=0 t=0
+別忘 	bie wang 	c=0 d=0 t=0
+別忘了 	bie wang le 	c=0 d=0 t=0
+別急 	bie ji 	c=0 d=0 t=0
+別拿 	bie na 	c=0 d=0 t=0
+利 	li 	c=0 d=0 t=0
+利用 	li yong 	c=0 d=0 t=0
+刪 	shan 	c=0 d=0 t=0
+刪了 	shan le 	c=0 d=0 t=0
+刪掉 	shan diao 	c=0 d=0 t=0
+刪除 	shan chu 	c=0 d=0 t=0
+到 	dao 	c=0 d=0 t=0
+到了 	dao le 	c=0 d=0 t=0
+到家 	dao jia 	c=0 d=0 t=0
+到底 	dao di 	c=0 d=0 t=0
+到時候 	dao shi hou 	c=0 d=0 t=0
+到期 	dao qi 	c=0 d=0 t=0
+到期了 	dao qi le 	c=0 d=0 t=0
+到錢 	dao qian 	c=0 d=0 t=0
+到麼 	dao me 	c=0 d=0 t=0
+制度 	zhi du 	c=0 d=0 t=0
+刷 	shua 	c=0 d=0 t=0
+則 	ze 	c=0 d=0 t=0
+前 	qian 	c=0 d=0 t=0
+前提 	qian ti 	c=0 d=0 t=0
+前提是 	qian ti shi 	c=0 d=0 t=0
+前面 	qian mian 	c=0 d=0 t=0
+剛 	gang 	c=0 d=0 t=0
+剛剛 	gang gang 	c=0 d=0 t=0
+剛好 	gang hao 	c=0 d=0 t=0
+剛換 	gang huan 	c=0 d=0 t=0
+剛買 	gang mai 	c=0 d=0 t=0
+剩下 	sheng xia 	c=0 d=0 t=0
+剪輯 	jian ji 	c=0 d=0 t=0
+創傷 	chuang shang 	c=0 d=0 t=0
+創傷性 	chuang shang xing 	c=0 d=0 t=0
+創始人 	chuang shi ren 	c=0 d=0 t=0
+創意 	chuang yi 	c=0 d=0 t=0
+創新 	chuang xin 	c=0 d=0 t=0
+創業 	chuang ye 	c=0 d=0 t=0
+創造 	chuang zao 	c=0 d=0 t=0
+劇情 	ju qing 	c=0 d=0 t=0
+劇透 	ju tou 	c=0 d=0 t=0
+力 	li 	c=0 d=0 t=0
+力量 	li liang 	c=0 d=0 t=0
+功能 	gong neng 	c=0 d=0 t=0
+加 	jia 	c=0 d=0 t=0
+加上 	jia shang 	c=0 d=0 t=0
+加你 	jia ni 	c=0 d=0 t=0
+加你來 	jia ni lai 	c=0 d=0 t=0
+加倍 	jia bei 	c=0 d=0 t=0
+加入 	jia ru 	c=0 d=0 t=0
+加油 	jia you 	c=0 d=0 t=0
+加這個 	jia zhe ge 	c=0 d=0 t=0
+加速 	jia su 	c=0 d=0 t=0
+加速器 	jia su qi 	c=0 d=0 t=0
+助手 	zhu shou 	c=0 d=0 t=0
+助於 	zhu yu 	c=0 d=0 t=0
+努力 	nu li 	c=0 d=0 t=0
+努力的 	nu li de 	c=0 d=0 t=0
+勇浩 	yong hao 	c=0 d=0 t=0
+動 	dong 	c=0 d=0 t=0
+動力 	dong li 	c=0 d=0 t=0
+動漫 	dong man 	c=0 d=0 t=0
+動漫裏 	dong man li 	c=0 d=0 t=0
+動物 	dong wu 	c=0 d=0 t=0
+動畫 	dong hua 	c=0 d=0 t=0
+動能 	dong neng 	c=0 d=0 t=0
+勝利 	sheng li 	c=0 d=0 t=0
+勞動 	lao dong 	c=0 d=0 t=0
+勢能 	shi neng 	c=0 d=0 t=0
+包 	bao 	c=0 d=0 t=0
+包括 	bao kuo 	c=0 d=0 t=0
+化 	hua 	c=0 d=0 t=0
+化學 	hua xue 	c=0 d=0 t=0
+北 	bei 	c=0 d=0 t=0
+北京 	bei jing 	c=0 d=0 t=0
+區別 	qu bie 	c=0 d=0 t=0
+千 	qian 	c=0 d=0 t=0
+千個 	qian ge 	c=0 d=0 t=0
+千元 	qian yuan 	c=0 d=0 t=0
+千窗 	qian chuang 	c=0 d=0 t=0
+半 	ban 	c=0 d=0 t=0
+半導體 	ban dao ti 	c=0 d=0 t=0
+半死 	ban si 	c=0 d=0 t=0
+半毛錢 	ban mao qian 	c=0 d=0 t=0
+南橋 	nan qiao 	c=0 d=0 t=0
+博客 	bo ke 	c=0 d=0 t=0
+卡 	ka 	c=0 d=0 t=0
+卡勒 	ka le 	c=0 d=0 t=0
+卡扣 	ka kou 	c=0 d=0 t=0
+卡死 	ka si 	c=0 d=0 t=0
+卡的 	ka de 	c=0 d=0 t=0
+印度人 	yin du ren 	c=0 d=0 t=0
+即使 	ji shi 	c=0 d=0 t=0
+即爲 	ji wei 	c=0 d=0 t=0
+即達 	ji da 	c=0 d=0 t=0
+卷子 	juan zi 	c=0 d=0 t=0
+卷子麼 	juan zi me 	c=0 d=0 t=0
+卸載 	xie zai 	c=0 d=0 t=0
+卻 	que 	c=0 d=0 t=0
+卻比 	que bi 	c=0 d=0 t=0
+原作者 	yuan zuo zhe 	c=0 d=0 t=0
+原來 	yuan lai 	c=0 d=0 t=0
+原來是 	yuan lai shi 	c=0 d=0 t=0
+原因 	yuan yin 	c=0 d=0 t=0
+原圖 	yuan tu 	c=0 d=0 t=0
+原地 	yuan di 	c=0 d=0 t=0
+原始 	yuan shi 	c=0 d=0 t=0
+原版 	yuan ban 	c=0 d=0 t=0
+原裝 	yuan zhuang 	c=0 d=0 t=0
+厲害 	li hai 	c=0 d=0 t=0
+去 	qu 	c=0 d=0 t=0
+去了 	qu le 	c=0 d=0 t=0
+去你 	qu ni 	c=0 d=0 t=0
+去做 	qu zuo 	c=0 d=0 t=0
+去大爺 	qu da ye 	c=0 d=0 t=0
+去死吧 	qu si ba 	c=0 d=0 t=0
+參加 	can jia 	c=0 d=0 t=0
+又 	you 	c=0 d=0 t=0
+又不是 	you bu shi 	c=0 d=0 t=0
+又能 	you neng 	c=0 d=0 t=0
+又要 	you yao 	c=0 d=0 t=0
+又說 	you shuo 	c=0 d=0 t=0
+友 	you 	c=0 d=0 t=0
+友好 	you hao 	c=0 d=0 t=0
+友情 	you qing 	c=0 d=0 t=0
+反對 	fan dui 	c=0 d=0 t=0
+反悔 	fan hui 	c=0 d=0 t=0
+反應 	fan ying 	c=0 d=0 t=0
+反正 	fan zheng 	c=0 d=0 t=0
+反駁 	fan bo 	c=0 d=0 t=0
+取 	qu 	c=0 d=0 t=0
+受 	shou 	c=0 d=0 t=0
+受不了 	shou bu le 	c=0 d=0 t=0
+受害者 	shou hai zhe 	c=0 d=0 t=0
+受益 	shou yi 	c=0 d=0 t=0
+受虐 	shou nve 	c=0 d=0 t=0
+受過 	shou guo 	c=0 d=0 t=0
+古代 	gu dai 	c=0 d=0 t=0
+句 	ju 	c=0 d=0 t=0
+另 	ling 	c=0 d=0 t=0
+另一個 	ling yi ge 	c=0 d=0 t=0
+另一種 	ling yi zhong 	c=0 d=0 t=0
+另一臺 	ling yi tai 	c=0 d=0 t=0
+另外 	ling wai 	c=0 d=0 t=0
+只 	zhi 	c=0 d=0 t=0
+只不過 	zhi bu guo 	c=0 d=0 t=0
+只想 	zhi xiang 	c=0 d=0 t=0
+只想讓 	zhi xiang rang 	c=0 d=0 t=0
+只是 	zhi shi 	c=0 d=0 t=0
+只是個 	zhi shi ge 	c=0 d=0 t=0
+只是爲了 	zhi shi wei le 	c=0 d=0 t=0
+只是說 	zhi shi shuo 	c=0 d=0 t=0
+只會 	zhi hui 	c=0 d=0 t=0
+只有 	zhi you 	c=0 d=0 t=0
+只看 	zhi kan 	c=0 d=0 t=0
+只能 	zhi neng 	c=0 d=0 t=0
+只能算 	zhi neng suan 	c=0 d=0 t=0
+只能說 	zhi neng shuo 	c=0 d=0 t=0
+只要 	zhi yao 	c=0 d=0 t=0
+只要是 	zhi yao shi 	c=0 d=0 t=0
+只說 	zhi shuo 	c=0 d=0 t=0
+叫 	jiao 	c=0 d=0 t=0
+叫啥 	jiao sha 	c=0 d=0 t=0
+可 	ke 	c=0 d=0 t=0
+可不是 	ke bu shi 	c=0 d=0 t=0
+可以 	ke yi 	c=0 d=0 t=0
+可以了 	ke yi le 	c=0 d=0 t=0
+可以啊 	ke yi a 	c=0 d=0 t=0
+可以嗎 	ke yi ma 	c=0 d=0 t=0
+可信 	ke xin 	c=0 d=0 t=0
+可悲 	ke bei 	c=0 d=0 t=0
+可惜 	ke xi 	c=0 d=0 t=0
+可比 	ke bi 	c=0 d=0 t=0
+可比這 	ke bi zhe 	c=0 d=0 t=0
+可用 	ke yong 	c=0 d=0 t=0
+可能 	ke neng 	c=0 d=0 t=0
+可能真 	ke neng zhen 	c=0 d=0 t=0
+可還行 	ke hai xing 	c=0 d=0 t=0
+史上 	shi shang 	c=0 d=0 t=0
+右 	you 	c=0 d=0 t=0
+右鍵 	you jian 	c=0 d=0 t=0
+吃 	chi 	c=0 d=0 t=0
+吃啥 	chi sha 	c=0 d=0 t=0
+吃完飯 	chi wan fan 	c=0 d=0 t=0
+吃得 	chi de 	c=0 d=0 t=0
+吃得飯 	chi de fan 	c=0 d=0 t=0
+吃飯 	chi fan 	c=0 d=0 t=0
+吃飯了 	chi fan le 	c=0 d=0 t=0
+吃飯去了 	chi fan qu le 	c=0 d=0 t=0
+各區 	ge qu 	c=0 d=0 t=0
+各樣 	ge yang 	c=0 d=0 t=0
+各種 	ge zhong 	c=0 d=0 t=0
+合拍 	he pai 	c=0 d=0 t=0
+合理 	he li 	c=0 d=0 t=0
+吊 	diao 	c=0 d=0 t=0
+同 	tong 	c=0 d=0 t=0
+同一 	tong yi 	c=0 d=0 t=0
+同一種 	tong yi zhong 	c=0 d=0 t=0
+同學 	tong xue 	c=0 d=0 t=0
+同性戀 	tong xing lian 	c=0 d=0 t=0
+同意 	tong yi 	c=0 d=0 t=0
+同文 	tong wen 	c=0 d=0 t=0
+名 	ming 	c=0 d=0 t=0
+名作 	ming zuo 	c=0 d=0 t=0
+名字 	ming zi 	c=0 d=0 t=0
+名字的 	ming zi de 	c=0 d=0 t=0
+吐 	tu 	c=0 d=0 t=0
+吐出來 	tu chu lai 	c=0 d=0 t=0
+吐曹 	tu cao 	c=0 d=0 t=0
+向 	xiang 	c=0 d=0 t=0
+向我 	xiang wo 	c=0 d=0 t=0
+君 	jun 	c=0 d=0 t=0
+吧 	ba 	c=0 d=0 t=0
+吸 	xi 	c=0 d=0 t=0
+吹 	chui 	c=0 d=0 t=0
+吹得 	chui de 	c=0 d=0 t=0
+吹爆 	chui bao 	c=0 d=0 t=0
+呀 	ya 	c=0 d=0 t=0
+呃 	e 	c=0 d=0 t=0
+呆在 	dai zai 	c=0 d=0 t=0
+告上 	gao shang 	c=0 d=0 t=0
+告訴 	gao su 	c=0 d=0 t=0
+告訴我 	gao su wo 	c=0 d=0 t=0
+告訴我們 	gao su wo men 	c=0 d=0 t=0
+呢 	ne 	c=0 d=0 t=0
+呢個 	ne ge 	c=0 d=0 t=0
+呢就 	ne jiu 	c=0 d=0 t=0
+呢張 	ne zhang 	c=0 d=0 t=0
+呢張圖 	ne zhang tu 	c=0 d=0 t=0
+呢時候 	ne shi hou 	c=0 d=0 t=0
+呢這 	ne zhe 	c=0 d=0 t=0
+呢麼 	ne me 	c=0 d=0 t=0
+呢麼多了 	ne me duo le 	c=0 d=0 t=0
+周 	zhou 	c=0 d=0 t=0
+周知 	zhou zhi 	c=0 d=0 t=0
+呼 	hu 	c=0 d=0 t=0
+命令 	ming ling 	c=0 d=0 t=0
+命運 	ming yun 	c=0 d=0 t=0
+咋 	za 	c=0 d=0 t=0
+咋了 	za le 	c=0 d=0 t=0
+咋寫 	za xie 	c=0 d=0 t=0
+咋就 	za jiu 	c=0 d=0 t=0
+咋搞 	za gao 	c=0 d=0 t=0
+咋改 	za gai 	c=0 d=0 t=0
+咋改啊 	za gai a 	c=0 d=0 t=0
+咋攻 	za gong 	c=0 d=0 t=0
+咋死的 	za si de 	c=0 d=0 t=0
+咋種 	za zhong 	c=0 d=0 t=0
+咋統計 	za tong ji 	c=0 d=0 t=0
+咋裝 	za zhuang 	c=0 d=0 t=0
+咋跑了 	za pao le 	c=0 d=0 t=0
+咋辦 	za ban 	c=0 d=0 t=0
+咋還 	za hai 	c=0 d=0 t=0
+咋開 	za kai 	c=0 d=0 t=0
+和 	he 	c=0 d=0 t=0
+和一個 	he yi ge 	c=0 d=0 t=0
+和你 	he ni 	c=0 d=0 t=0
+和平 	he ping 	c=0 d=0 t=0
+和平獎 	he ping jiang 	c=0 d=0 t=0
+和性 	he xing 	c=0 d=0 t=0
+和我 	he wo 	c=0 d=0 t=0
+和諧 	he xie 	c=0 d=0 t=0
+咖啡 	ka fei 	c=0 d=0 t=0
+咩 	mie 	c=0 d=0 t=0
+咱 	zan 	c=0 d=0 t=0
+咱班 	zan ban 	c=0 d=0 t=0
+咱能不能 	zan neng bu neng 	c=0 d=0 t=0
+品控 	pin kong 	c=0 d=0 t=0
+哇 	wa 	c=0 d=0 t=0
+哈 	ha 	c=0 d=0 t=0
+哈哈 	ha ha 	c=0 d=0 t=0
+哈哈哈 	ha ha ha 	c=0 d=0 t=0
+哈哈哈哈 	ha ha ha ha 	c=0 d=0 t=0
+哈姆雷特 	ha mu lei te 	c=0 d=0 t=0
+哈皮 	ha pi 	c=0 d=0 t=0
+員 	yuan 	c=0 d=0 t=0
+哥 	ge 	c=0 d=0 t=0
+哥哥 	ge ge 	c=0 d=0 t=0
+哦 	o 	c=0 d=0 t=0
+哭 	ku 	c=0 d=0 t=0
+哭沒 	ku mei 	c=0 d=0 t=0
+唄 	bei 	c=0 d=0 t=0
+唉 	ai 	c=0 d=0 t=0
+售後 	shou hou 	c=0 d=0 t=0
+唯一 	wei yi 	c=0 d=0 t=0
+啃 	ken 	c=0 d=0 t=0
+商 	shang 	c=0 d=0 t=0
+商家 	shang jia 	c=0 d=0 t=0
+商店 	shang dian 	c=0 d=0 t=0
+商業 	shang ye 	c=0 d=0 t=0
+商討 	shang tao 	c=0 d=0 t=0
+啊 	a 	c=0 d=0 t=0
+啊啊 	a a 	c=0 d=0 t=0
+啊啊啊 	a a a 	c=0 d=0 t=0
+啊啊啊啊 	a a a a 	c=0 d=0 t=0
+問 	wen 	c=0 d=0 t=0
+問下 	wen xia 	c=0 d=0 t=0
+問問 	wen wen 	c=0 d=0 t=0
+問得 	wen de 	c=0 d=0 t=0
+問都 	wen dou 	c=0 d=0 t=0
+問題 	wen ti 	c=0 d=0 t=0
+問題了 	wen ti le 	c=0 d=0 t=0
+問題呢 	wen ti ne 	c=0 d=0 t=0
+問題是 	wen ti shi 	c=0 d=0 t=0
+啓動 	qi dong 	c=0 d=0 t=0
+啓動的 	qi dong de 	c=0 d=0 t=0
+啓用 	qi yong 	c=0 d=0 t=0
+啓用了 	qi yong le 	c=0 d=0 t=0
+啥 	sha 	c=0 d=0 t=0
+啥了 	sha le 	c=0 d=0 t=0
+啥來着 	sha lai zhe 	c=0 d=0 t=0
+啥啊 	sha a 	c=0 d=0 t=0
+啥子 	sha zi 	c=0 d=0 t=0
+啥意思 	sha yi si 	c=0 d=0 t=0
+啥時候 	sha shi hou 	c=0 d=0 t=0
+啥版本 	sha ban ben 	c=0 d=0 t=0
+啥的 	sha de 	c=0 d=0 t=0
+啥的麼 	sha de me 	c=0 d=0 t=0
+啥都 	sha dou 	c=0 d=0 t=0
+啥類型 	sha lei xing 	c=0 d=0 t=0
+啦 	la 	c=0 d=0 t=0
+啦啦 	la la 	c=0 d=0 t=0
+喀 	ka 	c=0 d=0 t=0
+喊 	han 	c=0 d=0 t=0
+喜愛 	xi ai 	c=0 d=0 t=0
+喜歡 	xi huan 	c=0 d=0 t=0
+喝茶 	he cha 	c=0 d=0 t=0
+單元 	dan yuan 	c=0 d=0 t=0
+單純 	dan chun 	c=0 d=0 t=0
+喲 	yo 	c=0 d=0 t=0
+嗯 	en 	c=0 d=0 t=0
+嗲 	dia 	c=0 d=0 t=0
+嘉興 	jia xing 	c=0 d=0 t=0
+嘗試 	chang shi 	c=0 d=0 t=0
+嘗試麼 	chang shi me 	c=0 d=0 t=0
+嘛 	ma 	c=0 d=0 t=0
+嘲諷 	chao feng 	c=0 d=0 t=0
+嘴 	zui 	c=0 d=0 t=0
+嘿 	hei 	c=0 d=0 t=0
+噁心 	e xin 	c=0 d=0 t=0
+器 	qi 	c=0 d=0 t=0
+器官 	qi guan 	c=0 d=0 t=0
+噹噹 	dang dang 	c=0 d=0 t=0
+嚐 	chang 	c=0 d=0 t=0
+嚴重 	yan zhong 	c=0 d=0 t=0
+四 	si 	c=0 d=0 t=0
+回 	hui 	c=0 d=0 t=0
+回來 	hui lai 	c=0 d=0 t=0
+回我 	hui wo 	c=0 d=0 t=0
+回放 	hui fang 	c=0 d=0 t=0
+回答 	hui da 	c=0 d=0 t=0
+回覆 	hui fu 	c=0 d=0 t=0
+因爲 	yin wei 	c=0 d=0 t=0
+因爲它 	yin wei ta 	c=0 d=0 t=0
+因素 	yin su 	c=0 d=0 t=0
+固件 	gu jian 	c=0 d=0 t=0
+圈 	quan 	c=0 d=0 t=0
+圈的 	quan de 	c=0 d=0 t=0
+圈錢 	quan qian 	c=0 d=0 t=0
+國 	guo 	c=0 d=0 t=0
+國內 	guo nei 	c=0 d=0 t=0
+國外 	guo wai 	c=0 d=0 t=0
+國家 	guo jia 	c=0 d=0 t=0
+國產 	guo chan 	c=0 d=0 t=0
+國際 	guo ji 	c=0 d=0 t=0
+圖 	tu 	c=0 d=0 t=0
+圖庫 	tu ku 	c=0 d=0 t=0
+圖方便 	tu fang bian 	c=0 d=0 t=0
+圖標 	tu biao 	c=0 d=0 t=0
+圖片 	tu pian 	c=0 d=0 t=0
+團 	tuan 	c=0 d=0 t=0
+團隊 	tuan dui 	c=0 d=0 t=0
+土豪 	tu hao 	c=0 d=0 t=0
+在 	zai 	c=0 d=0 t=0
+在一堆 	zai yi dui 	c=0 d=0 t=0
+在一起 	zai yi qi 	c=0 d=0 t=0
+在乎 	zai hu 	c=0 d=0 t=0
+在任何 	zai ren he 	c=0 d=0 t=0
+在做 	zai zuo 	c=0 d=0 t=0
+在哪 	zai na 	c=0 d=0 t=0
+在國內 	zai guo nei 	c=0 d=0 t=0
+在意 	zai yi 	c=0 d=0 t=0
+在拍 	zai pai 	c=0 d=0 t=0
+在用 	zai yong 	c=0 d=0 t=0
+在網絡上 	zai wang luo shang 	c=0 d=0 t=0
+在這 	zai zhe 	c=0 d=0 t=0
+在這裏 	zai zhe li 	c=0 d=0 t=0
+在麼 	zai me 	c=0 d=0 t=0
+地 	di 	c=0 d=0 t=0
+地三段 	di san duan 	c=0 d=0 t=0
+地下 	di xia 	c=0 d=0 t=0
+地位 	di wei 	c=0 d=0 t=0
+地區 	di qu 	c=0 d=0 t=0
+地址 	di zhi 	c=0 d=0 t=0
+地方 	di fang 	c=0 d=0 t=0
+地球 	di qiu 	c=0 d=0 t=0
+坐 	zuo 	c=0 d=0 t=0
+坐在 	zuo zai 	c=0 d=0 t=0
+坐着 	zuo zhe 	c=0 d=0 t=0
+垃圾 	la ji 	c=0 d=0 t=0
+垃圾人 	la ji ren 	c=0 d=0 t=0
+型號 	xing hao 	c=0 d=0 t=0
+域 	yu 	c=0 d=0 t=0
+域名 	yu ming 	c=0 d=0 t=0
+執行力 	zhi xing li 	c=0 d=0 t=0
+基因 	ji yin 	c=0 d=0 t=0
+基於 	ji yu 	c=0 d=0 t=0
+基本上 	ji ben shang 	c=0 d=0 t=0
+堀 	jue 	c=0 d=0 t=0
+堅果 	jian guo 	c=0 d=0 t=0
+堆 	dui 	c=0 d=0 t=0
+報名 	bao ming 	c=0 d=0 t=0
+報名號 	bao ming hao 	c=0 d=0 t=0
+報應 	bao ying 	c=0 d=0 t=0
+報錯 	bao cuo 	c=0 d=0 t=0
+場合 	chang he 	c=0 d=0 t=0
+場景 	chang jing 	c=0 d=0 t=0
+堵住 	du zhu 	c=0 d=0 t=0
+塊 	kuai 	c=0 d=0 t=0
+塔 	ta 	c=0 d=0 t=0
+壁紙 	bi zhi 	c=0 d=0 t=0
+壓 	ya 	c=0 d=0 t=0
+壓力 	ya li 	c=0 d=0 t=0
+壓根 	ya gen 	c=0 d=0 t=0
+壞 	huai 	c=0 d=0 t=0
+壞處 	huai chu 	c=0 d=0 t=0
+夏 	xia 	c=0 d=0 t=0
+外 	wai 	c=0 d=0 t=0
+外國 	wai guo 	c=0 d=0 t=0
+外網 	wai wang 	c=0 d=0 t=0
+外號 	wai hao 	c=0 d=0 t=0
+外面 	wai mian 	c=0 d=0 t=0
+多 	duo 	c=0 d=0 t=0
+多久 	duo jiu 	c=0 d=0 t=0
+多了 	duo le 	c=0 d=0 t=0
+多人 	duo ren 	c=0 d=0 t=0
+多個 	duo ge 	c=0 d=0 t=0
+多刷 	duo shua 	c=0 d=0 t=0
+多多 	duo duo 	c=0 d=0 t=0
+多大 	duo da 	c=0 d=0 t=0
+多大的 	duo da de 	c=0 d=0 t=0
+多少個 	duo shao ge 	c=0 d=0 t=0
+多少錢 	duo shao qian 	c=0 d=0 t=0
+多巴胺 	duo ba an 	c=0 d=0 t=0
+多幫 	duo bang 	c=0 d=0 t=0
+多月 	duo yue 	c=0 d=0 t=0
+多玩 	duo wan 	c=0 d=0 t=0
+多看 	duo kan 	c=0 d=0 t=0
+多等會 	duo deng hui 	c=0 d=0 t=0
+多閒 	duo xian 	c=0 d=0 t=0
+多麼 	duo me 	c=0 d=0 t=0
+夠 	gou 	c=0 d=0 t=0
+夠用 	gou yong 	c=0 d=0 t=0
+夢 	meng 	c=0 d=0 t=0
+夢寐 	meng mei 	c=0 d=0 t=0
+夢幻 	meng huan 	c=0 d=0 t=0
+夢想 	meng xiang 	c=0 d=0 t=0
+夢見 	meng jian 	c=0 d=0 t=0
+大 	da 	c=0 d=0 t=0
+大不了 	da bu liao 	c=0 d=0 t=0
+大佬 	da lao 	c=0 d=0 t=0
+大多 	da duo 	c=0 d=0 t=0
+大多數 	da duo shu 	c=0 d=0 t=0
+大多數人 	da duo shu ren 	c=0 d=0 t=0
+大家 	da jia 	c=0 d=0 t=0
+大小 	da xiao 	c=0 d=0 t=0
+大戰 	da zhan 	c=0 d=0 t=0
+大於 	da yu 	c=0 d=0 t=0
+大會 	da hui 	c=0 d=0 t=0
+大會員 	da hui yuan 	c=0 d=0 t=0
+大概 	da gai 	c=0 d=0 t=0
+大流 	da liu 	c=0 d=0 t=0
+大爆炸 	da bao zha 	c=0 d=0 t=0
+大爺 	da ye 	c=0 d=0 t=0
+大病 	da bing 	c=0 d=0 t=0
+大腦 	da nao 	c=0 d=0 t=0
+大衆 	da zhong 	c=0 d=0 t=0
+大麼 	da me 	c=0 d=0 t=0
+天 	tian 	c=0 d=0 t=0
+天壇 	tian tan 	c=0 d=0 t=0
+天天 	tian tian 	c=0 d=0 t=0
+天才 	tian cai 	c=0 d=0 t=0
+天氣 	tian qi 	c=0 d=0 t=0
+天王 	tian wang 	c=0 d=0 t=0
+天皇 	tian huang 	c=0 d=0 t=0
+天空 	tian kong 	c=0 d=0 t=0
+太 	tai 	c=0 d=0 t=0
+太亂 	tai luan 	c=0 d=0 t=0
+太亂了 	tai luan le 	c=0 d=0 t=0
+太低 	tai di 	c=0 d=0 t=0
+太厲害 	tai li hai 	c=0 d=0 t=0
+太多 	tai duo 	c=0 d=0 t=0
+太好 	tai hao 	c=0 d=0 t=0
+太好笑 	tai hao xiao 	c=0 d=0 t=0
+太弱 	tai ruo 	c=0 d=0 t=0
+太弱小了 	tai ruo xiao le 	c=0 d=0 t=0
+太慘了 	tai can le 	c=0 d=0 t=0
+太慢 	tai man 	c=0 d=0 t=0
+太極 	tai ji 	c=0 d=0 t=0
+太貴 	tai gui 	c=0 d=0 t=0
+太重 	tai zhong 	c=0 d=0 t=0
+太長 	tai chang 	c=0 d=0 t=0
+太長了 	tai chang le 	c=0 d=0 t=0
+太麻煩 	tai ma fan 	c=0 d=0 t=0
+太麻煩了 	tai ma fan le 	c=0 d=0 t=0
+夫 	fu 	c=0 d=0 t=0
+夾 	jia 	c=0 d=0 t=0
+奇妙 	qi miao 	c=0 d=0 t=0
+奇怪 	qi guai 	c=0 d=0 t=0
+奇蛋 	qi dan 	c=0 d=0 t=0
+奪偶 	duo ou 	c=0 d=0 t=0
+女 	nv 	c=0 d=0 t=0
+女主 	nv zhu 	c=0 d=0 t=0
+女性 	nv xing 	c=0 d=0 t=0
+女朋友 	nv peng you 	c=0 d=0 t=0
+女生 	nv sheng 	c=0 d=0 t=0
+她 	ta 	c=0 d=0 t=0
+她的 	ta de 	c=0 d=0 t=0
+好 	hao 	c=0 d=0 t=0
+好不好 	hao bu hao 	c=0 d=0 t=0
+好了 	hao le 	c=0 d=0 t=0
+好了嘛 	hao le ma 	c=0 d=0 t=0
+好人 	hao ren 	c=0 d=0 t=0
+好人卡 	hao ren ka 	c=0 d=0 t=0
+好傢伙 	hao jia huo 	c=0 d=0 t=0
+好像 	hao xiang 	c=0 d=0 t=0
+好吧 	hao ba 	c=0 d=0 t=0
+好在 	hao zai 	c=0 d=0 t=0
+好多 	hao duo 	c=0 d=0 t=0
+好多了 	hao duo le 	c=0 d=0 t=0
+好好 	hao hao 	c=0 d=0 t=0
+好意 	hao yi 	c=0 d=0 t=0
+好感 	hao gan 	c=0 d=0 t=0
+好玩 	hao wan 	c=0 d=0 t=0
+好的 	hao de 	c=0 d=0 t=0
+好看 	hao kan 	c=0 d=0 t=0
+好看的 	hao kan de 	c=0 d=0 t=0
+好笑 	hao xiao 	c=0 d=0 t=0
+好耶 	hao ye 	c=0 d=0 t=0
+好處 	hao chu 	c=0 d=0 t=0
+好處麼 	hao chu me 	c=0 d=0 t=0
+好評 	hao ping 	c=0 d=0 t=0
+如 	ru 	c=0 d=0 t=0
+如何 	ru he 	c=0 d=0 t=0
+如你 	ru ni 	c=0 d=0 t=0
+如果 	ru guo 	c=0 d=0 t=0
+如此 	ru ci 	c=0 d=0 t=0
+妄想 	wang xiang 	c=0 d=0 t=0
+妥協 	tuo xie 	c=0 d=0 t=0
+妨礙 	fang ai 	c=0 d=0 t=0
+姿勢 	zi shi 	c=0 d=0 t=0
+娘 	niang 	c=0 d=0 t=0
+婚姻 	hun yin 	c=0 d=0 t=0
+媽 	ma 	c=0 d=0 t=0
+媽媽 	ma ma 	c=0 d=0 t=0
+嫁接 	jia jie 	c=0 d=0 t=0
+嫂 	sao 	c=0 d=0 t=0
+子 	zi 	c=0 d=0 t=0
+子彈 	zi dan 	c=0 d=0 t=0
+字 	zi 	c=0 d=0 t=0
+字節 	zi jie 	c=0 d=0 t=0
+字體 	zi ti 	c=0 d=0 t=0
+存 	cun 	c=0 d=0 t=0
+存在 	cun zai 	c=0 d=0 t=0
+存檔 	cun dang 	c=0 d=0 t=0
+存着 	cun zhe 	c=0 d=0 t=0
+孝敬 	xiao jing 	c=0 d=0 t=0
+孩子 	hai zi 	c=0 d=0 t=0
+孩子是 	hai zi shi 	c=0 d=0 t=0
+學 	xue 	c=0 d=0 t=0
+學會 	xue hui 	c=0 d=0 t=0
+學期 	xue qi 	c=0 d=0 t=0
+學校 	xue xiao 	c=0 d=0 t=0
+學生 	xue sheng 	c=0 d=0 t=0
+學生卡 	xue sheng ka 	c=0 d=0 t=0
+學的 	xue de 	c=0 d=0 t=0
+學籍卡 	xue ji ka 	c=0 d=0 t=0
+學習 	xue xi 	c=0 d=0 t=0
+學習呢 	xue xi ne 	c=0 d=0 t=0
+學點 	xue dian 	c=0 d=0 t=0
+學點啥 	xue dian sha 	c=0 d=0 t=0
+它 	ta 	c=0 d=0 t=0
+它用的 	ta yong de 	c=0 d=0 t=0
+宇 	yu 	c=0 d=0 t=0
+宇宙 	yu zhou 	c=0 d=0 t=0
+宇昂 	yu ang 	c=0 d=0 t=0
+安 	an 	c=0 d=0 t=0
+安兔兔 	an tu tu 	c=0 d=0 t=0
+安全 	an quan 	c=0 d=0 t=0
+安卓 	an zhuo 	c=0 d=0 t=0
+安裝 	an zhuang 	c=0 d=0 t=0
+安這個 	an zhe ge 	c=0 d=0 t=0
+完 	wan 	c=0 d=0 t=0
+完了 	wan le 	c=0 d=0 t=0
+完事 	wan shi 	c=0 d=0 t=0
+完事了 	wan shi le 	c=0 d=0 t=0
+完全 	wan quan 	c=0 d=0 t=0
+完整 	wan zheng 	c=0 d=0 t=0
+完美 	wan mei 	c=0 d=0 t=0
+宗素 	zong su 	c=0 d=0 t=0
+官方 	guan fang 	c=0 d=0 t=0
+官方的 	guan fang de 	c=0 d=0 t=0
+官網 	guan wang 	c=0 d=0 t=0
+定時 	ding shi 	c=0 d=0 t=0
+定義 	ding yi 	c=0 d=0 t=0
+定製 	ding zhi 	c=0 d=0 t=0
+客服 	ke fu 	c=0 d=0 t=0
+宣泄 	xuan xie 	c=0 d=0 t=0
+宮 	gong 	c=0 d=0 t=0
+害怕 	hai pa 	c=0 d=0 t=0
+家 	jia 	c=0 d=0 t=0
+家裏 	jia li 	c=0 d=0 t=0
+容忍 	rong ren 	c=0 d=0 t=0
+容量 	rong liang 	c=0 d=0 t=0
+寂寞 	ji mo 	c=0 d=0 t=0
+密碼 	mi ma 	c=0 d=0 t=0
+富婆 	fu po 	c=0 d=0 t=0
+富有 	fu you 	c=0 d=0 t=0
+實在是 	shi zai shi 	c=0 d=0 t=0
+實惠 	shi hui 	c=0 d=0 t=0
+實踐 	shi jian 	c=0 d=0 t=0
+實際 	shi ji 	c=0 d=0 t=0
+實際上 	shi ji shang 	c=0 d=0 t=0
+實體 	shi ti 	c=0 d=0 t=0
+寧靜 	ning jing 	c=0 d=0 t=0
+審判 	shen pan 	c=0 d=0 t=0
+寫 	xie 	c=0 d=0 t=0
+寫作業 	xie zuo ye 	c=0 d=0 t=0
+寫到 	xie dao 	c=0 d=0 t=0
+寫呢 	xie ne 	c=0 d=0 t=0
+寫的 	xie de 	c=0 d=0 t=0
+寵物 	chong wu 	c=0 d=0 t=0
+寶 	bao 	c=0 d=0 t=0
+封了 	feng le 	c=0 d=0 t=0
+封殺 	feng sha 	c=0 d=0 t=0
+封號 	feng hao 	c=0 d=0 t=0
+封號了 	feng hao le 	c=0 d=0 t=0
+封閉 	feng bi 	c=0 d=0 t=0
+將 	jiang 	c=0 d=0 t=0
+將就 	jiang jiu 	c=0 d=0 t=0
+專業 	zhuan ye 	c=0 d=0 t=0
+專門 	zhuan men 	c=0 d=0 t=0
+尊重 	zun zhong 	c=0 d=0 t=0
+尋 	xun 	c=0 d=0 t=0
+對 	dui 	c=0 d=0 t=0
+對不對 	dui bu dui 	c=0 d=0 t=0
+對吧 	dui ba 	c=0 d=0 t=0
+對啊 	dui a 	c=0 d=0 t=0
+對我 	dui wo 	c=0 d=0 t=0
+對於 	dui yu 	c=0 d=0 t=0
+導致 	dao zhi 	c=0 d=0 t=0
+導航 	dao hang 	c=0 d=0 t=0
+小 	xiao 	c=0 d=0 t=0
+小丑 	xiao chou 	c=0 d=0 t=0
+小了 	xiao le 	c=0 d=0 t=0
+小兒 	xiao er 	c=0 d=0 t=0
+小圈子 	xiao quan zi 	c=0 d=0 t=0
+小時 	xiao shi 	c=0 d=0 t=0
+小時候 	xiao shi hou 	c=0 d=0 t=0
+小米 	xiao mi 	c=0 d=0 t=0
+小羊 	xiao yang 	c=0 d=0 t=0
+小號 	xiao hao 	c=0 d=0 t=0
+小衆 	xiao zhong 	c=0 d=0 t=0
+小貓 	xiao mao 	c=0 d=0 t=0
+小鬼 	xiao gui 	c=0 d=0 t=0
+小魚 	xiao yu 	c=0 d=0 t=0
+小魚板 	xiao yu ban 	c=0 d=0 t=0
+小鮮 	xiao xian 	c=0 d=0 t=0
+小黑 	xiao hei 	c=0 d=0 t=0
+少 	shao 	c=0 d=0 t=0
+少打 	shao da 	c=0 d=0 t=0
+就 	jiu 	c=0 d=0 t=0
+就不會 	jiu bu hui 	c=0 d=0 t=0
+就像 	jiu xiang 	c=0 d=0 t=0
+就和 	jiu he 	c=0 d=0 t=0
+就成 	jiu cheng 	c=0 d=0 t=0
+就是 	jiu shi 	c=0 d=0 t=0
+尷尬 	gan ga 	c=0 d=0 t=0
+尿道 	niao dao 	c=0 d=0 t=0
+屁股 	pi gu 	c=0 d=0 t=0
+屁股肉 	pi gu rou 	c=0 d=0 t=0
+居然 	ju ran 	c=0 d=0 t=0
+屈 	qu 	c=0 d=0 t=0
+屏幕 	ping mu 	c=0 d=0 t=0
+屏蔽 	ping bi 	c=0 d=0 t=0
+屬性 	shu xing 	c=0 d=0 t=0
+崔 	cui 	c=0 d=0 t=0
+崗巴 	gang ba 	c=0 d=0 t=0
+崗巴得 	gang ba dei 	c=0 d=0 t=0
+崩 	beng 	c=0 d=0 t=0
+崩了 	beng le 	c=0 d=0 t=0
+崩潰 	beng kui 	c=0 d=0 t=0
+工作 	gong zuo 	c=0 d=0 t=0
+工具 	gong ju 	c=0 d=0 t=0
+工具人 	gong ju ren 	c=0 d=0 t=0
+工資 	gong zi 	c=0 d=0 t=0
+左 	zuo 	c=0 d=0 t=0
+左上角 	zuo shang jiao 	c=0 d=0 t=0
+左側 	zuo ce 	c=0 d=0 t=0
+左右 	zuo you 	c=0 d=0 t=0
+巨早 	ju zao 	c=0 d=0 t=0
+差 	cha 	c=0 d=0 t=0
+差不多 	cha bu duo 	c=0 d=0 t=0
+差別 	cha bie 	c=0 d=0 t=0
+差得 	cha de 	c=0 d=0 t=0
+差點 	cha dian 	c=0 d=0 t=0
+已 	yi 	c=0 d=0 t=0
+已經 	yi jing 	c=0 d=0 t=0
+巴 	ba 	c=0 d=0 t=0
+市 	shi 	c=0 d=0 t=0
+市民 	shi min 	c=0 d=0 t=0
+希 	xi 	c=0 d=0 t=0
+希望 	xi wang 	c=0 d=0 t=0
+師 	shi 	c=0 d=0 t=0
+帳號 	zhang hao 	c=0 d=0 t=0
+帶 	dai 	c=0 d=0 t=0
+帶上 	dai shang 	c=0 d=0 t=0
+帶上過 	dai shang guo 	c=0 d=0 t=0
+帶來 	dai lai 	c=0 d=0 t=0
+帶有 	dai you 	c=0 d=0 t=0
+帶着 	dai zhe 	c=0 d=0 t=0
+常見 	chang jian 	c=0 d=0 t=0
+常駐 	chang zhu 	c=0 d=0 t=0
+幣 	bi 	c=0 d=0 t=0
+幫 	bang 	c=0 d=0 t=0
+幫你 	bang ni 	c=0 d=0 t=0
+幫你做 	bang ni zuo 	c=0 d=0 t=0
+幫她 	bang ta 	c=0 d=0 t=0
+幫我 	bang wo 	c=0 d=0 t=0
+平均 	ping jun 	c=0 d=0 t=0
+平時 	ping shi 	c=0 d=0 t=0
+平權 	ping quan 	c=0 d=0 t=0
+平等 	ping deng 	c=0 d=0 t=0
+平臺 	ping tai 	c=0 d=0 t=0
+平鋪 	ping pu 	c=0 d=0 t=0
+平靜 	ping jing 	c=0 d=0 t=0
+年 	nian 	c=0 d=0 t=0
+年代 	nian dai 	c=0 d=0 t=0
+年前 	nian qian 	c=0 d=0 t=0
+年輕 	nian qing 	c=0 d=0 t=0
+年齡 	nian ling 	c=0 d=0 t=0
+幹 	gan 	c=0 d=0 t=0
+幹啥 	gan sha 	c=0 d=0 t=0
+幹嘛 	gan ma 	c=0 d=0 t=0
+幹點 	gan dian 	c=0 d=0 t=0
+幹點啥 	gan dian sha 	c=0 d=0 t=0
+幼女 	you nv 	c=0 d=0 t=0
+幾乎 	ji hu 	c=0 d=0 t=0
+幾代 	ji dai 	c=0 d=0 t=0
+幾個 	ji ge 	c=0 d=0 t=0
+幾個媽 	ji ge ma 	c=0 d=0 t=0
+幾個字 	ji ge zi 	c=0 d=0 t=0
+幾十 	ji shi 	c=0 d=0 t=0
+幾天 	ji tian 	c=0 d=0 t=0
+幾年 	ji nian 	c=0 d=0 t=0
+幾歲 	ji sui 	c=0 d=0 t=0
+幾部 	ji bu 	c=0 d=0 t=0
+幾點 	ji dian 	c=0 d=0 t=0
+幾點到 	ji dian dao 	c=0 d=0 t=0
+度 	du 	c=0 d=0 t=0
+座 	zuo 	c=0 d=0 t=0
+庫 	ku 	c=0 d=0 t=0
+庭宇 	ting yu 	c=0 d=0 t=0
+庭院 	ting yuan 	c=0 d=0 t=0
+康康 	kang kang 	c=0 d=0 t=0
+廣告 	guang gao 	c=0 d=0 t=0
+延續 	yan xu 	c=0 d=0 t=0
+延遲 	yan chi 	c=0 d=0 t=0
+建模 	jian mo 	c=0 d=0 t=0
+建立 	jian li 	c=0 d=0 t=0
+建立在 	jian li zai 	c=0 d=0 t=0
+建議 	jian yi 	c=0 d=0 t=0
+弄 	nong 	c=0 d=0 t=0
+式 	shi 	c=0 d=0 t=0
+引導 	yin dao 	c=0 d=0 t=0
+引擎 	yin qing 	c=0 d=0 t=0
+引用 	yin yong 	c=0 d=0 t=0
+引用下 	yin yong xia 	c=0 d=0 t=0
+引發 	yin fa 	c=0 d=0 t=0
+引號 	yin hao 	c=0 d=0 t=0
+引體 	yin ti 	c=0 d=0 t=0
+弧長 	hu chang 	c=0 d=0 t=0
+強 	qiang 	c=0 d=0 t=0
+強制 	qiang zhi 	c=0 d=0 t=0
+強大 	qiang da 	c=0 d=0 t=0
+強姦 	qiang jian 	c=0 d=0 t=0
+強暴 	qiang bao 	c=0 d=0 t=0
+強行 	qiang xing 	c=0 d=0 t=0
+強調 	qiang diao 	c=0 d=0 t=0
+彈幕 	dan mu 	c=0 d=0 t=0
+形式 	xing shi 	c=0 d=0 t=0
+彩本 	cai ben 	c=0 d=0 t=0
+彩票 	cai piao 	c=0 d=0 t=0
+彭 	peng 	c=0 d=0 t=0
+影視 	ying shi 	c=0 d=0 t=0
+影響 	ying xiang 	c=0 d=0 t=0
+彷彿 	fang fu 	c=0 d=0 t=0
+往下 	wang xia 	c=0 d=0 t=0
+待 	dai 	c=0 d=0 t=0
+很 	hen 	c=0 d=0 t=0
+很不 	hen bu 	c=0 d=0 t=0
+很不合適 	hen bu he shi 	c=0 d=0 t=0
+很不禮貌 	hen bu li mao 	c=0 d=0 t=0
+很享受 	hen xiang shou 	c=0 d=0 t=0
+很喜歡 	hen xi huan 	c=0 d=0 t=0
+很多 	hen duo 	c=0 d=0 t=0
+很大 	hen da 	c=0 d=0 t=0
+很奇怪 	hen qi guai 	c=0 d=0 t=0
+很好 	hen hao 	c=0 d=0 t=0
+很容易 	hen rong yi 	c=0 d=0 t=0
+很少 	hen shao 	c=0 d=0 t=0
+很快 	hen kuai 	c=0 d=0 t=0
+很想 	hen xiang 	c=0 d=0 t=0
+很慘 	hen can 	c=0 d=0 t=0
+很懂 	hen dong 	c=0 d=0 t=0
+很抱歉 	hen bao qian 	c=0 d=0 t=0
+很明顯 	hen ming xian 	c=0 d=0 t=0
+很有 	hen you 	c=0 d=0 t=0
+很沒 	hen mei 	c=0 d=0 t=0
+很清楚 	hen qing chu 	c=0 d=0 t=0
+很煩 	hen fan 	c=0 d=0 t=0
+很生氣 	hen sheng qi 	c=0 d=0 t=0
+很簡單 	hen jian dan 	c=0 d=0 t=0
+很累 	hen lei 	c=0 d=0 t=0
+很老 	hen lao 	c=0 d=0 t=0
+很能 	hen neng 	c=0 d=0 t=0
+很難受 	hen nan shou 	c=0 d=0 t=0
+後 	hou 	c=0 d=0 t=0
+後來 	hou lai 	c=0 d=0 t=0
+後天 	hou tian 	c=0 d=0 t=0
+後期 	hou qi 	c=0 d=0 t=0
+後繼有人 	hou ji you ren 	c=0 d=0 t=0
+後置 	hou zhi 	c=0 d=0 t=0
+後臺 	hou tai 	c=0 d=0 t=0
+後遺症 	hou yi zheng 	c=0 d=0 t=0
+後面 	hou mian 	c=0 d=0 t=0
+得 	de 	c=0 d=0 t=0
+得 	dei 	c=0 d=0 t=0
+得了 	de le 	c=0 d=0 t=0
+得人 	de ren 	c=0 d=0 t=0
+得到 	de dao 	c=0 d=0 t=0
+得神 	de shen 	c=0 d=0 t=0
+從 	cong 	c=0 d=0 t=0
+從下 	cong xia 	c=0 d=0 t=0
+從你的 	cong ni de 	c=0 d=0 t=0
+從我 	cong wo 	c=0 d=0 t=0
+從我這用 	cong wo zhe yong 	c=0 d=0 t=0
+從新 	cong xin 	c=0 d=0 t=0
+從裝 	cong zhuang 	c=0 d=0 t=0
+從這 	cong zhe 	c=0 d=0 t=0
+從那 	cong na 	c=0 d=0 t=0
+復活 	fu huo 	c=0 d=0 t=0
+微 	wei 	c=0 d=0 t=0
+微信 	wei xin 	c=0 d=0 t=0
+微博 	wei bo 	c=0 d=0 t=0
+微波 	wei bo 	c=0 d=0 t=0
+微薄 	wei bo 	c=0 d=0 t=0
+微軟 	wei ruan 	c=0 d=0 t=0
+德 	de 	c=0 d=0 t=0
+德國 	de guo 	c=0 d=0 t=0
+徹底 	che di 	c=0 d=0 t=0
+心 	xin 	c=0 d=0 t=0
+心安理得 	xin an li de 	c=0 d=0 t=0
+心情 	xin qing 	c=0 d=0 t=0
+心態 	xin tai 	c=0 d=0 t=0
+心理 	xin li 	c=0 d=0 t=0
+必 	bi 	c=0 d=0 t=0
+必漲價 	bi zhang jia 	c=0 d=0 t=0
+必要 	bi yao 	c=0 d=0 t=0
+必要的 	bi yao de 	c=0 d=0 t=0
+必須 	bi xu 	c=0 d=0 t=0
+忍受 	ren shou 	c=0 d=0 t=0
+忘了 	wang le 	c=0 d=0 t=0
+忘記 	wang ji 	c=0 d=0 t=0
+快 	kuai 	c=0 d=0 t=0
+快一點 	kuai yi dian 	c=0 d=0 t=0
+快感 	kuai gan 	c=0 d=0 t=0
+快遞 	kuai di 	c=0 d=0 t=0
+快點 	kuai dian 	c=0 d=0 t=0
+怎樣 	zen yang 	c=0 d=0 t=0
+怎麼 	zen me 	c=0 d=0 t=0
+怎麼啦 	zen me la 	c=0 d=0 t=0
+怎麼學 	zen me xue 	c=0 d=0 t=0
+怎麼看 	zen me kan 	c=0 d=0 t=0
+怎麼說 	zen me shuo 	c=0 d=0 t=0
+怎麼辦 	zen me ban 	c=0 d=0 t=0
+怕 	pa 	c=0 d=0 t=0
+思想 	si xiang 	c=0 d=0 t=0
+思維 	si wei 	c=0 d=0 t=0
+思考 	si kao 	c=0 d=0 t=0
+思路 	si lu 	c=0 d=0 t=0
+怠惰 	dai duo 	c=0 d=0 t=0
+性 	xing 	c=0 d=0 t=0
+性侵 	xing qin 	c=0 d=0 t=0
+性取向 	xing qu xiang 	c=0 d=0 t=0
+性能 	xing neng 	c=0 d=0 t=0
+性質 	xing zhi 	c=0 d=0 t=0
+性質的 	xing zhi de 	c=0 d=0 t=0
+怪物 	guai wu 	c=0 d=0 t=0
+恐怖 	kong bu 	c=0 d=0 t=0
+恐怖片 	kong bu pian 	c=0 d=0 t=0
+恐懼 	kong ju 	c=0 d=0 t=0
+恩 	en 	c=0 d=0 t=0
+悔改 	hui gai 	c=0 d=0 t=0
+您 	nin 	c=0 d=0 t=0
+悲傷 	bei shang 	c=0 d=0 t=0
+情 	qing 	c=0 d=0 t=0
+情人節 	qing ren jie 	c=0 d=0 t=0
+情商 	qing shang 	c=0 d=0 t=0
+情感 	qing gan 	c=0 d=0 t=0
+情感的 	qing gan de 	c=0 d=0 t=0
+情況 	qing kuang 	c=0 d=0 t=0
+情緒 	qing xu 	c=0 d=0 t=0
+惋惜 	wan xi 	c=0 d=0 t=0
+惍 	gan 	c=0 d=0 t=0
+想 	xiang 	c=0 d=0 t=0
+想像 	xiang xiang 	c=0 d=0 t=0
+想吐 	xiang tu 	c=0 d=0 t=0
+想啥 	xiang sha 	c=0 d=0 t=0
+想啥呢 	xiang sha ne 	c=0 d=0 t=0
+想得 	xiang de 	c=0 d=0 t=0
+想死 	xiang si 	c=0 d=0 t=0
+想法 	xiang fa 	c=0 d=0 t=0
+想玩 	xiang wan 	c=0 d=0 t=0
+想玩的話 	xiang wan de hua 	c=0 d=0 t=0
+想盡 	xiang jin 	c=0 d=0 t=0
+想盡辦法 	xiang jin ban fa 	c=0 d=0 t=0
+想看 	xiang kan 	c=0 d=0 t=0
+想着 	xiang zhe 	c=0 d=0 t=0
+想知道 	xiang zhi dao 	c=0 d=0 t=0
+想笑 	xiang xiao 	c=0 d=0 t=0
+想起 	xiang qi 	c=0 d=0 t=0
+想起了 	xiang qi le 	c=0 d=0 t=0
+意味 	yi wei 	c=0 d=0 t=0
+意味着 	yi wei zhe 	c=0 d=0 t=0
+意圖 	yi tu 	c=0 d=0 t=0
+意外 	yi wai 	c=0 d=0 t=0
+意外中 	yi wai zhong 	c=0 d=0 t=0
+意思 	yi si 	c=0 d=0 t=0
+意思是 	yi si shi 	c=0 d=0 t=0
+意料 	yi liao 	c=0 d=0 t=0
+意義 	yi yi 	c=0 d=0 t=0
+意義多 	yi yi duo 	c=0 d=0 t=0
+愛 	ai 	c=0 d=0 t=0
+愛情 	ai qing 	c=0 d=0 t=0
+感 	gan 	c=0 d=0 t=0
+感到 	gan dao 	c=0 d=0 t=0
+感動 	gan dong 	c=0 d=0 t=0
+感受 	gan shou 	c=0 d=0 t=0
+感悟 	gan wu 	c=0 d=0 t=0
+感覺 	gan jue 	c=0 d=0 t=0
+感觸 	gan chu 	c=0 d=0 t=0
+感謝 	gan xie 	c=0 d=0 t=0
+慈善 	ci shan 	c=0 d=0 t=0
+慈善麼 	ci shan me 	c=0 d=0 t=0
+態度 	tai du 	c=0 d=0 t=0
+慘 	can 	c=0 d=0 t=0
+慢 	man 	c=0 d=0 t=0
+慢慢 	man man 	c=0 d=0 t=0
+慢慢來 	man man lai 	c=0 d=0 t=0
+慼慼 	qi qi 	c=0 d=0 t=0
+懂 	dong 	c=0 d=0 t=0
+懂得 	dong de 	c=0 d=0 t=0
+應 	ying 	c=0 d=0 t=0
+應用 	ying yong 	c=0 d=0 t=0
+應該 	ying gai 	c=0 d=0 t=0
+應該是 	ying gai shi 	c=0 d=0 t=0
+應該能 	ying gai neng 	c=0 d=0 t=0
+應離了 	ying li le 	c=0 d=0 t=0
+懶 	lan 	c=0 d=0 t=0
+懶人 	lan ren 	c=0 d=0 t=0
+懶得 	lan de 	c=0 d=0 t=0
+懶得搞 	lan de gao 	c=0 d=0 t=0
+戀 	lian 	c=0 d=0 t=0
+戀愛 	lian ai 	c=0 d=0 t=0
+成 	cheng 	c=0 d=0 t=0
+成功 	cheng gong 	c=0 d=0 t=0
+成功麼 	cheng gong me 	c=0 d=0 t=0
+成因 	cheng yin 	c=0 d=0 t=0
+成年 	cheng nian 	c=0 d=0 t=0
+成爲 	cheng wei 	c=0 d=0 t=0
+成癮 	cheng yin 	c=0 d=0 t=0
+成語 	cheng yu 	c=0 d=0 t=0
+我 	wo 	c=0 d=0 t=0
+我一會 	wo yi hui 	c=0 d=0 t=0
+我一步步 	wo yi bu bu 	c=0 d=0 t=0
+我上次 	wo shang ci 	c=0 d=0 t=0
+我下 	wo xia 	c=0 d=0 t=0
+我不 	wo bu 	c=0 d=0 t=0
+我不喜歡 	wo bu xi huan 	c=0 d=0 t=0
+我不想 	wo bu xiang 	c=0 d=0 t=0
+我不是 	wo bu shi 	c=0 d=0 t=0
+我不是很喜歡 	wo bu shi hen xi huan 	c=0 d=0 t=0
+我不會 	wo bu hui 	c=0 d=0 t=0
+我不知道 	wo bu zhi dao 	c=0 d=0 t=0
+我不記得 	wo bu ji de 	c=0 d=0 t=0
+我不認同 	wo bu ren tong 	c=0 d=0 t=0
+我不說 	wo bu shuo 	c=0 d=0 t=0
+我並不 	wo bing bu 	c=0 d=0 t=0
+我主要 	wo zhu yao 	c=0 d=0 t=0
+我也 	wo ye 	c=0 d=0 t=0
+我也不知道 	wo ye bu zhi dao 	c=0 d=0 t=0
+我也是 	wo ye shi 	c=0 d=0 t=0
+我也沒 	wo ye mei 	c=0 d=0 t=0
+我也沒說 	wo ye mei shuo 	c=0 d=0 t=0
+我也都 	wo ye dou 	c=0 d=0 t=0
+我以前 	wo yi qian 	c=0 d=0 t=0
+我們 	wo men 	c=0 d=0 t=0
+我們了 	wo men le 	c=0 d=0 t=0
+我做的 	wo zuo de 	c=0 d=0 t=0
+我儘量 	wo jin liang 	c=0 d=0 t=0
+我先 	wo xian 	c=0 d=0 t=0
+我再 	wo zai 	c=0 d=0 t=0
+我到時候 	wo dao shi hou 	c=0 d=0 t=0
+我剛 	wo gang 	c=0 d=0 t=0
+我剛剛 	wo gang gang 	c=0 d=0 t=0
+我加你 	wo jia ni 	c=0 d=0 t=0
+我去 	wo qu 	c=0 d=0 t=0
+我參加了 	wo can jia le 	c=0 d=0 t=0
+我又 	wo you 	c=0 d=0 t=0
+我只 	wo zhi 	c=0 d=0 t=0
+我只嗲 	wo zhi dia 	c=0 d=0 t=0
+我只想 	wo zhi xiang 	c=0 d=0 t=0
+我只能 	wo zhi neng 	c=0 d=0 t=0
+我只負責 	wo zhi fu ze 	c=0 d=0 t=0
+我可以 	wo ke yi 	c=0 d=0 t=0
+我可能 	wo ke neng 	c=0 d=0 t=0
+我吃飯 	wo chi fan 	c=0 d=0 t=0
+我咋 	wo za 	c=0 d=0 t=0
+我和 	wo he 	c=0 d=0 t=0
+我哥 	wo ge 	c=0 d=0 t=0
+我啊 	wo a 	c=0 d=0 t=0
+我喜歡 	wo xi huan 	c=0 d=0 t=0
+我國 	wo guo 	c=0 d=0 t=0
+我在 	wo zai 	c=0 d=0 t=0
+我好想 	wo hao xiang 	c=0 d=0 t=0
+我安 	wo an 	c=0 d=0 t=0
+我寫 	wo xie 	c=0 d=0 t=0
+我對 	wo dui 	c=0 d=0 t=0
+我小時候 	wo xiao shi hou 	c=0 d=0 t=0
+我就 	wo jiu 	c=0 d=0 t=0
+我居然 	wo ju ran 	c=0 d=0 t=0
+我幫 	wo bang 	c=0 d=0 t=0
+我幫你 	wo bang ni 	c=0 d=0 t=0
+我幫你做 	wo bang ni zuo 	c=0 d=0 t=0
+我幾乎 	wo ji hu 	c=0 d=0 t=0
+我康康 	wo kang kang 	c=0 d=0 t=0
+我建議 	wo jian yi 	c=0 d=0 t=0
+我從 	wo cong 	c=0 d=0 t=0
+我忘了 	wo wang le 	c=0 d=0 t=0
+我怎麼 	wo zen me 	c=0 d=0 t=0
+我想 	wo xiang 	c=0 d=0 t=0
+我想有 	wo xiang you 	c=0 d=0 t=0
+我愛 	wo ai 	c=0 d=0 t=0
+我愛你 	wo ai ni 	c=0 d=0 t=0
+我懂 	wo dong 	c=0 d=0 t=0
+我懶 	wo lan 	c=0 d=0 t=0
+我懶得 	wo lan de 	c=0 d=0 t=0
+我手機 	wo shou ji 	c=0 d=0 t=0
+我打算 	wo da suan 	c=0 d=0 t=0
+我把 	wo ba 	c=0 d=0 t=0
+我握筆 	wo wo bi 	c=0 d=0 t=0
+我整個 	wo zheng ge 	c=0 d=0 t=0
+我昨天 	wo zuo tian 	c=0 d=0 t=0
+我是 	wo shi 	c=0 d=0 t=0
+我是不是 	wo shi bu shi 	c=0 d=0 t=0
+我是個 	wo shi ge 	c=0 d=0 t=0
+我是被 	wo shi bei 	c=0 d=0 t=0
+我最卡的 	wo zui ka de 	c=0 d=0 t=0
+我會 	wo hui 	c=0 d=0 t=0
+我有 	wo you 	c=0 d=0 t=0
+我比較 	wo bi jiao 	c=0 d=0 t=0
+我永遠 	wo yong yuan 	c=0 d=0 t=0
+我沒 	wo mei 	c=0 d=0 t=0
+我沒做 	wo mei zuo 	c=0 d=0 t=0
+我沒有 	wo mei you 	c=0 d=0 t=0
+我無法 	wo wu fa 	c=0 d=0 t=0
+我爲啥 	wo wei sha 	c=0 d=0 t=0
+我用 	wo yong 	c=0 d=0 t=0
+我的 	wo de 	c=0 d=0 t=0
+我的世界 	wo de shi jie 	c=0 d=0 t=0
+我的意思是 	wo de yi si shi 	c=0 d=0 t=0
+我的羣 	wo de qun 	c=0 d=0 t=0
+我直接 	wo zhi jie 	c=0 d=0 t=0
+我看看 	wo kan kan 	c=0 d=0 t=0
+我看見 	wo kan jian 	c=0 d=0 t=0
+我真 	wo zhen 	c=0 d=0 t=0
+我真是 	wo zhen shi 	c=0 d=0 t=0
+我真的 	wo zhen de 	c=0 d=0 t=0
+我確實 	wo que shi 	c=0 d=0 t=0
+我給你 	wo gei ni 	c=0 d=0 t=0
+我給你個 	wo gei ni ge 	c=0 d=0 t=0
+我給難 	wo gei nan 	c=0 d=0 t=0
+我能 	wo neng 	c=0 d=0 t=0
+我自己 	wo zi ji 	c=0 d=0 t=0
+我興奮 	wo xing fen 	c=0 d=0 t=0
+我要 	wo yao 	c=0 d=0 t=0
+我覺 	wo jue 	c=0 d=0 t=0
+我覺得 	wo jue de 	c=0 d=0 t=0
+我記得 	wo ji de 	c=0 d=0 t=0
+我訪問不了 	wo fang wen bu le 	c=0 d=0 t=0
+我試試 	wo shi shi 	c=0 d=0 t=0
+我該 	wo gai 	c=0 d=0 t=0
+我認爲 	wo ren wei 	c=0 d=0 t=0
+我說 	wo shuo 	c=0 d=0 t=0
+我說是 	wo shuo shi 	c=0 d=0 t=0
+我貌似 	wo mao si 	c=0 d=0 t=0
+我買 	wo mai 	c=0 d=0 t=0
+我跨 	wo kua 	c=0 d=0 t=0
+我身上 	wo shen shang 	c=0 d=0 t=0
+我這 	wo zhe 	c=0 d=0 t=0
+我這就 	wo zhe jiu 	c=0 d=0 t=0
+我這是 	wo zhe shi 	c=0 d=0 t=0
+我這都 	wo zhe dou 	c=0 d=0 t=0
+我連 	wo lian 	c=0 d=0 t=0
+我還 	wo hai 	c=0 d=0 t=0
+我還是 	wo hai shi 	c=0 d=0 t=0
+我都 	wo dou 	c=0 d=0 t=0
+我電腦 	wo dian nao 	c=0 d=0 t=0
+我靠 	wo kao 	c=0 d=0 t=0
+戒色 	jie se 	c=0 d=0 t=0
+戒色吧 	jie se ba 	c=0 d=0 t=0
+或者 	huo zhe 	c=0 d=0 t=0
+截圖 	jie tu 	c=0 d=0 t=0
+截圖下 	jie tu xia 	c=0 d=0 t=0
+截屏 	jie ping 	c=0 d=0 t=0
+戰爭 	zhan zheng 	c=0 d=0 t=0
+房 	fang 	c=0 d=0 t=0
+房山 	fang shan 	c=0 d=0 t=0
+所 	suo 	c=0 d=0 t=0
+所以 	suo yi 	c=0 d=0 t=0
+所以呢 	suo yi ne 	c=0 d=0 t=0
+所以我 	suo yi wo 	c=0 d=0 t=0
+所以說 	suo yi shuo 	c=0 d=0 t=0
+所以那 	suo yi na 	c=0 d=0 t=0
+所喲 	suo yo 	c=0 d=0 t=0
+所有 	suo you 	c=0 d=0 t=0
+所有權 	suo you quan 	c=0 d=0 t=0
+所永遠 	suo yong yuan 	c=0 d=0 t=0
+所見 	suo jian 	c=0 d=0 t=0
+所說 	suo shuo 	c=0 d=0 t=0
+所謂 	suo wei 	c=0 d=0 t=0
+手上 	shou shang 	c=0 d=0 t=0
+手動 	shou dong 	c=0 d=0 t=0
+手機 	shou ji 	c=0 d=0 t=0
+手機你 	shou ji ni 	c=0 d=0 t=0
+手機號 	shou ji hao 	c=0 d=0 t=0
+手機麼 	shou ji me 	c=0 d=0 t=0
+手淫 	shou yin 	c=0 d=0 t=0
+手腕 	shou wan 	c=0 d=0 t=0
+才 	cai 	c=0 d=0 t=0
+才才 	cai cai 	c=0 d=0 t=0
+才知道 	cai zhi dao 	c=0 d=0 t=0
+才能 	cai neng 	c=0 d=0 t=0
+才行 	cai xing 	c=0 d=0 t=0
+打 	da 	c=0 d=0 t=0
+打不 	da bu 	c=0 d=0 t=0
+打出 	da chu 	c=0 d=0 t=0
+打印 	da yin 	c=0 d=0 t=0
+打字 	da zi 	c=0 d=0 t=0
+打工 	da gong 	c=0 d=0 t=0
+打工人 	da gong ren 	c=0 d=0 t=0
+打拳 	da quan 	c=0 d=0 t=0
+打擾 	da rao 	c=0 d=0 t=0
+打擾了 	da rao le 	c=0 d=0 t=0
+打盹 	da dun 	c=0 d=0 t=0
+打算 	da suan 	c=0 d=0 t=0
+打造 	da zao 	c=0 d=0 t=0
+打開 	da kai 	c=0 d=0 t=0
+打電話 	da dian hua 	c=0 d=0 t=0
+打鬥 	da dou 	c=0 d=0 t=0
+扭曲 	niu qu 	c=0 d=0 t=0
+扯 	che 	c=0 d=0 t=0
+扯上 	che shang 	c=0 d=0 t=0
+批卡 	pi ka 	c=0 d=0 t=0
+找 	zhao 	c=0 d=0 t=0
+找不到 	zhao bu dao 	c=0 d=0 t=0
+找你 	zhao ni 	c=0 d=0 t=0
+找到 	zhao dao 	c=0 d=0 t=0
+找到了 	zhao dao le 	c=0 d=0 t=0
+找我 	zhao wo 	c=0 d=0 t=0
+找找 	zhao zhao 	c=0 d=0 t=0
+承擔 	cheng dan 	c=0 d=0 t=0
+承認 	cheng ren 	c=0 d=0 t=0
+承認吧 	cheng ren ba 	c=0 d=0 t=0
+抄 	chao 	c=0 d=0 t=0
+抄襲 	chao xi 	c=0 d=0 t=0
+把 	ba 	c=0 d=0 t=0
+把他倆 	ba ta lia 	c=0 d=0 t=0
+把你 	ba ni 	c=0 d=0 t=0
+把它 	ba ta 	c=0 d=0 t=0
+把自己 	ba zi ji 	c=0 d=0 t=0
+抖 	dou 	c=0 d=0 t=0
+抖音 	dou yin 	c=0 d=0 t=0
+折中 	zhe zhong 	c=0 d=0 t=0
+折騰 	zhe teng 	c=0 d=0 t=0
+抱怨 	bao yuan 	c=0 d=0 t=0
+抱歉 	bao qian 	c=0 d=0 t=0
+抱歉了 	bao qian le 	c=0 d=0 t=0
+抱着 	bao zhe 	c=0 d=0 t=0
+抽乾 	chou gan 	c=0 d=0 t=0
+拆分 	chai fen 	c=0 d=0 t=0
+拉 	la 	c=0 d=0 t=0
+拉人 	la ren 	c=0 d=0 t=0
+拉人麼 	la ren me 	c=0 d=0 t=0
+拉着 	la zhe 	c=0 d=0 t=0
+拉着我 	la zhe wo 	c=0 d=0 t=0
+拋到 	pao dao 	c=0 d=0 t=0
+拍 	pai 	c=0 d=0 t=0
+拍拍 	pai pai 	c=0 d=0 t=0
+拍照 	pai zhao 	c=0 d=0 t=0
+拍照了 	pai zhao le 	c=0 d=0 t=0
+拍錯了 	pai cuo le 	c=0 d=0 t=0
+拒絕 	ju jue 	c=0 d=0 t=0
+拜拜 	bai bai 	c=0 d=0 t=0
+拜讀 	bai du 	c=0 d=0 t=0
+括號 	kuo hao 	c=0 d=0 t=0
+拯救 	zheng jiu 	c=0 d=0 t=0
+拱辰 	gong chen 	c=0 d=0 t=0
+拼 	pin 	c=0 d=0 t=0
+拼多 	pin duo 	c=0 d=0 t=0
+拼多多 	pin duo duo 	c=0 d=0 t=0
+拿 	na 	c=0 d=0 t=0
+拿個 	na ge 	c=0 d=0 t=0
+拿到 	na dao 	c=0 d=0 t=0
+拿着 	na zhe 	c=0 d=0 t=0
+拿頭 	na tou 	c=0 d=0 t=0
+持久 	chi jiu 	c=0 d=0 t=0
+指 	zhi 	c=0 d=0 t=0
+指出 	zhi chu 	c=0 d=0 t=0
+指向 	zhi xiang 	c=0 d=0 t=0
+指望 	zhi wang 	c=0 d=0 t=0
+指的是 	zhi de shi 	c=0 d=0 t=0
+指示燈 	zhi shi deng 	c=0 d=0 t=0
+按 	an 	c=0 d=0 t=0
+按照 	an zhao 	c=0 d=0 t=0
+挑了 	tiao le 	c=0 d=0 t=0
+挖 	wa 	c=0 d=0 t=0
+挺 	ting 	c=0 d=0 t=0
+挺好 	ting hao 	c=0 d=0 t=0
+挺好的 	ting hao de 	c=0 d=0 t=0
+挺好看得 	ting hao kan de 	c=0 d=0 t=0
+挺方便 	ting fang bian 	c=0 d=0 t=0
+挺沒 	ting mei 	c=0 d=0 t=0
+捱整 	ai zheng 	c=0 d=0 t=0
+捶 	chui 	c=0 d=0 t=0
+捶科 	chui ke 	c=0 d=0 t=0
+掉 	diao 	c=0 d=0 t=0
+掉了 	diao le 	c=0 d=0 t=0
+掌握 	zhang wo 	c=0 d=0 t=0
+排序 	pai xu 	c=0 d=0 t=0
+排斥 	pai chi 	c=0 d=0 t=0
+掛 	gua 	c=0 d=0 t=0
+掛着 	gua zhe 	c=0 d=0 t=0
+接 	jie 	c=0 d=0 t=0
+接受 	jie shou 	c=0 d=0 t=0
+接受後 	jie shou hou 	c=0 d=0 t=0
+接觸 	jie chu 	c=0 d=0 t=0
+控制 	kong zhi 	c=0 d=0 t=0
+控制權 	kong zhi quan 	c=0 d=0 t=0
+控力 	kong li 	c=0 d=0 t=0
+推到 	tui dao 	c=0 d=0 t=0
+推特 	tui te 	c=0 d=0 t=0
+推薦 	tui jian 	c=0 d=0 t=0
+推薦你 	tui jian ni 	c=0 d=0 t=0
+推送 	tui song 	c=0 d=0 t=0
+掩飾 	yan shi 	c=0 d=0 t=0
+提 	ti 	c=0 d=0 t=0
+提出 	ti chu 	c=0 d=0 t=0
+提升 	ti sheng 	c=0 d=0 t=0
+提問 	ti wen 	c=0 d=0 t=0
+提示 	ti shi 	c=0 d=0 t=0
+提示了 	ti shi le 	c=0 d=0 t=0
+提高 	ti gao 	c=0 d=0 t=0
+插入 	cha ru 	c=0 d=0 t=0
+揚聲器 	yang sheng qi 	c=0 d=0 t=0
+換 	huan 	c=0 d=0 t=0
+換了 	huan le 	c=0 d=0 t=0
+換個 	huan ge 	c=0 d=0 t=0
+換句 	huan ju 	c=0 d=0 t=0
+握不準 	wo bu zhun 	c=0 d=0 t=0
+握筆 	wo bi 	c=0 d=0 t=0
+揭曉 	jie xiao 	c=0 d=0 t=0
+搜 	sou 	c=0 d=0 t=0
+搜了 	sou le 	c=0 d=0 t=0
+搜捕到 	sou bu dao 	c=0 d=0 t=0
+搜索 	sou suo 	c=0 d=0 t=0
+搜題 	sou ti 	c=0 d=0 t=0
+搞 	gao 	c=0 d=0 t=0
+搞不懂 	gao bu dong 	c=0 d=0 t=0
+搞什麼 	gao shen me 	c=0 d=0 t=0
+搞出 	gao chu 	c=0 d=0 t=0
+搞到 	gao dao 	c=0 d=0 t=0
+搞好 	gao hao 	c=0 d=0 t=0
+搞得 	gao de 	c=0 d=0 t=0
+搞機助手 	gao ji zhu shou 	c=0 d=0 t=0
+搞瘋了 	gao feng le 	c=0 d=0 t=0
+搬的 	ban de 	c=0 d=0 t=0
+搭 	da 	c=0 d=0 t=0
+搭建 	da jian 	c=0 d=0 t=0
+摩擦 	mo ca 	c=0 d=0 t=0
+摺疊 	zhe die 	c=0 d=0 t=0
+撤回 	che hui 	c=0 d=0 t=0
+撤回下 	che hui xia 	c=0 d=0 t=0
+擁有 	yong you 	c=0 d=0 t=0
+操 	cao 	c=0 d=0 t=0
+操作 	cao zuo 	c=0 d=0 t=0
+擔心 	dan xin 	c=0 d=0 t=0
+擬 	ni 	c=0 d=0 t=0
+擬物化 	ni wu hua 	c=0 d=0 t=0
+支 	zhi 	c=0 d=0 t=0
+支付 	zhi fu 	c=0 d=0 t=0
+支付分 	zhi fu fen 	c=0 d=0 t=0
+支付寶 	zhi fu bao 	c=0 d=0 t=0
+支持 	zhi chi 	c=0 d=0 t=0
+收 	shou 	c=0 d=0 t=0
+收藏 	shou cang 	c=0 d=0 t=0
+收費 	shou fei 	c=0 d=0 t=0
+收集 	shou ji 	c=0 d=0 t=0
+收集器 	shou ji qi 	c=0 d=0 t=0
+改個 	gai ge 	c=0 d=0 t=0
+改成 	gai cheng 	c=0 d=0 t=0
+改變 	gai bian 	c=0 d=0 t=0
+改進 	gai jin 	c=0 d=0 t=0
+攻 	gong 	c=0 d=0 t=0
+攻擊 	gong ji 	c=0 d=0 t=0
+攻擊性 	gong ji xing 	c=0 d=0 t=0
+放 	fang 	c=0 d=0 t=0
+放了 	fang le 	c=0 d=0 t=0
+放假 	fang jia 	c=0 d=0 t=0
+放到 	fang dao 	c=0 d=0 t=0
+放學 	fang xue 	c=0 d=0 t=0
+放棄 	fang qi 	c=0 d=0 t=0
+放氣 	fang qi 	c=0 d=0 t=0
+放的 	fang de 	c=0 d=0 t=0
+放的是 	fang de shi 	c=0 d=0 t=0
+放鬆 	fang song 	c=0 d=0 t=0
+政治 	zheng zhi 	c=0 d=0 t=0
+故宮 	gu gong 	c=0 d=0 t=0
+故障 	gu zhang 	c=0 d=0 t=0
+效力 	xiao li 	c=0 d=0 t=0
+效果 	xiao guo 	c=0 d=0 t=0
+效率 	xiao lv 	c=0 d=0 t=0
+教 	jiao 	c=0 d=0 t=0
+教程 	jiao cheng 	c=0 d=0 t=0
+教育 	jiao yu 	c=0 d=0 t=0
+散了 	san le 	c=0 d=0 t=0
+散熱 	san re 	c=0 d=0 t=0
+散熱器 	san re qi 	c=0 d=0 t=0
+整個 	zheng ge 	c=0 d=0 t=0
+數 	shu 	c=0 d=0 t=0
+數人 	shu ren 	c=0 d=0 t=0
+數字 	shu zi 	c=0 d=0 t=0
+數學 	shu xue 	c=0 d=0 t=0
+文 	wen 	c=0 d=0 t=0
+文件 	wen jian 	c=0 d=0 t=0
+文件夾 	wen jian jia 	c=0 d=0 t=0
+文化 	wen hua 	c=0 d=0 t=0
+文字 	wen zi 	c=0 d=0 t=0
+文檔 	wen dang 	c=0 d=0 t=0
+文章 	wen zhang 	c=0 d=0 t=0
+斐 	fei 	c=0 d=0 t=0
+斐訊 	fei xun 	c=0 d=0 t=0
+斯 	si 	c=0 d=0 t=0
+新 	xin 	c=0 d=0 t=0
+新出 	xin chu 	c=0 d=0 t=0
+新功能 	xin gong neng 	c=0 d=0 t=0
+新文化 	xin wen hua 	c=0 d=0 t=0
+新東方 	xin dong fang 	c=0 d=0 t=0
+新的 	xin de 	c=0 d=0 t=0
+新鮮 	xin xian 	c=0 d=0 t=0
+斷 	duan 	c=0 d=0 t=0
+斷定 	duan ding 	c=0 d=0 t=0
+方 	fang 	c=0 d=0 t=0
+方便 	fang bian 	c=0 d=0 t=0
+方向 	fang xiang 	c=0 d=0 t=0
+方式 	fang shi 	c=0 d=0 t=0
+方方 	fang fang 	c=0 d=0 t=0
+方案 	fang an 	c=0 d=0 t=0
+方法 	fang fa 	c=0 d=0 t=0
+方面 	fang mian 	c=0 d=0 t=0
+於 	yu 	c=0 d=0 t=0
+於是 	yu shi 	c=0 d=0 t=0
+旁邊 	pang bian 	c=0 d=0 t=0
+旋轉 	xuan zhuan 	c=0 d=0 t=0
+族 	zu 	c=0 d=0 t=0
+旗艦 	qi jian 	c=0 d=0 t=0
+既然 	ji ran 	c=0 d=0 t=0
+日 	ri 	c=0 d=0 t=0
+日本 	ri ben 	c=0 d=0 t=0
+日籍 	ri ji 	c=0 d=0 t=0
+日記 	ri ji 	c=0 d=0 t=0
+日誌 	ri zhi 	c=0 d=0 t=0
+日語 	ri yu 	c=0 d=0 t=0
+早 	zao 	c=0 d=0 t=0
+早下 	zao xia 	c=0 d=0 t=0
+早下完了 	zao xia wan le 	c=0 d=0 t=0
+早不是 	zao bu shi 	c=0 d=0 t=0
+早加 	zao jia 	c=0 d=0 t=0
+早就 	zao jiu 	c=0 d=0 t=0
+早餐 	zao can 	c=0 d=0 t=0
+早點 	zao dian 	c=0 d=0 t=0
+昂 	ang 	c=0 d=0 t=0
+昌 	chang 	c=0 d=0 t=0
+昌輝 	chang hui 	c=0 d=0 t=0
+明 	ming 	c=0 d=0 t=0
+明令 	ming ling 	c=0 d=0 t=0
+明天 	ming tian 	c=0 d=0 t=0
+明明 	ming ming 	c=0 d=0 t=0
+明明啥 	ming ming sha 	c=0 d=0 t=0
+明明都 	ming ming dou 	c=0 d=0 t=0
+明星 	ming xing 	c=0 d=0 t=0
+明白 	ming bai 	c=0 d=0 t=0
+明知 	ming zhi 	c=0 d=0 t=0
+明知故問 	ming zhi gu wen 	c=0 d=0 t=0
+明確 	ming que 	c=0 d=0 t=0
+易 	yi 	c=0 d=0 t=0
+易經 	yi jing 	c=0 d=0 t=0
+星巴克 	xing ba ke 	c=0 d=0 t=0
+春季 	chun ji 	c=0 d=0 t=0
+昨天 	zuo tian 	c=0 d=0 t=0
+是 	shi 	c=0 d=0 t=0
+是一件 	shi yi jian 	c=0 d=0 t=0
+是不合理的 	shi bu he li de 	c=0 d=0 t=0
+是不是 	shi bu shi 	c=0 d=0 t=0
+是以 	shi yi 	c=0 d=0 t=0
+是個 	shi ge 	c=0 d=0 t=0
+是可以 	shi ke yi 	c=0 d=0 t=0
+是否 	shi fou 	c=0 d=0 t=0
+是吧 	shi ba 	c=0 d=0 t=0
+是啊 	shi a 	c=0 d=0 t=0
+是啥 	shi sha 	c=0 d=0 t=0
+是啥啊 	shi sha a 	c=0 d=0 t=0
+是因爲 	shi yin wei 	c=0 d=0 t=0
+是在 	shi zai 	c=0 d=0 t=0
+是爲了 	shi wei le 	c=0 d=0 t=0
+是的 	shi de 	c=0 d=0 t=0
+是要 	shi yao 	c=0 d=0 t=0
+是認爲 	shi ren wei 	c=0 d=0 t=0
+是誰 	shi shei 	c=0 d=0 t=0
+是麼 	shi me 	c=0 d=0 t=0
+時 	shi 	c=0 d=0 t=0
+時代 	shi dai 	c=0 d=0 t=0
+時候 	shi hou 	c=0 d=0 t=0
+時鐘 	shi zhong 	c=0 d=0 t=0
+時間 	shi jian 	c=0 d=0 t=0
+晚 	wan 	c=0 d=0 t=0
+晚安 	wan an 	c=0 d=0 t=0
+晨跑 	chen pao 	c=0 d=0 t=0
+普通 	pu tong 	c=0 d=0 t=0
+普通輸入法 	pu tong shu ru fa 	c=0 d=0 t=0
+智商 	zhi shang 	c=0 d=0 t=0
+智慧型 	zhi hui xing 	c=0 d=0 t=0
+智障 	zhi zhang 	c=0 d=0 t=0
+智障的 	zhi zhang de 	c=0 d=0 t=0
+智障麼 	zhi zhang me 	c=0 d=0 t=0
+暑假 	shu jia 	c=0 d=0 t=0
+暗 	an 	c=0 d=0 t=0
+暗網 	an wang 	c=0 d=0 t=0
+暗色 	an se 	c=0 d=0 t=0
+暗黑 	an hei 	c=0 d=0 t=0
+暫時 	zan shi 	c=0 d=0 t=0
+暴怒 	bao nu 	c=0 d=0 t=0
+更 	geng 	c=0 d=0 t=0
+更不可能 	geng bu ke neng 	c=0 d=0 t=0
+更不能 	geng bu neng 	c=0 d=0 t=0
+更何況 	geng he kuang 	c=0 d=0 t=0
+更加 	geng jia 	c=0 d=0 t=0
+更喜歡 	geng xi huan 	c=0 d=0 t=0
+更多 	geng duo 	c=0 d=0 t=0
+更大 	geng da 	c=0 d=0 t=0
+更好 	geng hao 	c=0 d=0 t=0
+更新 	geng xin 	c=0 d=0 t=0
+更新了 	geng xin le 	c=0 d=0 t=0
+更是 	geng shi 	c=0 d=0 t=0
+更願意 	geng yuan yi 	c=0 d=0 t=0
+更高 	geng gao 	c=0 d=0 t=0
+曾經 	ceng jing 	c=0 d=0 t=0
+替代 	ti dai 	c=0 d=0 t=0
+替代品 	ti dai pin 	c=0 d=0 t=0
+最 	zui 	c=0 d=0 t=0
+最先 	zui xian 	c=0 d=0 t=0
+最卡的 	zui ka de 	c=0 d=0 t=0
+最喜歡 	zui xi huan 	c=0 d=0 t=0
+最多 	zui duo 	c=0 d=0 t=0
+最大 	zui da 	c=0 d=0 t=0
+最大的 	zui da de 	c=0 d=0 t=0
+最好 	zui hao 	c=0 d=0 t=0
+最後 	zui hou 	c=0 d=0 t=0
+最新 	zui xin 	c=0 d=0 t=0
+最晚 	zui wan 	c=0 d=0 t=0
+最起碼 	zui qi ma 	c=0 d=0 t=0
+最近 	zui jin 	c=0 d=0 t=0
+最重要的 	zui zhong yao de 	c=0 d=0 t=0
+最重要的吧 	zui zhong yao de ba 	c=0 d=0 t=0
+會 	hui 	c=0 d=0 t=0
+會不會 	hui bu hui 	c=0 d=0 t=0
+會了 	hui le 	c=0 d=0 t=0
+會員 	hui yuan 	c=0 d=0 t=0
+會在 	hui zai 	c=0 d=0 t=0
+會好 	hui hao 	c=0 d=0 t=0
+會對 	hui dui 	c=0 d=0 t=0
+會有 	hui you 	c=0 d=0 t=0
+會用 	hui yong 	c=0 d=0 t=0
+會的 	hui de 	c=0 d=0 t=0
+會給 	hui gei 	c=0 d=0 t=0
+月 	yue 	c=0 d=0 t=0
+有 	you 	c=0 d=0 t=0
+有一 	you yi 	c=0 d=0 t=0
+有些 	you xie 	c=0 d=0 t=0
+有人 	you ren 	c=0 d=0 t=0
+有個 	you ge 	c=0 d=0 t=0
+有啥 	you sha 	c=0 d=0 t=0
+有啥啊 	you sha a 	c=0 d=0 t=0
+有坑 	you keng 	c=0 d=0 t=0
+有意義 	you yi yi 	c=0 d=0 t=0
+有時候 	you shi hou 	c=0 d=0 t=0
+有用嗎 	you yong ma 	c=0 d=0 t=0
+有病 	you bing 	c=0 d=0 t=0
+有病麼 	you bing me 	c=0 d=0 t=0
+有的 	you de 	c=0 d=0 t=0
+有的是 	you de shi 	c=0 d=0 t=0
+有識 	you shi 	c=0 d=0 t=0
+有關 	you guan 	c=0 d=0 t=0
+有限 	you xian 	c=0 d=0 t=0
+有點 	you dian 	c=0 d=0 t=0
+朋友 	peng you 	c=0 d=0 t=0
+服 	fu 	c=0 d=0 t=0
+服務 	fu wu 	c=0 d=0 t=0
+服務員 	fu wu yuan 	c=0 d=0 t=0
+服務器 	fu wu qi 	c=0 d=0 t=0
+服務的 	fu wu de 	c=0 d=0 t=0
+期 	qi 	c=0 d=0 t=0
+期限 	qi xian 	c=0 d=0 t=0
+未 	wei 	c=0 d=0 t=0
+末 	mo 	c=0 d=0 t=0
+末日 	mo ri 	c=0 d=0 t=0
+本 	ben 	c=0 d=0 t=0
+本上 	ben shang 	c=0 d=0 t=0
+本來 	ben lai 	c=0 d=0 t=0
+本來想 	ben lai xiang 	c=0 d=0 t=0
+本子 	ben zi 	c=0 d=0 t=0
+本就 	ben jiu 	c=0 d=0 t=0
+本神 	ben shen 	c=0 d=0 t=0
+本身 	ben shen 	c=0 d=0 t=0
+朱 	zhu 	c=0 d=0 t=0
+朱家 	zhu jia 	c=0 d=0 t=0
+朱家豪 	zhu jia hao 	c=0 d=0 t=0
+朴樹 	pu shu 	c=0 d=0 t=0
+李 	li 	c=0 d=0 t=0
+李鴻章 	li hong zhang 	c=0 d=0 t=0
+村 	cun 	c=0 d=0 t=0
+東方 	dong fang 	c=0 d=0 t=0
+東方衆 	dong fang zhong 	c=0 d=0 t=0
+東西 	dong xi 	c=0 d=0 t=0
+東西吧 	dong xi ba 	c=0 d=0 t=0
+東西啊 	dong xi a 	c=0 d=0 t=0
+板 	ban 	c=0 d=0 t=0
+板子 	ban zi 	c=0 d=0 t=0
+板子的 	ban zi de 	c=0 d=0 t=0
+林 	lin 	c=0 d=0 t=0
+果然 	guo ran 	c=0 d=0 t=0
+某 	mou 	c=0 d=0 t=0
+某些 	mou xie 	c=0 d=0 t=0
+某種 	mou zhong 	c=0 d=0 t=0
+染 	ran 	c=0 d=0 t=0
+查 	cha 	c=0 d=0 t=0
+查查 	cha cha 	c=0 d=0 t=0
+栓 	shuan 	c=0 d=0 t=0
+校長 	xiao zhang 	c=0 d=0 t=0
+核 	he 	c=0 d=0 t=0
+根據 	gen ju 	c=0 d=0 t=0
+根本 	gen ben 	c=0 d=0 t=0
+框架 	kuang jia 	c=0 d=0 t=0
+案 	an 	c=0 d=0 t=0
+桌子 	zhuo zi 	c=0 d=0 t=0
+桌面 	zhuo mian 	c=0 d=0 t=0
+梅里 	mei li 	c=0 d=0 t=0
+梅里號 	mei li hao 	c=0 d=0 t=0
+條 	tiao 	c=0 d=0 t=0
+條件 	tiao jian 	c=0 d=0 t=0
+梯子 	ti zi 	c=0 d=0 t=0
+棒 	bang 	c=0 d=0 t=0
+棒子 	bang zi 	c=0 d=0 t=0
+棒棒 	bang bang 	c=0 d=0 t=0
+椅子 	yi zi 	c=0 d=0 t=0
+植物 	zhi wu 	c=0 d=0 t=0
+楊 	yang 	c=0 d=0 t=0
+楊昌輝 	yang chang hui 	c=0 d=0 t=0
+楊某 	yang mou 	c=0 d=0 t=0
+業 	ye 	c=0 d=0 t=0
+業務 	ye wu 	c=0 d=0 t=0
+極客 	ji ke 	c=0 d=0 t=0
+概不 	gai bu 	c=0 d=0 t=0
+榮 	rong 	c=0 d=0 t=0
+榮耀 	rong yao 	c=0 d=0 t=0
+榴槤 	liu lian 	c=0 d=0 t=0
+樂 	le 	c=0 d=0 t=0
+樂器 	yue qi 	c=0 d=0 t=0
+樓主 	lou zhu 	c=0 d=0 t=0
+標 	biao 	c=0 d=0 t=0
+標本 	biao ben 	c=0 d=0 t=0
+標準 	biao zhun 	c=0 d=0 t=0
+標題 	biao ti 	c=0 d=0 t=0
+模塊 	mo kuai 	c=0 d=0 t=0
+模式 	mo shi 	c=0 d=0 t=0
+樣 	yang 	c=0 d=0 t=0
+樣子 	yang zi 	c=0 d=0 t=0
+樸實 	pu shi 	c=0 d=0 t=0
+樹根 	shu gen 	c=0 d=0 t=0
+樹根的 	shu gen de 	c=0 d=0 t=0
+樹皮 	shu pi 	c=0 d=0 t=0
+橋 	qiao 	c=0 d=0 t=0
+機 	ji 	c=0 d=0 t=0
+機制 	ji zhi 	c=0 d=0 t=0
+機場 	ji chang 	c=0 d=0 t=0
+機箱 	ji xiang 	c=0 d=0 t=0
+機身 	ji shen 	c=0 d=0 t=0
+橫 	heng 	c=0 d=0 t=0
+檢測 	jian ce 	c=0 d=0 t=0
+檯面 	tai mian 	c=0 d=0 t=0
+檸檬 	ning meng 	c=0 d=0 t=0
+權 	quan 	c=0 d=0 t=0
+權利 	quan li 	c=0 d=0 t=0
+權威 	quan wei 	c=0 d=0 t=0
+權益 	quan yi 	c=0 d=0 t=0
+權限 	quan xian 	c=0 d=0 t=0
+欠 	qian 	c=0 d=0 t=0
+次 	ci 	c=0 d=0 t=0
+欣 	xin 	c=0 d=0 t=0
+歌詞 	ge ci 	c=0 d=0 t=0
+正 	zheng 	c=0 d=0 t=0
+正大 	zheng da 	c=0 d=0 t=0
+正太 	zheng tai 	c=0 d=0 t=0
+正確 	zheng que 	c=0 d=0 t=0
+此 	ci 	c=0 d=0 t=0
+此次 	ci ci 	c=0 d=0 t=0
+武漢隊 	wu han dui 	c=0 d=0 t=0
+歧義 	qi yi 	c=0 d=0 t=0
+歧視 	qi shi 	c=0 d=0 t=0
+歷史 	li shi 	c=0 d=0 t=0
+死 	si 	c=0 d=0 t=0
+死了 	si le 	c=0 d=0 t=0
+死刑 	si xing 	c=0 d=0 t=0
+死去 	si qu 	c=0 d=0 t=0
+死於 	si yu 	c=0 d=0 t=0
+死活 	si huo 	c=0 d=0 t=0
+死的 	si de 	c=0 d=0 t=0
+殭屍 	jiang shi 	c=0 d=0 t=0
+段 	duan 	c=0 d=0 t=0
+殺 	sha 	c=0 d=0 t=0
+殺了 	sha le 	c=0 d=0 t=0
+殺人 	sha ren 	c=0 d=0 t=0
+殺死 	sha si 	c=0 d=0 t=0
+每人 	mei ren 	c=0 d=0 t=0
+每個 	mei ge 	c=0 d=0 t=0
+每個人 	mei ge ren 	c=0 d=0 t=0
+每天 	mei tian 	c=0 d=0 t=0
+每月 	mei yue 	c=0 d=0 t=0
+每條 	mei tiao 	c=0 d=0 t=0
+每次 	mei ci 	c=0 d=0 t=0
+每集 	mei ji 	c=0 d=0 t=0
+比 	bi 	c=0 d=0 t=0
+比我 	bi wo 	c=0 d=0 t=0
+比我小 	bi wo xiao 	c=0 d=0 t=0
+比特 	bi te 	c=0 d=0 t=0
+比特比 	bi te bi 	c=0 d=0 t=0
+比較 	bi jiao 	c=0 d=0 t=0
+毛 	mao 	c=0 d=0 t=0
+毛子 	mao zi 	c=0 d=0 t=0
+毛錢 	mao qian 	c=0 d=0 t=0
+毫不 	hao bu 	c=0 d=0 t=0
+毫不意外 	hao bu yi wai 	c=0 d=0 t=0
+氰化物 	qing hua wu 	c=0 d=0 t=0
+水 	shui 	c=0 d=0 t=0
+水滸 	shui hu 	c=0 d=0 t=0
+水滸傳 	shui hu zhuan 	c=0 d=0 t=0
+永 	yong 	c=0 d=0 t=0
+永久 	yong jiu 	c=0 d=0 t=0
+永遠 	yong yuan 	c=0 d=0 t=0
+求 	qiu 	c=0 d=0 t=0
+沈 	shen 	c=0 d=0 t=0
+沒 	mei 	c=0 d=0 t=0
+沒下 	mei xia 	c=0 d=0 t=0
+沒了 	mei le 	c=0 d=0 t=0
+沒事 	mei shi 	c=0 d=0 t=0
+沒事了 	mei shi le 	c=0 d=0 t=0
+沒人 	mei ren 	c=0 d=0 t=0
+沒什麼 	mei shen me 	c=0 d=0 t=0
+沒來過 	mei lai guo 	c=0 d=0 t=0
+沒做 	mei zuo 	c=0 d=0 t=0
+沒動 	mei dong 	c=0 d=0 t=0
+沒哈 	mei ha 	c=0 d=0 t=0
+沒問題 	mei wen ti 	c=0 d=0 t=0
+沒問題的 	mei wen ti de 	c=0 d=0 t=0
+沒啥 	mei sha 	c=0 d=0 t=0
+沒啥用 	mei sha yong 	c=0 d=0 t=0
+沒幹 	mei gan 	c=0 d=0 t=0
+沒幾個 	mei ji ge 	c=0 d=0 t=0
+沒必要 	mei bi yao 	c=0 d=0 t=0
+沒意義 	mei yi yi 	c=0 d=0 t=0
+沒有 	mei you 	c=0 d=0 t=0
+沒死 	mei si 	c=0 d=0 t=0
+沒法 	mei fa 	c=0 d=0 t=0
+沒看 	mei kan 	c=0 d=0 t=0
+沒看過 	mei kan guo 	c=0 d=0 t=0
+沒能力 	mei neng li 	c=0 d=0 t=0
+沒說 	mei shuo 	c=0 d=0 t=0
+沒辦法 	mei ban fa 	c=0 d=0 t=0
+沒錯 	mei cuo 	c=0 d=0 t=0
+沒關係 	mei guan xi 	c=0 d=0 t=0
+沒難度 	mei nan du 	c=0 d=0 t=0
+沙岸 	sha an 	c=0 d=0 t=0
+沙雕 	sha diao 	c=0 d=0 t=0
+治療 	zhi liao 	c=0 d=0 t=0
+沾不上邊 	zhan bu shang bian 	c=0 d=0 t=0
+法 	fa 	c=0 d=0 t=0
+法律 	fa lv 	c=0 d=0 t=0
+波 	bo 	c=0 d=0 t=0
+波動 	bo dong 	c=0 d=0 t=0
+洋洋 	yang yang 	c=0 d=0 t=0
+洋蔥 	yang cong 	c=0 d=0 t=0
+活 	huo 	c=0 d=0 t=0
+活了 	huo le 	c=0 d=0 t=0
+活動 	huo dong 	c=0 d=0 t=0
+活得 	huo de 	c=0 d=0 t=0
+洽 	qia 	c=0 d=0 t=0
+流氓 	liu mang 	c=0 d=0 t=0
+流行 	liu xing 	c=0 d=0 t=0
+流量 	liu liang 	c=0 d=0 t=0
+浩 	hao 	c=0 d=0 t=0
+海 	hai 	c=0 d=0 t=0
+海賊王 	hai zei wang 	c=0 d=0 t=0
+消息 	xiao xi 	c=0 d=0 t=0
+消費 	xiao fei 	c=0 d=0 t=0
+消除 	xiao chu 	c=0 d=0 t=0
+涉及到 	she ji dao 	c=0 d=0 t=0
+涌來 	yong lai 	c=0 d=0 t=0
+涼屋 	liang wu 	c=0 d=0 t=0
+淋 	lin 	c=0 d=0 t=0
+淘寶 	tao bao 	c=0 d=0 t=0
+淦 	gan 	c=0 d=0 t=0
+淪亡 	lun wang 	c=0 d=0 t=0
+深刻 	shen ke 	c=0 d=0 t=0
+添加 	tian jia 	c=0 d=0 t=0
+清 	qing 	c=0 d=0 t=0
+清朝 	qing chao 	c=0 d=0 t=0
+清楚 	qing chu 	c=0 d=0 t=0
+清潔 	qing jie 	c=0 d=0 t=0
+清醒 	qing xing 	c=0 d=0 t=0
+測試 	ce shi 	c=0 d=0 t=0
+港澳臺 	gang ao tai 	c=0 d=0 t=0
+湊合 	cou he 	c=0 d=0 t=0
+湊齊 	cou qi 	c=0 d=0 t=0
+源 	yuan 	c=0 d=0 t=0
+源代碼 	yuan dai ma 	c=0 d=0 t=0
+源碼 	yuan ma 	c=0 d=0 t=0
+準確 	zhun que 	c=0 d=0 t=0
+溝通 	gou tong 	c=0 d=0 t=0
+滑板 	hua ban 	c=0 d=0 t=0
+滷汁 	lu zhi 	c=0 d=0 t=0
+漂亮 	piao liang 	c=0 d=0 t=0
+演示 	yan shi 	c=0 d=0 t=0
+漫畫 	man hua 	c=0 d=0 t=0
+漲 	zhang 	c=0 d=0 t=0
+漲價 	zhang jia 	c=0 d=0 t=0
+漲回去 	zhang hui qu 	c=0 d=0 t=0
+潘 	pan 	c=0 d=0 t=0
+潘嘉興 	pan jia xing 	c=0 d=0 t=0
+澆水 	jiao shui 	c=0 d=0 t=0
+激流 	ji liu 	c=0 d=0 t=0
+激烈 	ji lie 	c=0 d=0 t=0
+瀏覽 	liu lan 	c=0 d=0 t=0
+瀏覽器 	liu lan qi 	c=0 d=0 t=0
+火 	huo 	c=0 d=0 t=0
+火柴 	huo chai 	c=0 d=0 t=0
+火柴人 	huo chai ren 	c=0 d=0 t=0
+火狐 	huo hu 	c=0 d=0 t=0
+炫耀 	xuan yao 	c=0 d=0 t=0
+炸死 	zha si 	c=0 d=0 t=0
+炸死了 	zha si le 	c=0 d=0 t=0
+焊 	han 	c=0 d=0 t=0
+無 	wu 	c=0 d=0 t=0
+無奈 	wu nai 	c=0 d=0 t=0
+無意義 	wu yi yi 	c=0 d=0 t=0
+無所謂 	wu suo wei 	c=0 d=0 t=0
+無所謂了 	wu suo wei le 	c=0 d=0 t=0
+無故 	wu gu 	c=0 d=0 t=0
+無比 	wu bi 	c=0 d=0 t=0
+無法 	wu fa 	c=0 d=0 t=0
+無法用 	wu fa yong 	c=0 d=0 t=0
+無緣 	wu yuan 	c=0 d=0 t=0
+無職轉生 	wu zhi zhuan sheng 	c=0 d=0 t=0
+無能 	wu neng 	c=0 d=0 t=0
+無腦 	wu nao 	c=0 d=0 t=0
+無辜 	wu gu 	c=0 d=0 t=0
+無關 	wu guan 	c=0 d=0 t=0
+無關了 	wu guan le 	c=0 d=0 t=0
+無關係 	wu guan xi 	c=0 d=0 t=0
+無限 	wu xian 	c=0 d=0 t=0
+無非 	wu fei 	c=0 d=0 t=0
+然後 	ran hou 	c=0 d=0 t=0
+然而 	ran er 	c=0 d=0 t=0
+照片 	zhao pian 	c=0 d=0 t=0
+煩 	fan 	c=0 d=0 t=0
+煩人 	fan ren 	c=0 d=0 t=0
+煩人的 	fan ren de 	c=0 d=0 t=0
+熟悉 	shu xi 	c=0 d=0 t=0
+熟練 	shu lian 	c=0 d=0 t=0
+熬夜 	ao ye 	c=0 d=0 t=0
+熱 	re 	c=0 d=0 t=0
+燈塔 	deng ta 	c=0 d=0 t=0
+燈泡 	deng pao 	c=0 d=0 t=0
+燒 	shao 	c=0 d=0 t=0
+燒了 	shao le 	c=0 d=0 t=0
+燒得 	shao de 	c=0 d=0 t=0
+營銷 	ying xiao 	c=0 d=0 t=0
+營銷號 	ying xiao hao 	c=0 d=0 t=0
+爆 	bao 	c=0 d=0 t=0
+爆炸 	bao zha 	c=0 d=0 t=0
+爛 	lan 	c=0 d=0 t=0
+爬 	pa 	c=0 d=0 t=0
+爬滿了 	pa man le 	c=0 d=0 t=0
+爬爬爬爬拍 	pa pa pa pa pai 	c=0 d=0 t=0
+爭奪 	zheng duo 	c=0 d=0 t=0
+爭論 	zheng lun 	c=0 d=0 t=0
+爭鬥 	zheng dou 	c=0 d=0 t=0
+爲 	wei 	c=0 d=0 t=0
+爲了 	wei le 	c=0 d=0 t=0
+爲什麼 	wei shen me 	c=0 d=0 t=0
+爲啥 	wei sha 	c=0 d=0 t=0
+爲啥會 	wei sha hui 	c=0 d=0 t=0
+爲啥要去 	wei sha yao qu 	c=0 d=0 t=0
+爲數不多 	wei shu bu duo 	c=0 d=0 t=0
+爲榮 	wei rong 	c=0 d=0 t=0
+爲甚麼 	wei shen me 	c=0 d=0 t=0
+爲題 	wei ti 	c=0 d=0 t=0
+父母 	fu mu 	c=0 d=0 t=0
+爸爸 	ba ba 	c=0 d=0 t=0
+爺 	ye 	c=0 d=0 t=0
+爽 	shuang 	c=0 d=0 t=0
+爽多 	shuang duo 	c=0 d=0 t=0
+牆 	qiang 	c=0 d=0 t=0
+牆了 	qiang le 	c=0 d=0 t=0
+牆外 	qiang wai 	c=0 d=0 t=0
+片面 	pian mian 	c=0 d=0 t=0
+版 	ban 	c=0 d=0 t=0
+版本 	ban ben 	c=0 d=0 t=0
+版本的 	ban ben de 	c=0 d=0 t=0
+版本號 	ban ben hao 	c=0 d=0 t=0
+版權 	ban quan 	c=0 d=0 t=0
+牙牀 	ya chuang 	c=0 d=0 t=0
+物 	wu 	c=0 d=0 t=0
+物化 	wu hua 	c=0 d=0 t=0
+物理 	wu li 	c=0 d=0 t=0
+物語 	wu yu 	c=0 d=0 t=0
+特 	te 	c=0 d=0 t=0
+特別 	te bie 	c=0 d=0 t=0
+特殊 	te shu 	c=0 d=0 t=0
+特點 	te dian 	c=0 d=0 t=0
+犯罪 	fan zui 	c=0 d=0 t=0
+狀態 	zhuang tai 	c=0 d=0 t=0
+狂人 	kuang ren 	c=0 d=0 t=0
+狗 	gou 	c=0 d=0 t=0
+狗屎 	gou shi 	c=0 d=0 t=0
+狗狗 	gou gou 	c=0 d=0 t=0
+猜測 	cai ce 	c=0 d=0 t=0
+猥褻 	wei xie 	c=0 d=0 t=0
+獨立 	du li 	c=0 d=0 t=0
+獲取 	huo qu 	c=0 d=0 t=0
+獲得 	huo de 	c=0 d=0 t=0
+獼猴桃 	mi hou tao 	c=0 d=0 t=0
+率 	lv 	c=0 d=0 t=0
+王 	wang 	c=0 d=0 t=0
+王老師 	wang lao shi 	c=0 d=0 t=0
+王者 	wang zhe 	c=0 d=0 t=0
+王雅靜 	wang ya jing 	c=0 d=0 t=0
+玩 	wan 	c=0 d=0 t=0
+玩啥啊 	wan sha a 	c=0 d=0 t=0
+玩家 	wan jia 	c=0 d=0 t=0
+玩意 	wan yi 	c=0 d=0 t=0
+玩的 	wan de 	c=0 d=0 t=0
+玩笑 	wan xiao 	c=0 d=0 t=0
+玩過 	wan guo 	c=0 d=0 t=0
+珍愛 	zhen ai 	c=0 d=0 t=0
+班 	ban 	c=0 d=0 t=0
+現 	xian 	c=0 d=0 t=0
+現代 	xian dai 	c=0 d=0 t=0
+現在 	xian zai 	c=0 d=0 t=0
+現場 	xian chang 	c=0 d=0 t=0
+現行 	xian xing 	c=0 d=0 t=0
+現象 	xian xiang 	c=0 d=0 t=0
+現身 	xian shen 	c=0 d=0 t=0
+球 	qiu 	c=0 d=0 t=0
+理念 	li nian 	c=0 d=0 t=0
+理性 	li xing 	c=0 d=0 t=0
+理想 	li xiang 	c=0 d=0 t=0
+理所 	li suo 	c=0 d=0 t=0
+理由 	li you 	c=0 d=0 t=0
+理解 	li jie 	c=0 d=0 t=0
+理論 	li lun 	c=0 d=0 t=0
+琪琪 	qi qi 	c=0 d=0 t=0
+瑞克 	rui ke 	c=0 d=0 t=0
+環境 	huan jing 	c=0 d=0 t=0
+甚麼 	shen me 	c=0 d=0 t=0
+生 	sheng 	c=0 d=0 t=0
+生命 	sheng ming 	c=0 d=0 t=0
+生存 	sheng cun 	c=0 d=0 t=0
+生成 	sheng cheng 	c=0 d=0 t=0
+生活 	sheng huo 	c=0 d=0 t=0
+生物 	sheng wu 	c=0 d=0 t=0
+生產力 	sheng chan li 	c=0 d=0 t=0
+生病 	sheng bing 	c=0 d=0 t=0
+生育率 	sheng yu lv 	c=0 d=0 t=0
+生草 	sheng cao 	c=0 d=0 t=0
+生草機 	sheng cao ji 	c=0 d=0 t=0
+產品 	chan pin 	c=0 d=0 t=0
+產物 	chan wu 	c=0 d=0 t=0
+用 	yong 	c=0 d=0 t=0
+用不了 	yong bu liao 	c=0 d=0 t=0
+用不用 	yong bu yong 	c=0 d=0 t=0
+用不用帶 	yong bu yong dai 	c=0 d=0 t=0
+用了 	yong le 	c=0 d=0 t=0
+用來 	yong lai 	c=0 d=0 t=0
+用力 	yong li 	c=0 d=0 t=0
+用得着 	yong de zhao 	c=0 d=0 t=0
+用戶 	yong hu 	c=0 d=0 t=0
+用手機 	yong shou ji 	c=0 d=0 t=0
+用的 	yong de 	c=0 d=0 t=0
+用的是 	yong de shi 	c=0 d=0 t=0
+用着 	yong zhe 	c=0 d=0 t=0
+用着用着 	yong zhe yong zhe 	c=0 d=0 t=0
+用被 	yong bei 	c=0 d=0 t=0
+用過 	yong guo 	c=0 d=0 t=0
+甩賣 	shuai mai 	c=0 d=0 t=0
+由 	you 	c=0 d=0 t=0
+由於 	you yu 	c=0 d=0 t=0
+男 	nan 	c=0 d=0 t=0
+男人 	nan ren 	c=0 d=0 t=0
+男女 	nan nv 	c=0 d=0 t=0
+男生 	nan sheng 	c=0 d=0 t=0
+界面 	jie mian 	c=0 d=0 t=0
+留下 	liu xia 	c=0 d=0 t=0
+留在 	liu zai 	c=0 d=0 t=0
+畢竟 	bi jing 	c=0 d=0 t=0
+番 	fan 	c=0 d=0 t=0
+番茄 	fan qie 	c=0 d=0 t=0
+畫 	hua 	c=0 d=0 t=0
+畫面 	hua mian 	c=0 d=0 t=0
+異性戀 	yi xing lian 	c=0 d=0 t=0
+當 	dang 	c=0 d=0 t=0
+當個 	dang ge 	c=0 d=0 t=0
+當傻子 	dang sha zi 	c=0 d=0 t=0
+當初 	dang chu 	c=0 d=0 t=0
+當年 	dang nian 	c=0 d=0 t=0
+當我 	dang wo 	c=0 d=0 t=0
+當時 	dang shi 	c=0 d=0 t=0
+當然 	dang ran 	c=0 d=0 t=0
+當這些 	dang zhe xie 	c=0 d=0 t=0
+疑問 	yi wen 	c=0 d=0 t=0
+疼 	teng 	c=0 d=0 t=0
+病 	bing 	c=0 d=0 t=0
+痕跡 	hen ji 	c=0 d=0 t=0
+痛苦 	tong ku 	c=0 d=0 t=0
+瘋 	feng 	c=0 d=0 t=0
+瘋了 	feng le 	c=0 d=0 t=0
+瘋掉 	feng diao 	c=0 d=0 t=0
+癌症 	ai zheng 	c=0 d=0 t=0
+登錄 	deng lu 	c=0 d=0 t=0
+發 	fa 	c=0 d=0 t=0
+發下 	fa xia 	c=0 d=0 t=0
+發了 	fa le 	c=0 d=0 t=0
+發佈 	fa bu 	c=0 d=0 t=0
+發佈會 	fa bu hui 	c=0 d=0 t=0
+發你 	fa ni 	c=0 d=0 t=0
+發個 	fa ge 	c=0 d=0 t=0
+發完 	fa wan 	c=0 d=0 t=0
+發我 	fa wo 	c=0 d=0 t=0
+發放 	fa fang 	c=0 d=0 t=0
+發明 	fa ming 	c=0 d=0 t=0
+發消息 	fa xiao xi 	c=0 d=0 t=0
+發現 	fa xian 	c=0 d=0 t=0
+發生 	fa sheng 	c=0 d=0 t=0
+發的 	fa de 	c=0 d=0 t=0
+發芽 	fa ya 	c=0 d=0 t=0
+發表 	fa biao 	c=0 d=0 t=0
+發言 	fa yan 	c=0 d=0 t=0
+發送 	fa song 	c=0 d=0 t=0
+發送的 	fa song de 	c=0 d=0 t=0
+發達 	fa da 	c=0 d=0 t=0
+發那 	fa na 	c=0 d=0 t=0
+發錯 	fa cuo 	c=0 d=0 t=0
+發錯了 	fa cuo le 	c=0 d=0 t=0
+白了 	bai le 	c=0 d=0 t=0
+白嫖 	bai piao 	c=0 d=0 t=0
+白色 	bai se 	c=0 d=0 t=0
+百孔 	bai kong 	c=0 d=0 t=0
+百害 	bai hai 	c=0 d=0 t=0
+百度 	bai du 	c=0 d=0 t=0
+百度啊 	bai du a 	c=0 d=0 t=0
+的 	de 	c=0 d=0 t=0
+的事 	de shi 	c=0 d=0 t=0
+的事情 	de shi qing 	c=0 d=0 t=0
+的人 	de ren 	c=0 d=0 t=0
+的人啊 	de ren a 	c=0 d=0 t=0
+的吧 	de ba 	c=0 d=0 t=0
+的呢 	de ne 	c=0 d=0 t=0
+的嗎 	de ma 	c=0 d=0 t=0
+的地方 	de di fang 	c=0 d=0 t=0
+的意思 	de yi si 	c=0 d=0 t=0
+的手機 	de shou ji 	c=0 d=0 t=0
+的時候 	de shi hou 	c=0 d=0 t=0
+的東西 	de dong xi 	c=0 d=0 t=0
+的樣子 	de yang zi 	c=0 d=0 t=0
+的甚麼 	de shen me 	c=0 d=0 t=0
+的確 	di que 	c=0 d=0 t=0
+的社區 	de she qu 	c=0 d=0 t=0
+的話 	de hua 	c=0 d=0 t=0
+的說 	de shuo 	c=0 d=0 t=0
+的錢 	de qian 	c=0 d=0 t=0
+的麼 	de me 	c=0 d=0 t=0
+皇室 	huang shi 	c=0 d=0 t=0
+皺着 	zhou zhe 	c=0 d=0 t=0
+盈利 	ying li 	c=0 d=0 t=0
+盒子 	he zi 	c=0 d=0 t=0
+盡 	jin 	c=0 d=0 t=0
+盡力 	jin li 	c=0 d=0 t=0
+監控 	jian kong 	c=0 d=0 t=0
+盤 	pan 	c=0 d=0 t=0
+目前 	mu qian 	c=0 d=0 t=0
+目標 	mu biao 	c=0 d=0 t=0
+目的 	mu di 	c=0 d=0 t=0
+目的的 	mu di de 	c=0 d=0 t=0
+目錄 	mu lu 	c=0 d=0 t=0
+直呼 	zhi hu 	c=0 d=0 t=0
+直接 	zhi jie 	c=0 d=0 t=0
+直播 	zhi bo 	c=0 d=0 t=0
+直爽 	zhi shuang 	c=0 d=0 t=0
+相似 	xiang si 	c=0 d=0 t=0
+相應 	xiang ying 	c=0 d=0 t=0
+相機 	xiang ji 	c=0 d=0 t=0
+省 	sheng 	c=0 d=0 t=0
+眉頭 	mei tou 	c=0 d=0 t=0
+看 	kan 	c=0 d=0 t=0
+看一看 	kan yi kan 	c=0 d=0 t=0
+看下 	kan xia 	c=0 d=0 t=0
+看不懂 	kan bu dong 	c=0 d=0 t=0
+看不清 	kan bu qing 	c=0 d=0 t=0
+看了 	kan le 	c=0 d=0 t=0
+看了一邊 	kan le yi bian 	c=0 d=0 t=0
+看了看 	kan le kan 	c=0 d=0 t=0
+看個 	kan ge 	c=0 d=0 t=0
+看出 	kan chu 	c=0 d=0 t=0
+看到 	kan dao 	c=0 d=0 t=0
+看吧 	kan ba 	c=0 d=0 t=0
+看嘛 	kan ma 	c=0 d=0 t=0
+看完 	kan wan 	c=0 d=0 t=0
+看得 	kan de 	c=0 d=0 t=0
+看得是 	kan de shi 	c=0 d=0 t=0
+看書 	kan shu 	c=0 d=0 t=0
+看清 	kan qing 	c=0 d=0 t=0
+看番 	kan fan 	c=0 d=0 t=0
+看看 	kan kan 	c=0 d=0 t=0
+看眼 	kan yan 	c=0 d=0 t=0
+看着 	kan zhe 	c=0 d=0 t=0
+看見 	kan jian 	c=0 d=0 t=0
+看起來 	kan qi lai 	c=0 d=0 t=0
+看過 	kan guo 	c=0 d=0 t=0
+真 	zhen 	c=0 d=0 t=0
+真愛 	zhen ai 	c=0 d=0 t=0
+真是 	zhen shi 	c=0 d=0 t=0
+真正 	zhen zheng 	c=0 d=0 t=0
+真沒 	zhen mei 	c=0 d=0 t=0
+真爛 	zhen lan 	c=0 d=0 t=0
+真理 	zhen li 	c=0 d=0 t=0
+真的 	zhen de 	c=0 d=0 t=0
+真的低 	zhen de di 	c=0 d=0 t=0
+真的嗎 	zhen de ma 	c=0 d=0 t=0
+真的在 	zhen de zai 	c=0 d=0 t=0
+真的強 	zhen de qiang 	c=0 d=0 t=0
+真的慢 	zhen de man 	c=0 d=0 t=0
+真的是 	zhen de shi 	c=0 d=0 t=0
+眼 	yan 	c=0 d=0 t=0
+着 	zhe 	c=0 d=0 t=0
+着了 	zhao le 	c=0 d=0 t=0
+着呢 	zhe ne 	c=0 d=0 t=0
+着急 	zhao ji 	c=0 d=0 t=0
+睡 	shui 	c=0 d=0 t=0
+睡不着 	shui bu zhao 	c=0 d=0 t=0
+睡了 	shui le 	c=0 d=0 t=0
+睡眠 	shui mian 	c=0 d=0 t=0
+睡着 	shui zhao 	c=0 d=0 t=0
+睡覺 	shui jiao 	c=0 d=0 t=0
+瞎 	xia 	c=0 d=0 t=0
+瞎子 	xia zi 	c=0 d=0 t=0
+瞎扯 	xia che 	c=0 d=0 t=0
+瞭解 	liao jie 	c=0 d=0 t=0
+矛頭 	mao tou 	c=0 d=0 t=0
+知 	zhi 	c=0 d=0 t=0
+知乎 	zhi hu 	c=0 d=0 t=0
+知道 	zhi dao 	c=0 d=0 t=0
+知道的 	zhi dao de 	c=0 d=0 t=0
+短 	duan 	c=0 d=0 t=0
+短信 	duan xin 	c=0 d=0 t=0
+砍死 	kan si 	c=0 d=0 t=0
+研究 	yan jiu 	c=0 d=0 t=0
+破 	po 	c=0 d=0 t=0
+破玩意 	po wan yi 	c=0 d=0 t=0
+破產 	po chan 	c=0 d=0 t=0
+破產了 	po chan le 	c=0 d=0 t=0
+砸碎 	za sui 	c=0 d=0 t=0
+硬件 	ying jian 	c=0 d=0 t=0
+硬盤 	ying pan 	c=0 d=0 t=0
+碎片 	sui pian 	c=0 d=0 t=0
+碰碰 	peng peng 	c=0 d=0 t=0
+確信 	que xin 	c=0 d=0 t=0
+確切 	que qie 	c=0 d=0 t=0
+確定 	que ding 	c=0 d=0 t=0
+確實 	que shi 	c=0 d=0 t=0
+確認 	que ren 	c=0 d=0 t=0
+磚 	zhuan 	c=0 d=0 t=0
+磨 	mo 	c=0 d=0 t=0
+磨刀 	mo dao 	c=0 d=0 t=0
+礦難 	kuang nan 	c=0 d=0 t=0
+礦難了 	kuang nan le 	c=0 d=0 t=0
+社交 	she jiao 	c=0 d=0 t=0
+社區 	she qu 	c=0 d=0 t=0
+社會 	she hui 	c=0 d=0 t=0
+社死 	she si 	c=0 d=0 t=0
+社死就 	she si jiu 	c=0 d=0 t=0
+神 	shen 	c=0 d=0 t=0
+神奇 	shen qi 	c=0 d=0 t=0
+神奇啊 	shen qi a 	c=0 d=0 t=0
+神祕 	shen mi 	c=0 d=0 t=0
+神諭 	shen yu 	c=0 d=0 t=0
+神輿 	shen yu 	c=0 d=0 t=0
+禁止 	jin zhi 	c=0 d=0 t=0
+禮貌 	li mao 	c=0 d=0 t=0
+禿了 	tu le 	c=0 d=0 t=0
+私 	si 	c=0 d=0 t=0
+私人 	si ren 	c=0 d=0 t=0
+秋 	qiu 	c=0 d=0 t=0
+科 	ke 	c=0 d=0 t=0
+科技 	ke ji 	c=0 d=0 t=0
+科普 	ke pu 	c=0 d=0 t=0
+科研 	ke yan 	c=0 d=0 t=0
+租 	zu 	c=0 d=0 t=0
+移動 	yi dong 	c=0 d=0 t=0
+程序 	cheng xu 	c=0 d=0 t=0
+程度 	cheng du 	c=0 d=0 t=0
+稍微 	shao wei 	c=0 d=0 t=0
+稍有 	shao you 	c=0 d=0 t=0
+種 	zhong 	c=0 d=0 t=0
+種子 	zhong zi 	c=0 d=0 t=0
+種族 	zhong zu 	c=0 d=0 t=0
+種植 	zhong zhi 	c=0 d=0 t=0
+種類 	zhong lei 	c=0 d=0 t=0
+稱呼 	cheng hu 	c=0 d=0 t=0
+積極向上 	ji ji xiang shang 	c=0 d=0 t=0
+穩定 	wen ding 	c=0 d=0 t=0
+究竟 	jiu jing 	c=0 d=0 t=0
+空白 	kong bai 	c=0 d=0 t=0
+穿透 	chuan tou 	c=0 d=0 t=0
+突然 	tu ran 	c=0 d=0 t=0
+突然說 	tu ran shuo 	c=0 d=0 t=0
+立志 	li zhi 	c=0 d=0 t=0
+站 	zhan 	c=0 d=0 t=0
+站上 	zhan shang 	c=0 d=0 t=0
+竟在 	jing zai 	c=0 d=0 t=0
+竟是 	jing shi 	c=0 d=0 t=0
+笑 	xiao 	c=0 d=0 t=0
+笑死 	xiao si 	c=0 d=0 t=0
+第 	di 	c=0 d=0 t=0
+第一 	di yi 	c=0 d=0 t=0
+第一代 	di yi dai 	c=0 d=0 t=0
+第一個 	di yi ge 	c=0 d=0 t=0
+第一部 	di yi bu 	c=0 d=0 t=0
+第一集 	di yi ji 	c=0 d=0 t=0
+第二 	di er 	c=0 d=0 t=0
+筆記 	bi ji 	c=0 d=0 t=0
+等 	deng 	c=0 d=0 t=0
+等下 	deng xia 	c=0 d=0 t=0
+等你 	deng ni 	c=0 d=0 t=0
+等候 	deng hou 	c=0 d=0 t=0
+等我 	deng wo 	c=0 d=0 t=0
+等死 	deng si 	c=0 d=0 t=0
+等着 	deng zhe 	c=0 d=0 t=0
+答 	da 	c=0 d=0 t=0
+答應 	da ying 	c=0 d=0 t=0
+答應了 	da ying le 	c=0 d=0 t=0
+答應我 	da ying wo 	c=0 d=0 t=0
+算 	suan 	c=0 d=0 t=0
+算了 	suan le 	c=0 d=0 t=0
+算了吧 	suan le ba 	c=0 d=0 t=0
+算是 	suan shi 	c=0 d=0 t=0
+管 	guan 	c=0 d=0 t=0
+管他 	guan ta 	c=0 d=0 t=0
+管家 	guan jia 	c=0 d=0 t=0
+管理 	guan li 	c=0 d=0 t=0
+管理上 	guan li shang 	c=0 d=0 t=0
+管理啊 	guan li a 	c=0 d=0 t=0
+管理器 	guan li qi 	c=0 d=0 t=0
+管飽 	guan bao 	c=0 d=0 t=0
+節奏 	jie zou 	c=0 d=0 t=0
+節日 	jie ri 	c=0 d=0 t=0
+節目 	jie mu 	c=0 d=0 t=0
+節點 	jie dian 	c=0 d=0 t=0
+篇 	pian 	c=0 d=0 t=0
+簡單 	jian dan 	c=0 d=0 t=0
+簡易 	jian yi 	c=0 d=0 t=0
+簡潔 	jian jie 	c=0 d=0 t=0
+簡直 	jian zhi 	c=0 d=0 t=0
+簡體字 	jian ti zi 	c=0 d=0 t=0
+米 	mi 	c=0 d=0 t=0
+粉絲 	fen si 	c=0 d=0 t=0
+精日 	jing ri 	c=0 d=0 t=0
+精神 	jing shen 	c=0 d=0 t=0
+精華 	jing hua 	c=0 d=0 t=0
+精髓 	jing sui 	c=0 d=0 t=0
+糟糕 	zao gao 	c=0 d=0 t=0
+系列 	xi lie 	c=0 d=0 t=0
+系統 	xi tong 	c=0 d=0 t=0
+糾正 	jiu zheng 	c=0 d=0 t=0
+約束 	yue shu 	c=0 d=0 t=0
+紅筆 	hong bi 	c=0 d=0 t=0
+紋身 	wen shen 	c=0 d=0 t=0
+納粹 	na cui 	c=0 d=0 t=0
+純 	chun 	c=0 d=0 t=0
+純白 	chun bai 	c=0 d=0 t=0
+純粹 	chun cui 	c=0 d=0 t=0
+累 	lei 	c=0 d=0 t=0
+細節 	xi jie 	c=0 d=0 t=0
+終於 	zhong yu 	c=0 d=0 t=0
+終身 	zhong shen 	c=0 d=0 t=0
+組 	zu 	c=0 d=0 t=0
+組裝 	zu zhuang 	c=0 d=0 t=0
+結合 	jie he 	c=0 d=0 t=0
+結局 	jie ju 	c=0 d=0 t=0
+結束 	jie shu 	c=0 d=0 t=0
+結束了 	jie shu le 	c=0 d=0 t=0
+結果 	jie guo 	c=0 d=0 t=0
+絕境 	jue jing 	c=0 d=0 t=0
+絕大 	jue da 	c=0 d=0 t=0
+絕大多 	jue da duo 	c=0 d=0 t=0
+絕對 	jue dui 	c=0 d=0 t=0
+給 	gei 	c=0 d=0 t=0
+給你 	gei ni 	c=0 d=0 t=0
+給出 	gei chu 	c=0 d=0 t=0
+給我 	gei wo 	c=0 d=0 t=0
+統治 	tong zhi 	c=0 d=0 t=0
+統計 	tong ji 	c=0 d=0 t=0
+統計過 	tong ji guo 	c=0 d=0 t=0
+經受 	jing shou 	c=0 d=0 t=0
+經歷 	jing li 	c=0 d=0 t=0
+經歷麼 	jing li me 	c=0 d=0 t=0
+經濟 	jing ji 	c=0 d=0 t=0
+綜合 	zong he 	c=0 d=0 t=0
+綠壩 	lv ba 	c=0 d=0 t=0
+維護 	wei hu 	c=0 d=0 t=0
+網 	wang 	c=0 d=0 t=0
+網上 	wang shang 	c=0 d=0 t=0
+網下 	wang xia 	c=0 d=0 t=0
+網友 	wang you 	c=0 d=0 t=0
+網址 	wang zhi 	c=0 d=0 t=0
+網易 	wang yi 	c=0 d=0 t=0
+網易雲 	wang yi yun 	c=0 d=0 t=0
+網景 	wang jing 	c=0 d=0 t=0
+網站 	wang zhan 	c=0 d=0 t=0
+網紅 	wang hong 	c=0 d=0 t=0
+網絡 	wang luo 	c=0 d=0 t=0
+網頁 	wang ye 	c=0 d=0 t=0
+網頁了 	wang ye le 	c=0 d=0 t=0
+網頁麼 	wang ye me 	c=0 d=0 t=0
+線 	xian 	c=0 d=0 t=0
+線下 	xian xia 	c=0 d=0 t=0
+線路 	xian lu 	c=0 d=0 t=0
+編劇 	bian ju 	c=0 d=0 t=0
+編程 	bian cheng 	c=0 d=0 t=0
+編譯 	bian yi 	c=0 d=0 t=0
+編輯 	bian ji 	c=0 d=0 t=0
+緯度 	wei du 	c=0 d=0 t=0
+緯度的 	wei du de 	c=0 d=0 t=0
+練手 	lian shou 	c=0 d=0 t=0
+縮寫 	suo xie 	c=0 d=0 t=0
+總 	zong 	c=0 d=0 t=0
+總不能 	zong bu neng 	c=0 d=0 t=0
+總之 	zong zhi 	c=0 d=0 t=0
+總是 	zong shi 	c=0 d=0 t=0
+總有 	zong you 	c=0 d=0 t=0
+總比 	zong bi 	c=0 d=0 t=0
+總的 	zong de 	c=0 d=0 t=0
+總算 	zong suan 	c=0 d=0 t=0
+總能 	zong neng 	c=0 d=0 t=0
+總覺 	zong jue 	c=0 d=0 t=0
+總覺的 	zong jue de 	c=0 d=0 t=0
+繁殖 	fan zhi 	c=0 d=0 t=0
+繁殖戀 	fan zhi lian 	c=0 d=0 t=0
+繁體 	fan ti 	c=0 d=0 t=0
+繳費 	jiao fei 	c=0 d=0 t=0
+繼續 	ji xu 	c=0 d=0 t=0
+續費 	xu fei 	c=0 d=0 t=0
+纔不是 	cai bu shi 	c=0 d=0 t=0
+纔是 	cai shi 	c=0 d=0 t=0
+缺了 	que le 	c=0 d=0 t=0
+缺點 	que dian 	c=0 d=0 t=0
+罐頭 	guan tou 	c=0 d=0 t=0
+罪 	zui 	c=0 d=0 t=0
+罵個 	ma ge 	c=0 d=0 t=0
+罵起來 	ma qi lai 	c=0 d=0 t=0
+罷了 	ba le 	c=0 d=0 t=0
+羅 	luo 	c=0 d=0 t=0
+羅小黑 	luo xiao hei 	c=0 d=0 t=0
+羅永 	luo yong 	c=0 d=0 t=0
+羅永浩 	luo yong hao 	c=0 d=0 t=0
+美 	mei 	c=0 d=0 t=0
+羞恥 	xiu chi 	c=0 d=0 t=0
+羣 	qun 	c=0 d=0 t=0
+羣裏 	qun li 	c=0 d=0 t=0
+羣體 	qun ti 	c=0 d=0 t=0
+習慣 	xi guan 	c=0 d=0 t=0
+翻牆 	fan qiang 	c=0 d=0 t=0
+翻蓋 	fan gai 	c=0 d=0 t=0
+翻譯 	fan yi 	c=0 d=0 t=0
+翻譯啊 	fan yi a 	c=0 d=0 t=0
+翻過 	fan guo 	c=0 d=0 t=0
+老 	lao 	c=0 d=0 t=0
+老中 	lao zhong 	c=0 d=0 t=0
+老動 	lao dong 	c=0 d=0 t=0
+老哥 	lao ge 	c=0 d=0 t=0
+老地方 	lao di fang 	c=0 d=0 t=0
+老實說 	lao shi shuo 	c=0 d=0 t=0
+老師 	lao shi 	c=0 d=0 t=0
+老羅 	lao luo 	c=0 d=0 t=0
+老色批 	lao se pi 	c=0 d=0 t=0
+老韓 	lao han 	c=0 d=0 t=0
+考慮 	kao lv 	c=0 d=0 t=0
+考試 	kao shi 	c=0 d=0 t=0
+考驗 	kao yan 	c=0 d=0 t=0
+者 	zhe 	c=0 d=0 t=0
+而 	er 	c=0 d=0 t=0
+而不是 	er bu shi 	c=0 d=0 t=0
+而且 	er qie 	c=0 d=0 t=0
+而你 	er ni 	c=0 d=0 t=0
+而已 	er yi 	c=0 d=0 t=0
+而是 	er shi 	c=0 d=0 t=0
+耳機 	er ji 	c=0 d=0 t=0
+聊天 	liao tian 	c=0 d=0 t=0
+聊聊 	liao liao 	c=0 d=0 t=0
+聯動 	lian dong 	c=0 d=0 t=0
+聯想 	lian xiang 	c=0 d=0 t=0
+聯繫 	lian xi 	c=0 d=0 t=0
+聯繫人 	lian xi ren 	c=0 d=0 t=0
+聲明 	sheng ming 	c=0 d=0 t=0
+聲音 	sheng yin 	c=0 d=0 t=0
+職 	zhi 	c=0 d=0 t=0
+聽聽 	ting ting 	c=0 d=0 t=0
+聽說 	ting shuo 	c=0 d=0 t=0
+肉 	rou 	c=0 d=0 t=0
+肯 	ken 	c=0 d=0 t=0
+肯定 	ken ding 	c=0 d=0 t=0
+背 	bei 	c=0 d=0 t=0
+背了 	bei le 	c=0 d=0 t=0
+背叛 	bei pan 	c=0 d=0 t=0
+胡 	hu 	c=0 d=0 t=0
+能 	neng 	c=0 d=0 t=0
+能不能 	neng bu neng 	c=0 d=0 t=0
+能修 	neng xiu 	c=0 d=0 t=0
+能做 	neng zuo 	c=0 d=0 t=0
+能出 	neng chu 	c=0 d=0 t=0
+能到 	neng dao 	c=0 d=0 t=0
+能力 	neng li 	c=0 d=0 t=0
+能控制 	neng kong zhi 	c=0 d=0 t=0
+能有 	neng you 	c=0 d=0 t=0
+能用 	neng yong 	c=0 d=0 t=0
+能發下 	neng fa xia 	c=0 d=0 t=0
+能被 	neng bei 	c=0 d=0 t=0
+能說 	neng shuo 	c=0 d=0 t=0
+能讓 	neng rang 	c=0 d=0 t=0
+能讓更 	neng rang geng 	c=0 d=0 t=0
+脊髓 	ji sui 	c=0 d=0 t=0
+脖子 	bo zi 	c=0 d=0 t=0
+脫 	tuo 	c=0 d=0 t=0
+脫水 	tuo shui 	c=0 d=0 t=0
+脫落 	tuo luo 	c=0 d=0 t=0
+脫離 	tuo li 	c=0 d=0 t=0
+腎臟 	shen zang 	c=0 d=0 t=0
+腦 	nao 	c=0 d=0 t=0
+腦子 	nao zi 	c=0 d=0 t=0
+腦容量 	nao rong liang 	c=0 d=0 t=0
+腦洞 	nao dong 	c=0 d=0 t=0
+腦血 	nao xue 	c=0 d=0 t=0
+腦袋 	nao dai 	c=0 d=0 t=0
+腦部 	nao bu 	c=0 d=0 t=0
+腦髓 	nao sui 	c=0 d=0 t=0
+腰子 	yao zi 	c=0 d=0 t=0
+膨脹 	peng zhang 	c=0 d=0 t=0
+膩 	ni 	c=0 d=0 t=0
+臃腫 	yong zhong 	c=0 d=0 t=0
+臉 	lian 	c=0 d=0 t=0
+臉色 	lian se 	c=0 d=0 t=0
+臉鬥士 	lian dou shi 	c=0 d=0 t=0
+自 	zi 	c=0 d=0 t=0
+自動 	zi dong 	c=0 d=0 t=0
+自己 	zi ji 	c=0 d=0 t=0
+自己做 	zi ji zuo 	c=0 d=0 t=0
+自己的 	zi ji de 	c=0 d=0 t=0
+自己的錯 	zi ji de cuo 	c=0 d=0 t=0
+自己那 	zi ji na 	c=0 d=0 t=0
+自從 	zi cong 	c=0 d=0 t=0
+自慰 	zi wei 	c=0 d=0 t=0
+自我 	zi wo 	c=0 d=0 t=0
+自控力 	zi kong li 	c=0 d=0 t=0
+自殺 	zi sha 	c=0 d=0 t=0
+自然 	zi ran 	c=0 d=0 t=0
+自然界 	zi ran jie 	c=0 d=0 t=0
+自由 	zi you 	c=0 d=0 t=0
+自行 	zi xing 	c=0 d=0 t=0
+自裁 	zi cai 	c=0 d=0 t=0
+自覺 	zi jue 	c=0 d=0 t=0
+自身 	zi shen 	c=0 d=0 t=0
+自身的 	zi shen de 	c=0 d=0 t=0
+自載 	zi zai 	c=0 d=0 t=0
+自閉 	zi bi 	c=0 d=0 t=0
+自願 	zi yuan 	c=0 d=0 t=0
+自願的 	zi yuan de 	c=0 d=0 t=0
+至 	zhi 	c=0 d=0 t=0
+至今 	zhi jin 	c=0 d=0 t=0
+致癌 	zhi ai 	c=0 d=0 t=0
+臺 	tai 	c=0 d=0 t=0
+臺獨 	tai du 	c=0 d=0 t=0
+與 	yu 	c=0 d=0 t=0
+與否 	yu fou 	c=0 d=0 t=0
+興奮 	xing fen 	c=0 d=0 t=0
+興起 	xing qi 	c=0 d=0 t=0
+興趣 	xing qu 	c=0 d=0 t=0
+舉例 	ju li 	c=0 d=0 t=0
+舉例子 	ju li zi 	c=0 d=0 t=0
+舊 	jiu 	c=0 d=0 t=0
+舒服 	shu fu 	c=0 d=0 t=0
+舔 	tian 	c=0 d=0 t=0
+航 	hang 	c=0 d=0 t=0
+良 	liang 	c=0 d=0 t=0
+良麪包 	liang mian bao 	c=0 d=0 t=0
+艱難 	jian nan 	c=0 d=0 t=0
+色 	se 	c=0 d=0 t=0
+色情 	se qing 	c=0 d=0 t=0
+色調 	se diao 	c=0 d=0 t=0
+艾滋病 	ai zi bing 	c=0 d=0 t=0
+芝士 	zhi shi 	c=0 d=0 t=0
+芯片 	xin pian 	c=0 d=0 t=0
+花園 	hua yuan 	c=0 d=0 t=0
+花錢 	hua qian 	c=0 d=0 t=0
+苛刻 	ke ke 	c=0 d=0 t=0
+英語 	ying yu 	c=0 d=0 t=0
+草 	cao 	c=0 d=0 t=0
+草率 	cao shuai 	c=0 d=0 t=0
+莎 	sha 	c=0 d=0 t=0
+莫 	mo 	c=0 d=0 t=0
+莫名 	mo ming 	c=0 d=0 t=0
+莫名其妙 	mo ming qi miao 	c=0 d=0 t=0
+莫問題 	mo wen ti 	c=0 d=0 t=0
+莫第 	mo di 	c=0 d=0 t=0
+菜 	cai 	c=0 d=0 t=0
+菜狗 	cai gou 	c=0 d=0 t=0
+華爲 	hua wei 	c=0 d=0 t=0
+萎縮 	wei suo 	c=0 d=0 t=0
+萬歲 	wan sui 	c=0 d=0 t=0
+萬用 	wan yong 	c=0 d=0 t=0
+著稱 	zhu cheng 	c=0 d=0 t=0
+著稱的 	zhu cheng de 	c=0 d=0 t=0
+董 	dong 	c=0 d=0 t=0
+蒸汽 	zheng qi 	c=0 d=0 t=0
+蕪湖 	wu hu 	c=0 d=0 t=0
+藉助 	jie zhu 	c=0 d=0 t=0
+藍 	lan 	c=0 d=0 t=0
+藥 	yao 	c=0 d=0 t=0
+藥草 	yao cao 	c=0 d=0 t=0
+蘇聯 	su lian 	c=0 d=0 t=0
+蘋果 	ping guo 	c=0 d=0 t=0
+蘿莉 	luo li 	c=0 d=0 t=0
+處 	chu 	c=0 d=0 t=0
+處理 	chu li 	c=0 d=0 t=0
+處理器 	chu li qi 	c=0 d=0 t=0
+號 	hao 	c=0 d=0 t=0
+蛋 	dan 	c=0 d=0 t=0
+蜘蛛 	zhi zhu 	c=0 d=0 t=0
+螒 	gan 	c=0 d=0 t=0
+蟑螂 	zhang lang 	c=0 d=0 t=0
+蟲子 	chong zi 	c=0 d=0 t=0
+蠢 	chun 	c=0 d=0 t=0
+血壓 	xie ya 	c=0 d=0 t=0
+血輪 	xie lun 	c=0 d=0 t=0
+血輪眼 	xie lun yan 	c=0 d=0 t=0
+衆 	zhong 	c=0 d=0 t=0
+衆所 	zhong suo 	c=0 d=0 t=0
+行 	hang 	c=0 d=0 t=0
+行 	xing 	c=0 d=0 t=0
+行了 	xing le 	c=0 d=0 t=0
+行吧 	xing ba 	c=0 d=0 t=0
+行啊 	xing a 	c=0 d=0 t=0
+行業 	hang ye 	c=0 d=0 t=0
+行爲 	xing wei 	c=0 d=0 t=0
+街頭 	jie tou 	c=0 d=0 t=0
+衝動 	chong dong 	c=0 d=0 t=0
+衝突 	chong tu 	c=0 d=0 t=0
+表 	biao 	c=0 d=0 t=0
+表達 	biao da 	c=0 d=0 t=0
+被 	bei 	c=0 d=0 t=0
+裏 	li 	c=0 d=0 t=0
+裏面 	li mian 	c=0 d=0 t=0
+補丁 	bu ding 	c=0 d=0 t=0
+裝 	zhuang 	c=0 d=0 t=0
+裝上 	zhuang shang 	c=0 d=0 t=0
+裸奔 	luo ben 	c=0 d=0 t=0
+裸體 	luo ti 	c=0 d=0 t=0
+裸體的 	luo ti de 	c=0 d=0 t=0
+製作 	zhi zuo 	c=0 d=0 t=0
+製作者 	zhi zuo zhe 	c=0 d=0 t=0
+複習 	fu xi 	c=0 d=0 t=0
+複製 	fu zhi 	c=0 d=0 t=0
+褲衩 	ku cha 	c=0 d=0 t=0
+西 	xi 	c=0 d=0 t=0
+要 	yao 	c=0 d=0 t=0
+要不 	yao bu 	c=0 d=0 t=0
+要不是 	yao bu shi 	c=0 d=0 t=0
+要不要 	yao bu yao 	c=0 d=0 t=0
+要做的 	yao zuo de 	c=0 d=0 t=0
+要去 	yao qu 	c=0 d=0 t=0
+要和 	yao he 	c=0 d=0 t=0
+要在 	yao zai 	c=0 d=0 t=0
+要學 	yao xue 	c=0 d=0 t=0
+要學會 	yao xue hui 	c=0 d=0 t=0
+要幹嘛 	yao gan ma 	c=0 d=0 t=0
+要從 	yao cong 	c=0 d=0 t=0
+要把 	yao ba 	c=0 d=0 t=0
+要把我 	yao ba wo 	c=0 d=0 t=0
+要換 	yao huan 	c=0 d=0 t=0
+要有 	yao you 	c=0 d=0 t=0
+要求 	yao qiu 	c=0 d=0 t=0
+要用 	yao yong 	c=0 d=0 t=0
+要的錢 	yao de qian 	c=0 d=0 t=0
+要看 	yao kan 	c=0 d=0 t=0
+要真的 	yao zhen de 	c=0 d=0 t=0
+要讓 	yao rang 	c=0 d=0 t=0
+要麼 	yao me 	c=0 d=0 t=0
+覆蓋 	fu gai 	c=0 d=0 t=0
+見 	jian 	c=0 d=0 t=0
+見見 	jian jian 	c=0 d=0 t=0
+見過 	jian guo 	c=0 d=0 t=0
+規定 	gui ding 	c=0 d=0 t=0
+規律 	gui lv 	c=0 d=0 t=0
+視爲 	shi wei 	c=0 d=0 t=0
+視頻 	shi pin 	c=0 d=0 t=0
+親 	qin 	c=0 d=0 t=0
+親人 	qin ren 	c=0 d=0 t=0
+覺 	jue 	c=0 d=0 t=0
+覺得 	jue de 	c=0 d=0 t=0
+觀看 	guan kan 	c=0 d=0 t=0
+觀賞 	guan shang 	c=0 d=0 t=0
+角 	jiao 	c=0 d=0 t=0
+解 	jie 	c=0 d=0 t=0
+解剖 	jie pou 	c=0 d=0 t=0
+解決 	jie jue 	c=0 d=0 t=0
+解答 	jie da 	c=0 d=0 t=0
+解釋 	jie shi 	c=0 d=0 t=0
+觸 	chu 	c=0 d=0 t=0
+觸手 	chu shou 	c=0 d=0 t=0
+言語 	yan yu 	c=0 d=0 t=0
+言語好 	yan yu hao 	c=0 d=0 t=0
+言論 	yan lun 	c=0 d=0 t=0
+訂閱 	ding yue 	c=0 d=0 t=0
+計劃 	ji hua 	c=0 d=0 t=0
+計算 	ji suan 	c=0 d=0 t=0
+訊 	xun 	c=0 d=0 t=0
+討厭 	tao yan 	c=0 d=0 t=0
+討論 	tao lun 	c=0 d=0 t=0
+訓練 	xun lian 	c=0 d=0 t=0
+記住 	ji zhu 	c=0 d=0 t=0
+記住他 	ji zhu ta 	c=0 d=0 t=0
+記得 	ji de 	c=0 d=0 t=0
+記載 	ji zai 	c=0 d=0 t=0
+記錄 	ji lu 	c=0 d=0 t=0
+訪問 	fang wen 	c=0 d=0 t=0
+設 	she 	c=0 d=0 t=0
+設定 	she ding 	c=0 d=0 t=0
+設置 	she zhi 	c=0 d=0 t=0
+設置成 	she zhi cheng 	c=0 d=0 t=0
+設置裏 	she zhi li 	c=0 d=0 t=0
+設計 	she ji 	c=0 d=0 t=0
+設計感 	she ji gan 	c=0 d=0 t=0
+許 	xu 	c=0 d=0 t=0
+註冊 	zhu ce 	c=0 d=0 t=0
+註冊了嗎 	zhu ce le ma 	c=0 d=0 t=0
+註冊機 	zhu ce ji 	c=0 d=0 t=0
+評 	ping 	c=0 d=0 t=0
+評價 	ping jia 	c=0 d=0 t=0
+評分 	ping fen 	c=0 d=0 t=0
+評分制度 	ping fen zhi du 	c=0 d=0 t=0
+評測 	ping ce 	c=0 d=0 t=0
+評論 	ping lun 	c=0 d=0 t=0
+詞 	ci 	c=0 d=0 t=0
+詞語 	ci yu 	c=0 d=0 t=0
+試下 	shi xia 	c=0 d=0 t=0
+試試 	shi shi 	c=0 d=0 t=0
+話 	hua 	c=0 d=0 t=0
+話說 	hua shuo 	c=0 d=0 t=0
+話費 	hua fei 	c=0 d=0 t=0
+話題 	hua ti 	c=0 d=0 t=0
+該得 	gai de 	c=0 d=0 t=0
+詳情 	xiang qing 	c=0 d=0 t=0
+誇我 	kua wo 	c=0 d=0 t=0
+認同 	ren tong 	c=0 d=0 t=0
+認爲 	ren wei 	c=0 d=0 t=0
+認真 	ren zhen 	c=0 d=0 t=0
+認真的 	ren zhen de 	c=0 d=0 t=0
+認真的嗎 	ren zhen de ma 	c=0 d=0 t=0
+認真的麼 	ren zhen de me 	c=0 d=0 t=0
+認識 	ren shi 	c=0 d=0 t=0
+語文 	yu wen 	c=0 d=0 t=0
+語言 	yu yan 	c=0 d=0 t=0
+誤 	wu 	c=0 d=0 t=0
+說 	shuo 	c=0 d=0 t=0
+說一聲 	shuo yi sheng 	c=0 d=0 t=0
+說了 	shuo le 	c=0 d=0 t=0
+說出 	shuo chu 	c=0 d=0 t=0
+說呢 	shuo ne 	c=0 d=0 t=0
+說完 	shuo wan 	c=0 d=0 t=0
+說明 	shuo ming 	c=0 d=0 t=0
+說是 	shuo shi 	c=0 d=0 t=0
+說的 	shuo de 	c=0 d=0 t=0
+說的是 	shuo de shi 	c=0 d=0 t=0
+說真的 	shuo zhen de 	c=0 d=0 t=0
+說話 	shuo hua 	c=0 d=0 t=0
+說說 	shuo shuo 	c=0 d=0 t=0
+誰 	shei 	c=0 d=0 t=0
+誰不 	shei bu 	c=0 d=0 t=0
+誰來 	shei lai 	c=0 d=0 t=0
+誰會 	shei hui 	c=0 d=0 t=0
+誰有 	shei you 	c=0 d=0 t=0
+課 	ke 	c=0 d=0 t=0
+調 	tiao 	c=0 d=0 t=0
+調教 	tiao jiao 	c=0 d=0 t=0
+調試 	tiao shi 	c=0 d=0 t=0
+談 	tan 	c=0 d=0 t=0
+請 	qing 	c=0 d=0 t=0
+請不要 	qing bu yao 	c=0 d=0 t=0
+請勿 	qing wu 	c=0 d=0 t=0
+論壇 	lun tan 	c=0 d=0 t=0
+論文 	lun wen 	c=0 d=0 t=0
+諷刺 	feng ci 	c=0 d=0 t=0
+諸如 	zhu ru 	c=0 d=0 t=0
+諾 	nuo 	c=0 d=0 t=0
+諾貝爾 	nuo bei er 	c=0 d=0 t=0
+講 	jiang 	c=0 d=0 t=0
+講啥的 	jiang sha de 	c=0 d=0 t=0
+講的 	jiang de 	c=0 d=0 t=0
+謝了 	xie le 	c=0 d=0 t=0
+謝謝 	xie xie 	c=0 d=0 t=0
+謝謝你 	xie xie ni 	c=0 d=0 t=0
+謹慎 	jin shen 	c=0 d=0 t=0
+證據 	zheng ju 	c=0 d=0 t=0
+證明 	zheng ming 	c=0 d=0 t=0
+警惕 	jing ti 	c=0 d=0 t=0
+變 	bian 	c=0 d=0 t=0
+變啊 	bian a 	c=0 d=0 t=0
+變差 	bian cha 	c=0 d=0 t=0
+變得 	bian de 	c=0 d=0 t=0
+變暖 	bian nuan 	c=0 d=0 t=0
+變量 	bian liang 	c=0 d=0 t=0
+讓 	rang 	c=0 d=0 t=0
+讓人 	rang ren 	c=0 d=0 t=0
+讓你 	rang ni 	c=0 d=0 t=0
+讓她 	rang ta 	c=0 d=0 t=0
+讓我 	rang wo 	c=0 d=0 t=0
+讓玩家 	rang wan jia 	c=0 d=0 t=0
+谷歌 	gu ge 	c=0 d=0 t=0
+豈不是 	qi bu shi 	c=0 d=0 t=0
+豐富 	feng fu 	c=0 d=0 t=0
+豚跳 	tun tiao 	c=0 d=0 t=0
+豪 	hao 	c=0 d=0 t=0
+貌似 	mao si 	c=0 d=0 t=0
+負責 	fu ze 	c=0 d=0 t=0
+負責麼 	fu ze me 	c=0 d=0 t=0
+貧道 	pin dao 	c=0 d=0 t=0
+責任 	ze ren 	c=0 d=0 t=0
+貴 	gui 	c=0 d=0 t=0
+買 	mai 	c=0 d=0 t=0
+買一 	mai yi 	c=0 d=0 t=0
+買不起 	mai bu qi 	c=0 d=0 t=0
+買了 	mai le 	c=0 d=0 t=0
+買了個 	mai le ge 	c=0 d=0 t=0
+買個 	mai ge 	c=0 d=0 t=0
+買過 	mai guo 	c=0 d=0 t=0
+貼 	tie 	c=0 d=0 t=0
+貼片 	tie pian 	c=0 d=0 t=0
+貼紙 	tie zhi 	c=0 d=0 t=0
+資料 	zi liao 	c=0 d=0 t=0
+資本 	zi ben 	c=0 d=0 t=0
+資本家 	zi ben jia 	c=0 d=0 t=0
+資源 	zi yuan 	c=0 d=0 t=0
+資金 	zi jin 	c=0 d=0 t=0
+賊 	zei 	c=0 d=0 t=0
+賠了 	pei le 	c=0 d=0 t=0
+賢哲 	xian zhe 	c=0 d=0 t=0
+賣 	mai 	c=0 d=0 t=0
+賣了 	mai le 	c=0 d=0 t=0
+賣給 	mai gei 	c=0 d=0 t=0
+賺到 	zhuan dao 	c=0 d=0 t=0
+賺錢 	zhuan qian 	c=0 d=0 t=0
+購物 	gou wu 	c=0 d=0 t=0
+賽 	sai 	c=0 d=0 t=0
+賽賽 	sai sai 	c=0 d=0 t=0
+贈送 	zeng song 	c=0 d=0 t=0
+贊同 	zan tong 	c=0 d=0 t=0
+走 	zou 	c=0 d=0 t=0
+走了 	zou le 	c=0 d=0 t=0
+走到 	zou dao 	c=0 d=0 t=0
+走近 	zou jin 	c=0 d=0 t=0
+起 	qi 	c=0 d=0 t=0
+起了 	qi le 	c=0 d=0 t=0
+起作用 	qi zuo yong 	c=0 d=0 t=0
+起來 	qi lai 	c=0 d=0 t=0
+起來了 	qi lai le 	c=0 d=0 t=0
+起步 	qi bu 	c=0 d=0 t=0
+起碼 	qi ma 	c=0 d=0 t=0
+起點 	qi dian 	c=0 d=0 t=0
+起點網 	qi dian wang 	c=0 d=0 t=0
+趁着 	chen zhe 	c=0 d=0 t=0
+超 	chao 	c=0 d=0 t=0
+超級 	chao ji 	c=0 d=0 t=0
+超過 	chao guo 	c=0 d=0 t=0
+越 	yue 	c=0 d=0 t=0
+越來 	yue lai 	c=0 d=0 t=0
+越來越 	yue lai yue 	c=0 d=0 t=0
+越來越多 	yue lai yue duo 	c=0 d=0 t=0
+越做 	yue zuo 	c=0 d=0 t=0
+越獄 	yue yu 	c=0 d=0 t=0
+趕上 	gan shang 	c=0 d=0 t=0
+跑了 	pao le 	c=0 d=0 t=0
+跑分 	pao fen 	c=0 d=0 t=0
+跑步 	pao bu 	c=0 d=0 t=0
+跟 	gen 	c=0 d=0 t=0
+跟個 	gen ge 	c=0 d=0 t=0
+跟多 	gen duo 	c=0 d=0 t=0
+跟我 	gen wo 	c=0 d=0 t=0
+跟我說 	gen wo shuo 	c=0 d=0 t=0
+跨國 	kua guo 	c=0 d=0 t=0
+路上 	lu shang 	c=0 d=0 t=0
+路由 	lu you 	c=0 d=0 t=0
+跳 	tiao 	c=0 d=0 t=0
+跳動 	tiao dong 	c=0 d=0 t=0
+身上 	shen shang 	c=0 d=0 t=0
+身邊 	shen bian 	c=0 d=0 t=0
+身邊人 	shen bian ren 	c=0 d=0 t=0
+身體 	shen ti 	c=0 d=0 t=0
+身高 	shen gao 	c=0 d=0 t=0
+軟件 	ruan jian 	c=0 d=0 t=0
+軟體 	ruan ti 	c=0 d=0 t=0
+載體 	zai ti 	c=0 d=0 t=0
+輕聊 	qing liao 	c=0 d=0 t=0
+輝 	hui 	c=0 d=0 t=0
+輸入法 	shu ru fa 	c=0 d=0 t=0
+轉 	zhuan 	c=0 d=0 t=0
+轉戰 	zhuan zhan 	c=0 d=0 t=0
+轉手 	zhuan shou 	c=0 d=0 t=0
+轉生 	zhuan sheng 	c=0 d=0 t=0
+轉變 	zhuan bian 	c=0 d=0 t=0
+轉轉 	zhuan zhuan 	c=0 d=0 t=0
+辦 	ban 	c=0 d=0 t=0
+辦法 	ban fa 	c=0 d=0 t=0
+辦法呢 	ban fa ne 	c=0 d=0 t=0
+農 	nong 	c=0 d=0 t=0
+迎來 	ying lai 	c=0 d=0 t=0
+近代 	jin dai 	c=0 d=0 t=0
+迴盪 	hui dang 	c=0 d=0 t=0
+迷你 	mi ni 	c=0 d=0 t=0
+迷你世界 	mi ni shi jie 	c=0 d=0 t=0
+送 	song 	c=0 d=0 t=0
+送上 	song shang 	c=0 d=0 t=0
+送達 	song da 	c=0 d=0 t=0
+逃離 	tao li 	c=0 d=0 t=0
+透 	tou 	c=0 d=0 t=0
+這 	zhe 	c=0 d=0 t=0
+這 	zhei 	c=0 d=0 t=0
+這不是 	zhe bu shi 	c=0 d=0 t=0
+這不是啥 	zhe bu shi sha 	c=0 d=0 t=0
+這不比 	zhe bu bi 	c=0 d=0 t=0
+這也 	zhe ye 	c=0 d=0 t=0
+這也算 	zhe ye suan 	c=0 d=0 t=0
+這些 	zhe xie 	c=0 d=0 t=0
+這人 	zhe ren 	c=0 d=0 t=0
+這件事 	zhe jian shi 	c=0 d=0 t=0
+這個 	zhe ge 	c=0 d=0 t=0
+這個了 	zhe ge le 	c=0 d=0 t=0
+這個嘛 	zhe ge ma 	c=0 d=0 t=0
+這個是 	zhe ge shi 	c=0 d=0 t=0
+這倒是 	zhe dao shi 	c=0 d=0 t=0
+這兩 	zhe liang 	c=0 d=0 t=0
+這兩個 	zhe liang ge 	c=0 d=0 t=0
+這句 	zhe ju 	c=0 d=0 t=0
+這只是 	zhe zhi shi 	c=0 d=0 t=0
+這和 	zhe he 	c=0 d=0 t=0
+這就 	zhe jiu 	c=0 d=0 t=0
+這就和 	zhe jiu he 	c=0 d=0 t=0
+這幾個 	zhe ji ge 	c=0 d=0 t=0
+這幾天 	zhe ji tian 	c=0 d=0 t=0
+這幾年 	zhe ji nian 	c=0 d=0 t=0
+這意味着 	zhe yi wei zhe 	c=0 d=0 t=0
+這才 	zhe cai 	c=0 d=0 t=0
+這是 	zhe shi 	c=0 d=0 t=0
+這是個 	zhe shi ge 	c=0 d=0 t=0
+這是啥 	zhe shi sha 	c=0 d=0 t=0
+這有 	zhe you 	c=0 d=0 t=0
+這樣 	zhe yang 	c=0 d=0 t=0
+這樣吧 	zhe yang ba 	c=0 d=0 t=0
+這樣說 	zhe yang shuo 	c=0 d=0 t=0
+這次 	zhe ci 	c=0 d=0 t=0
+這沒有 	zhe mei you 	c=0 d=0 t=0
+這波 	zhe bo 	c=0 d=0 t=0
+這玩意 	zhe wan yi 	c=0 d=0 t=0
+這番 	zhe fan 	c=0 d=0 t=0
+這種 	zhe zhong 	c=0 d=0 t=0
+這羣 	zhe qun 	c=0 d=0 t=0
+這裏 	zhe li 	c=0 d=0 t=0
+這要 	zhe yao 	c=0 d=0 t=0
+這說 	zhe shuo 	c=0 d=0 t=0
+這邊 	zhe bian 	c=0 d=0 t=0
+這部 	zhe bu 	c=0 d=0 t=0
+這部番 	zhe bu fan 	c=0 d=0 t=0
+這都 	zhe dou 	c=0 d=0 t=0
+這麼 	zhe me 	c=0 d=0 t=0
+這麼個 	zhe me ge 	c=0 d=0 t=0
+通俗 	tong su 	c=0 d=0 t=0
+通用 	tong yong 	c=0 d=0 t=0
+通用麼 	tong yong me 	c=0 d=0 t=0
+通知 	tong zhi 	c=0 d=0 t=0
+通過 	tong guo 	c=0 d=0 t=0
+速 	su 	c=0 d=0 t=0
+連 	lian 	c=0 d=0 t=0
+連一塊 	lian yi kuai 	c=0 d=0 t=0
+連我 	lian wo 	c=0 d=0 t=0
+週一 	zhou yi 	c=0 d=0 t=0
+進 	jin 	c=0 d=0 t=0
+進入 	jin ru 	c=0 d=0 t=0
+進化 	jin hua 	c=0 d=0 t=0
+進去 	jin qu 	c=0 d=0 t=0
+進去了 	jin qu le 	c=0 d=0 t=0
+進步 	jin bu 	c=0 d=0 t=0
+進步的 	jin bu de 	c=0 d=0 t=0
+進羣 	jin qun 	c=0 d=0 t=0
+逼 	bi 	c=0 d=0 t=0
+逼到 	bi dao 	c=0 d=0 t=0
+遇到 	yu dao 	c=0 d=0 t=0
+遊戲 	you xi 	c=0 d=0 t=0
+遊戲叫 	you xi jiao 	c=0 d=0 t=0
+運氣 	yun qi 	c=0 d=0 t=0
+運行 	yun xing 	c=0 d=0 t=0
+過 	guo 	c=0 d=0 t=0
+過來 	guo lai 	c=0 d=0 t=0
+過去 	guo qu 	c=0 d=0 t=0
+過後 	guo hou 	c=0 d=0 t=0
+過於 	guo yu 	c=0 d=0 t=0
+過期 	guo qi 	c=0 d=0 t=0
+過激 	guo ji 	c=0 d=0 t=0
+過激了 	guo ji le 	c=0 d=0 t=0
+過激的 	guo ji de 	c=0 d=0 t=0
+過的 	guo de 	c=0 d=0 t=0
+過程 	guo cheng 	c=0 d=0 t=0
+過這個 	guo zhe ge 	c=0 d=0 t=0
+道 	dao 	c=0 d=0 t=0
+道德 	dao de 	c=0 d=0 t=0
+達 	da 	c=0 d=0 t=0
+達到 	da dao 	c=0 d=0 t=0
+遞歸 	di gui 	c=0 d=0 t=0
+遠 	yuan 	c=0 d=0 t=0
+遠離 	yuan li 	c=0 d=0 t=0
+適配 	shi pei 	c=0 d=0 t=0
+選 	xuan 	c=0 d=0 t=0
+選中 	xuan zhong 	c=0 d=0 t=0
+選擇 	xuan ze 	c=0 d=0 t=0
+遺蹟 	yi ji 	c=0 d=0 t=0
+邀 	yao 	c=0 d=0 t=0
+邀你 	yao ni 	c=0 d=0 t=0
+還 	hai 	c=0 d=0 t=0
+還不 	hai bu 	c=0 d=0 t=0
+還不一定 	hai bu yi ding 	c=0 d=0 t=0
+還以 	hai yi 	c=0 d=0 t=0
+還以爲 	hai yi wei 	c=0 d=0 t=0
+還來 	hai lai 	c=0 d=0 t=0
+還債 	huan zhai 	c=0 d=0 t=0
+還只能 	hai zhi neng 	c=0 d=0 t=0
+還在 	hai zai 	c=0 d=0 t=0
+還差 	hai cha 	c=0 d=0 t=0
+還敢 	hai gan 	c=0 d=0 t=0
+還是 	hai shi 	c=0 d=0 t=0
+還是說 	hai shi shuo 	c=0 d=0 t=0
+還有 	hai you 	c=0 d=0 t=0
+還沒 	hai mei 	c=0 d=0 t=0
+還沒呢 	hai mei ne 	c=0 d=0 t=0
+還能 	hai neng 	c=0 d=0 t=0
+還行 	hai xing 	c=0 d=0 t=0
+還被 	hai bei 	c=0 d=0 t=0
+還要 	hai yao 	c=0 d=0 t=0
+還要麼 	hai yao me 	c=0 d=0 t=0
+還說 	hai shuo 	c=0 d=0 t=0
+還錢 	huan qian 	c=0 d=0 t=0
+邏輯 	luo ji 	c=0 d=0 t=0
+那 	na 	c=0 d=0 t=0
+那也 	na ye 	c=0 d=0 t=0
+那些 	na xie 	c=0 d=0 t=0
+那他 	na ta 	c=0 d=0 t=0
+那你 	na ni 	c=0 d=0 t=0
+那你是 	na ni shi 	c=0 d=0 t=0
+那個 	na ge 	c=0 d=0 t=0
+那個對 	na ge dui 	c=0 d=0 t=0
+那倒是 	na dao shi 	c=0 d=0 t=0
+那啥 	na sha 	c=0 d=0 t=0
+那塊 	na kuai 	c=0 d=0 t=0
+那張 	na zhang 	c=0 d=0 t=0
+那我 	na wo 	c=0 d=0 t=0
+那是 	na shi 	c=0 d=0 t=0
+那時候 	na shi hou 	c=0 d=0 t=0
+那樣 	na yang 	c=0 d=0 t=0
+那沒 	na mei 	c=0 d=0 t=0
+那種 	na zhong 	c=0 d=0 t=0
+那裏 	na li 	c=0 d=0 t=0
+那都 	na dou 	c=0 d=0 t=0
+那麼 	na me 	c=0 d=0 t=0
+邦 	bang 	c=0 d=0 t=0
+部 	bu 	c=0 d=0 t=0
+部落 	bu luo 	c=0 d=0 t=0
+郵箱 	you xiang 	c=0 d=0 t=0
+都 	dou 	c=0 d=0 t=0
+都不 	dou bu 	c=0 d=0 t=0
+都可以 	dou ke yi 	c=0 d=0 t=0
+都和 	dou he 	c=0 d=0 t=0
+都在 	dou zai 	c=0 d=0 t=0
+都怕 	dou pa 	c=0 d=0 t=0
+都是 	dou shi 	c=0 d=0 t=0
+都會 	dou hui 	c=0 d=0 t=0
+都有 	dou you 	c=0 d=0 t=0
+都死了 	dou si le 	c=0 d=0 t=0
+都沒 	dou mei 	c=0 d=0 t=0
+都能 	dou neng 	c=0 d=0 t=0
+都要 	dou yao 	c=0 d=0 t=0
+都跟 	dou gen 	c=0 d=0 t=0
+鄙視 	bi shi 	c=0 d=0 t=0
+酌情 	zhuo qing 	c=0 d=0 t=0
+配置 	pei zhi 	c=0 d=0 t=0
+配色 	pei se 	c=0 d=0 t=0
+酚酞 	fen tai 	c=0 d=0 t=0
+酷 	ku 	c=0 d=0 t=0
+酷安 	ku an 	c=0 d=0 t=0
+酸的 	suan de 	c=0 d=0 t=0
+醒 	xing 	c=0 d=0 t=0
+醒悟 	xing wu 	c=0 d=0 t=0
+醛類 	quan lei 	c=0 d=0 t=0
+醫生 	yi sheng 	c=0 d=0 t=0
+釋夢 	shi meng 	c=0 d=0 t=0
+釋放 	shi fang 	c=0 d=0 t=0
+重 	chong 	c=0 d=0 t=0
+重下 	chong xia 	c=0 d=0 t=0
+重力 	zhong li 	c=0 d=0 t=0
+重命名 	chong ming ming 	c=0 d=0 t=0
+重啓 	chong qi 	c=0 d=0 t=0
+重心 	zhong xin 	c=0 d=0 t=0
+重置 	chong zhi 	c=0 d=0 t=0
+重裝 	chong zhuang 	c=0 d=0 t=0
+重複 	chong fu 	c=0 d=0 t=0
+重要 	zhong yao 	c=0 d=0 t=0
+重要麼 	zhong yao me 	c=0 d=0 t=0
+金 	jin 	c=0 d=0 t=0
+金融 	jin rong 	c=0 d=0 t=0
+針 	zhen 	c=0 d=0 t=0
+釦 	kou 	c=0 d=0 t=0
+釦具 	kou ju 	c=0 d=0 t=0
+鈴聲 	ling sheng 	c=0 d=0 t=0
+銀夢 	yin meng 	c=0 d=0 t=0
+鋼琴 	gang qin 	c=0 d=0 t=0
+錄 	lu 	c=0 d=0 t=0
+錄個 	lu ge 	c=0 d=0 t=0
+錄製 	lu zhi 	c=0 d=0 t=0
+錄音 	lu yin 	c=0 d=0 t=0
+錘子 	chui zi 	c=0 d=0 t=0
+錢 	qian 	c=0 d=0 t=0
+錫 	xi 	c=0 d=0 t=0
+錫蘭 	xi lan 	c=0 d=0 t=0
+錯 	cuo 	c=0 d=0 t=0
+錯了 	cuo le 	c=0 d=0 t=0
+錯的 	cuo de 	c=0 d=0 t=0
+錯着 	cuo zhe 	c=0 d=0 t=0
+錯覺 	cuo jue 	c=0 d=0 t=0
+錯誤 	cuo wu 	c=0 d=0 t=0
+鍵盤 	jian pan 	c=0 d=0 t=0
+鏈接 	lian jie 	c=0 d=0 t=0
+鏡像 	jing xiang 	c=0 d=0 t=0
+鏡頭 	jing tou 	c=0 d=0 t=0
+鑽個洞 	zuan ge dong 	c=0 d=0 t=0
+長 	chang 	c=0 d=0 t=0
+長久 	chang jiu 	c=0 d=0 t=0
+長城 	chang cheng 	c=0 d=0 t=0
+長板 	chang ban 	c=0 d=0 t=0
+門了 	men le 	c=0 d=0 t=0
+閃 	shan 	c=0 d=0 t=0
+閉嘴 	bi zui 	c=0 d=0 t=0
+開 	kai 	c=0 d=0 t=0
+開不了 	kai bu liao 	c=0 d=0 t=0
+開了 	kai le 	c=0 d=0 t=0
+開了嗎 	kai le ma 	c=0 d=0 t=0
+開個 	kai ge 	c=0 d=0 t=0
+開呀 	kai ya 	c=0 d=0 t=0
+開啓 	kai qi 	c=0 d=0 t=0
+開天 	kai tian 	c=0 d=0 t=0
+開始 	kai shi 	c=0 d=0 t=0
+開孔 	kai kong 	c=0 d=0 t=0
+開心 	kai xin 	c=0 d=0 t=0
+開放 	kai fang 	c=0 d=0 t=0
+開源 	kai yuan 	c=0 d=0 t=0
+開玩笑 	kai wan xiao 	c=0 d=0 t=0
+開發 	kai fa 	c=0 d=0 t=0
+開着 	kai zhe 	c=0 d=0 t=0
+間隔 	jian ge 	c=0 d=0 t=0
+閥值 	fa zhi 	c=0 d=0 t=0
+閱讀 	yue du 	c=0 d=0 t=0
+關 	guan 	c=0 d=0 t=0
+關了 	guan le 	c=0 d=0 t=0
+關係 	guan xi 	c=0 d=0 t=0
+關係麼 	guan xi me 	c=0 d=0 t=0
+關家裏 	guan jia li 	c=0 d=0 t=0
+關掉 	guan diao 	c=0 d=0 t=0
+關於 	guan yu 	c=0 d=0 t=0
+關注 	guan zhu 	c=0 d=0 t=0
+關聯 	guan lian 	c=0 d=0 t=0
+關鍵 	guan jian 	c=0 d=0 t=0
+關閉 	guan bi 	c=0 d=0 t=0
+闡述 	chan shu 	c=0 d=0 t=0
+防 	fang 	c=0 d=0 t=0
+防沉迷 	fang chen mi 	c=0 d=0 t=0
+防火 	fang huo 	c=0 d=0 t=0
+阿三 	a san 	c=0 d=0 t=0
+阿巴 	a ba 	c=0 d=0 t=0
+陌生 	mo sheng 	c=0 d=0 t=0
+陌生人 	mo sheng ren 	c=0 d=0 t=0
+降低 	jiang di 	c=0 d=0 t=0
+除了 	chu le 	c=0 d=0 t=0
+除非 	chu fei 	c=0 d=0 t=0
+陰影 	yin ying 	c=0 d=0 t=0
+陰間 	yin jian 	c=0 d=0 t=0
+陰陽人 	yin yang ren 	c=0 d=0 t=0
+陶醉 	tao zui 	c=0 d=0 t=0
+階級 	jie ji 	c=0 d=0 t=0
+隨 	sui 	c=0 d=0 t=0
+隨便 	sui bian 	c=0 d=0 t=0
+隨時 	sui shi 	c=0 d=0 t=0
+隨機 	sui ji 	c=0 d=0 t=0
+隨機的 	sui ji de 	c=0 d=0 t=0
+隱私 	yin si 	c=0 d=0 t=0
+隱藏 	yin cang 	c=0 d=0 t=0
+雅 	ya 	c=0 d=0 t=0
+雅靜 	ya jing 	c=0 d=0 t=0
+集 	ji 	c=0 d=0 t=0
+集體 	ji ti 	c=0 d=0 t=0
+雖然 	sui ran 	c=0 d=0 t=0
+雖說 	sui shuo 	c=0 d=0 t=0
+雙拼 	shuang pin 	c=0 d=0 t=0
+雙標 	shuang biao 	c=0 d=0 t=0
+離了 	li le 	c=0 d=0 t=0
+離婚 	li hun 	c=0 d=0 t=0
+離譜 	li pu 	c=0 d=0 t=0
+離譜了 	li pu le 	c=0 d=0 t=0
+離開 	li kai 	c=0 d=0 t=0
+難 	nan 	c=0 d=0 t=0
+難不成 	nan bu cheng 	c=0 d=0 t=0
+難以 	nan yi 	c=0 d=0 t=0
+難受 	nan shou 	c=0 d=0 t=0
+難度 	nan du 	c=0 d=0 t=0
+難的 	nan de 	c=0 d=0 t=0
+難的事 	nan de shi 	c=0 d=0 t=0
+難看 	nan kan 	c=0 d=0 t=0
+難道 	nan dao 	c=0 d=0 t=0
+雪梅 	xue mei 	c=0 d=0 t=0
+雲 	yun 	c=0 d=0 t=0
+零散 	ling san 	c=0 d=0 t=0
+電 	dian 	c=0 d=0 t=0
+電商 	dian shang 	c=0 d=0 t=0
+電報 	dian bao 	c=0 d=0 t=0
+電影 	dian ying 	c=0 d=0 t=0
+電機 	dian ji 	c=0 d=0 t=0
+電池 	dian chi 	c=0 d=0 t=0
+電源 	dian yuan 	c=0 d=0 t=0
+電腦 	dian nao 	c=0 d=0 t=0
+電話 	dian hua 	c=0 d=0 t=0
+需要 	xu yao 	c=0 d=0 t=0
+震驚 	zhen jing 	c=0 d=0 t=0
+靈 	ling 	c=0 d=0 t=0
+靈龍 	ling long 	c=0 d=0 t=0
+青少年 	qing shao nian 	c=0 d=0 t=0
+非常 	fei chang 	c=0 d=0 t=0
+非要 	fei yao 	c=0 d=0 t=0
+靠 	kao 	c=0 d=0 t=0
+面前 	mian qian 	c=0 d=0 t=0
+面面 	mian mian 	c=0 d=0 t=0
+韓 	han 	c=0 d=0 t=0
+韓國 	han guo 	c=0 d=0 t=0
+韓志浩 	han zhi hao 	c=0 d=0 t=0
+韓老師 	han lao shi 	c=0 d=0 t=0
+音效 	yin xiao 	c=0 d=0 t=0
+音樂 	yin yue 	c=0 d=0 t=0
+音頻 	yin pin 	c=0 d=0 t=0
+頁 	ye 	c=0 d=0 t=0
+頁面 	ye mian 	c=0 d=0 t=0
+頂多 	ding duo 	c=0 d=0 t=0
+順豐 	shun feng 	c=0 d=0 t=0
+預判 	yu pan 	c=0 d=0 t=0
+預期 	yu qi 	c=0 d=0 t=0
+頗深 	po shen 	c=0 d=0 t=0
+頭 	tou 	c=0 d=0 t=0
+頭疼 	tou teng 	c=0 d=0 t=0
+頭頭 	tou tou 	c=0 d=0 t=0
+頭髮 	tou fa 	c=0 d=0 t=0
+頻道 	pin dao 	c=0 d=0 t=0
+題 	ti 	c=0 d=0 t=0
+題拍拍 	ti pai pai 	c=0 d=0 t=0
+題材 	ti cai 	c=0 d=0 t=0
+顏色 	yan se 	c=0 d=0 t=0
+願意 	yuan yi 	c=0 d=0 t=0
+顛瘋 	dian feng 	c=0 d=0 t=0
+類 	lei 	c=0 d=0 t=0
+類似 	lei si 	c=0 d=0 t=0
+類型 	lei xing 	c=0 d=0 t=0
+顯出 	xian chu 	c=0 d=0 t=0
+顯卡 	xian ka 	c=0 d=0 t=0
+顯得 	xian de 	c=0 d=0 t=0
+顯示屏 	xian shi ping 	c=0 d=0 t=0
+風 	feng 	c=0 d=0 t=0
+飄了 	piao le 	c=0 d=0 t=0
+飛 	fei 	c=0 d=0 t=0
+飛了 	fei le 	c=0 d=0 t=0
+食物 	shi wu 	c=0 d=0 t=0
+飯 	fan 	c=0 d=0 t=0
+飲茶 	yin cha 	c=0 d=0 t=0
+飲茶先 	yin cha xian 	c=0 d=0 t=0
+飼養場 	si yang chang 	c=0 d=0 t=0
+養 	yang 	c=0 d=0 t=0
+養的 	yang de 	c=0 d=0 t=0
+養貓 	yang mao 	c=0 d=0 t=0
+餓死 	e si 	c=0 d=0 t=0
+餓死的 	e si de 	c=0 d=0 t=0
+首先 	shou xian 	c=0 d=0 t=0
+首都 	shou du 	c=0 d=0 t=0
+香 	xiang 	c=0 d=0 t=0
+馬 	ma 	c=0 d=0 t=0
+馬克思 	ma ke si 	c=0 d=0 t=0
+騎士 	qi shi 	c=0 d=0 t=0
+騙了 	pian le 	c=0 d=0 t=0
+騙了誰 	pian le shei 	c=0 d=0 t=0
+騰訊 	teng xun 	c=0 d=0 t=0
+骨頭 	gu tou 	c=0 d=0 t=0
+體 	ti 	c=0 d=0 t=0
+體檢 	ti jian 	c=0 d=0 t=0
+體液 	ti ye 	c=0 d=0 t=0
+體現 	ti xian 	c=0 d=0 t=0
+體育 	ti yu 	c=0 d=0 t=0
+體驗 	ti yan 	c=0 d=0 t=0
+體驗過 	ti yan guo 	c=0 d=0 t=0
+高 	gao 	c=0 d=0 t=0
+高度 	gao du 	c=0 d=0 t=0
+高效 	gao xiao 	c=0 d=0 t=0
+高血 	gao xue 	c=0 d=0 t=0
+鬥士 	dou shi 	c=0 d=0 t=0
+鬧肚子 	nao du zi 	c=0 d=0 t=0
+鬼 	gui 	c=0 d=0 t=0
+鬼牙牀 	gui ya chuang 	c=0 d=0 t=0
+魔方 	mo fang 	c=0 d=0 t=0
+魔法 	mo fa 	c=0 d=0 t=0
+魔道 	mo dao 	c=0 d=0 t=0
+魚 	yu 	c=0 d=0 t=0
+魚板 	yu ban 	c=0 d=0 t=0
+魚男 	yu nan 	c=0 d=0 t=0
+魯迅 	lu xun 	c=0 d=0 t=0
+鯡魚 	fei yu 	c=0 d=0 t=0
+鳳梨 	feng li 	c=0 d=0 t=0
+鴻蒙 	hong meng 	c=0 d=0 t=0
+鵬 	peng 	c=0 d=0 t=0
+鸚鵡 	ying wu 	c=0 d=0 t=0
+鹹魚 	xian yu 	c=0 d=0 t=0
+麥當勞 	mai dang lao 	c=0 d=0 t=0
+麪 	mian 	c=0 d=0 t=0
+麪包 	mian bao 	c=0 d=0 t=0
+麻煩 	ma fan 	c=0 d=0 t=0
+麻煩了 	ma fan le 	c=0 d=0 t=0
+麻煩的 	ma fan de 	c=0 d=0 t=0
+麻痹 	ma bi 	c=0 d=0 t=0
+麼 	me 	c=0 d=0 t=0
+黃豆 	huang dou 	c=0 d=0 t=0
+黑 	hei 	c=0 d=0 t=0
+黑歷史 	hei li shi 	c=0 d=0 t=0
+黑產 	hei chan 	c=0 d=0 t=0
+黒 	hei 	c=0 d=0 t=0
+點 	dian 	c=0 d=0 t=0
+點擊 	dian ji 	c=0 d=0 t=0
+點開 	dian kai 	c=0 d=0 t=0
+點點 	dian dian 	c=0 d=0 t=0
+黨 	dang 	c=0 d=0 t=0
+鼻炎 	bi yan 	c=0 d=0 t=0
