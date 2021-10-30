@@ -14,7 +14,7 @@ Plug 'easymotion/vim-easymotion'
 Plug 'morhetz/gruvbox'
 "code
 Plug 'vim-test/vim-test'
-Plug 'Valloric/YouCompleteMe', {'do': './install.py --rust-completer'}
+Plug 'Valloric/YouCompleteMe', {'do': 'python ./install.py --rust-completer'}
 
 call plug#end()
 
