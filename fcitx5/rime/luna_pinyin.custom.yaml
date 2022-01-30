@@ -1,4 +1,5 @@
-patch:
+# encoding: utf-8
+ patch:
   switches/@next:
     name: emoji_suggestion
     reset: 1
@@ -9,7 +10,8 @@ patch:
     opencc_config: emoji.json
     option_name: emoji_suggestion
     tips: all
+      #"switches/@0/reset": 0  #表示將 switcher 列表中的第一個元素（即 ascii_mode 開關）的初始值重設爲狀態 1（即「英文」）。
   punctuator/full_shape:
-    "/": "/"
+    "/" : "、"
   punctuator/half_shape:
-    "/": "/"
+    "/" : "、

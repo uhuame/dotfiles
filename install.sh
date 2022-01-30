@@ -9,7 +9,7 @@ function sf ()
     then
         echo "$1 存在"
     else
-        ln -s ~/.dotfiles/$1 ~/$1
+        ln -s ~/.dotfiles/$1 $2
         echo "$1 链接成功"
     fi
 

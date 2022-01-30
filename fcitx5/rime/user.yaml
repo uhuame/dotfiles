@@ -1,9 +1,11 @@
 var:
-  last_build_time: 1633065342
+  last_build_time: 1642678218
   option:
     ascii_punct: false
+    full_shape: false
     simplification: true
   previously_selected_schema: double_pinyin_flypy
   schema_access_time:
-    double_pinyin_flypy: 1630234803
-    luna_pinyin: 1630232322
+    double_pinyin_flypy: 1642677143
+    emoji: 1642231175
+    luna_pinyin: 1642677134

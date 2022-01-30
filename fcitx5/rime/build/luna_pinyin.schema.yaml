@@ -2,11 +2,11 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1624840803
-    default.custom: 1632194031
+    default.custom: 1642236495
     grammar: 0
     key_bindings: 1624840803
     key_bindings.custom: 0
-    luna_pinyin.custom: 0
+    luna_pinyin.custom: 1642677113
     luna_pinyin.schema: 1628148718
     pinyin: 1628148718
     pinyin.custom: 0
@@ -21,8 +21,13 @@ custom_phrase:
   enable_sentence: false
   initial_quality: 1
   user_dict: custom_phrase
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
 engine:
   filters:
+    - "simplifier@emoji_suggestion"
     - simplifier
     - uniquifier
   processors:
@@ -98,7 +103,7 @@ punctuator:
     ",": {commit: "，"}
     "-": "－"
     .: {commit: "。"}
-    "/": ["／", "÷"]
+    "/": "、"
     ":": {commit: "："}
     ";": {commit: "；"}
     "<": ["《", "〈", "«", "‹"]
@@ -131,7 +136,7 @@ punctuator:
     ",": {commit: "，"}
     "-": "-"
     .: {commit: "。"}
-    "/": ["、", "､", "/", "／", "÷"]
+    "/": "、 "
     ":": {commit: "："}
     ";": {commit: "；"}
     "<": ["《", "〈", "«", "‹", "˂", "˱"]
@@ -382,7 +387,7 @@ schema:
       * Android open source project
       * Chewing - 新酷音
       * opencc - 開放中文轉換
-    
+
   name: "朙月拼音"
   schema_id: luna_pinyin
   version: 0.26
@@ -412,6 +417,9 @@ switches:
     states: ["漢字", "汉字"]
   - name: ascii_punct
     states: ["。，", "．，"]
+  - name: emoji_suggestion
+    reset: 1
+    states: ["🈚️️︎", "🈶️️️"]
 translator:
   dictionary: luna_pinyin
   preedit_format:

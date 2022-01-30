@@ -2,15 +2,20 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1624840803
-    default.custom: 1629019114
-    double_pinyin_flypy.custom: 1628176867
+    default.custom: 1642236495
+    double_pinyin_flypy.custom: 1642678212
     double_pinyin_flypy.schema: 1584212952
     key_bindings: 1624840803
     key_bindings.custom: 0
     punctuation: 1624840803
     punctuation.custom: 0
+emoji_suggestion:
+  opencc_config: emoji.json
+  option_name: emoji_suggestion
+  tips: all
 engine:
   filters:
+    - "simplifier@emoji_suggestion"
     - simplifier
     - uniquifier
   processors:
@@ -85,7 +90,7 @@ punctuator:
     ",": {commit: "，"}
     "-": "－"
     .: {commit: "。"}
-    "/": ["／", "÷"]
+    "/": "/"
     ":": {commit: "："}
     ";": {commit: "；"}
     "<": ["《", "〈", "«", "‹"]
@@ -118,7 +123,7 @@ punctuator:
     ",": {commit: "，"}
     "-": "-"
     .: {commit: "。"}
-    "/": ["、", "/", "／", "÷"]
+    "/": "/"
     ":": {commit: "："}
     ";": {commit: "；"}
     "<": ["《", "〈", "«", "‹"]
@@ -162,7 +167,7 @@ schema:
     - stroke
   description: |
     朙月拼音＋小鶴雙拼方案。
-    
+
   name: "小鶴雙拼"
   schema_id: double_pinyin_flypy
   version: 0.18
@@ -210,6 +215,9 @@ switches:
     states: ["漢字", "汉字"]
   - name: ascii_punct
     states: ["。，", "．，"]
+  - name: emoji_suggestion
+    reset: 1
+    states: ["🈚️️︎", "🈶️️️"]
 translator:
   dictionary: luna_pinyin
   preedit_format:

@@ -2,7 +2,7 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1624840803
-    default.custom: 1632194031
+    default.custom: 1642236495
     key_bindings: 1624840803
     key_bindings.custom: 0
     punctuation: 1624840803
@@ -165,7 +165,7 @@ schema:
   description: |
     五筆畫
     h,s,p,n,z 代表橫、豎、撇、捺、折
-    
+
   name: "五筆畫"
   schema_id: stroke
   version: 0.5
