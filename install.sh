@@ -3,6 +3,7 @@ V=.vim
 Vi=.vimrc
 RSS=.newsboat
 FX=fcitx5
+#read -p ".vim的位置(5秒后使用默认位置):" -t 5 ${}
 function sf ()
 {
     if [ $3 $2 ]

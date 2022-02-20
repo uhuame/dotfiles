@@ -66,7 +66,7 @@ style:
   horizontal: false #水平模式
   horizontal_gap: *FJL #符号键盘列间距
   layout: #悬浮窗口位置
-    position: right #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要Android5.0以上)
+    position: fixed #位置：left|right|left_up|right_up|fixed|bottom_left|bottom_right|top_left|top_right(left、right需要Android5.0以上)
     min_length: 0 #候选窗口最小词长
     max_length: 10 #超过字数则换行
     sticky_lines: 0 #固顶行数

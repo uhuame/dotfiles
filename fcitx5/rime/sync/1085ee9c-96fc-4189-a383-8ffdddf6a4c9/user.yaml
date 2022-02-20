@@ -1,2 +1,11 @@
 var:
-  last_build_time: 1624274008
+  last_build_time: 1644205572
+  option:
+    ascii_punct: false
+    full_shape: false
+    simplification: true
+  previously_selected_schema: luna_pinyin
+  schema_access_time:
+    double_pinyin_flypy: 1642677143
+    emoji: 1642231175
+    luna_pinyin: 1644205540
