@@ -28,7 +28,7 @@ filetype plugin indent on
 set foldmethod=syntax
 set directory=$HOME/.vim/swap//
 
-set autoindent 			"自动缩进
+set noautoindent 			"自动缩进
 set expandtab 			"展开制表符
 set tabstop=4
 set shiftwidth=4
@@ -49,11 +49,11 @@ autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isT
 "按键云云
 let mapleader = "\<space>"
 noremap <leader>w :w<cr>
-inoremap ' ''<esc>i
-inoremap " ""<esc>i
-inoremap () ()<esc>i
-inoremap { {}<esc>i
-inoremap [ []<esc>i
+"inoremap ' ''<esc>i
+"inoremap \" \"\"<esc>i
+"inoremap () ()<esc>i
+"inoremap { {}<esc>i
+"inoremap [ []<esc>i
 "跳转到函数定义处
 noremap <leader>] :YcmCompleter GoTo<cr>
 noremap <leader>w :w<cr>
