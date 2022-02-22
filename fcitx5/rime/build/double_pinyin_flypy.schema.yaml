@@ -2,8 +2,8 @@ __build_info:
   rime_version: 1.7.3
   timestamps:
     default: 1624840803
-    default.custom: 1642236495
-    double_pinyin_flypy.custom: 1642678212
+    default.custom: 1645360355
+    double_pinyin_flypy.custom: 1645529398
     double_pinyin_flypy.schema: 1584212952
     key_bindings: 1624840803
     key_bindings.custom: 0
@@ -219,7 +219,7 @@ switches:
     reset: 1
     states: ["🈚️️︎", "🈶️️️"]
 translator:
-  dictionary: luna_pinyin
+  dictionary: luna_pinyin.extended
   preedit_format:
     - "xform/([bpmfdtnljqx])n/$1iao/"
     - "xform/(\\w)g/$1eng/"

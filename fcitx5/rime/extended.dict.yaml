@@ -1,0 +1,10 @@
+---
+name: extended
+version: "2020.08.03"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+ - luna_pinyin
+ - moegirl
+ - zhwiki
+...
