@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<opml version="1.0">
+  <head>
+    <title>Liferea Feed List Export</title>
+  </head>
+  <body>
+    <outline title="Example Feeds" text="Example Feeds" description="Example Feeds" type="folder">
+      <outline title="News" text="News" description="News" type="folder">
+        <outline title="Ars Technica" text="Ars Technica" description="Ars Technica" type="rss" xmlUrl="http://feeds.arstechnica.com/arstechnica/index" htmlUrl="https://arstechnica.com"/>
+        <outline title="Slashdot" text="Slashdot" description="Slashdot" type="rss" xmlUrl="http://rss.slashdot.org/Slashdot/slashdot" htmlUrl="https://slashdot.org/"/>
+        <outline title="BBC" text="BBC" description="BBC" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=int" htmlUrl=""/>
+        <outline title="Science" text="Science" description="Science" xmlUrl="https://www.sciencenews.org/feeds/headlines.rss" htmlUrl=""/>
+      </outline>
+      <outline title="Knowledge" text="Knowledge" description="Knowledge" type="folder">
+        <outline title="Aeon" text="Aeon" description="Aeon" type="rss" xmlUrl="https://aeon.co/feed.rss" htmlUrl="https://aeon.co"/>
+        <outline title="Quanta Magazine" text="Quanta Magazine" description="Quanta Magazine" type="rss" xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+      </outline>
+      <outline title="Open Source" text="Open Source" description="Open Source" type="folder">
+        <outline title="Liferea Blog" text="Liferea Blog" description="Liferea Blog" xmlUrl="http://feeds.feedburner.com/LifereaBlog" htmlUrl=""/>
+        <outline title="Planet GNOME" text="Planet GNOME" description="Planet GNOME" type="atom" xmlUrl="http://planet.gnome.org/atom.xml" htmlUrl="https://planet.gnome.org/"/>
+      </outline>
+      <outline title="Podcasts" text="Podcasts" description="Podcasts" type="folder">
+        <outline title="EscapePod" text="EscapePod" description="EscapePod" type="atom" xmlUrl="http://escapepod.org/feed/atom/" htmlUrl="https://escapepod.org/feed/atom/"/>
+      </outline>
+      <outline title="Music Blogs" text="Music Blogs" description="Music Blogs" type="folder">
+        <outline title="Free Music Archive" text="Free Music Archive" description="Free Music Archive" xmlUrl="https://freemusicarchive.org/recent.atom" htmlUrl=""/>
+        <outline title="Gorilla vs. Bear" text="Gorilla vs. Bear" description="Gorilla vs. Bear" xmlUrl="http://www.gorillavsbear.net/category/mp3/feed/" htmlUrl=""/>
+        <outline title="KEXP" text="KEXP" description="KEXP" type="rss" xmlUrl="http://feeds.kexp.org/kexp/songoftheday" htmlUrl="https://www.kexp.org/podcasts/song-of-the-day"/>
+        <outline title="Fluxblog" text="Fluxblog" description="Fluxblog" type="rss" xmlUrl="http://www.fluxblog.org/feed" htmlUrl="http://www.fluxblog.org"/>
+      </outline>
+      <outline title="Comics" text="Comics" description="Comics" type="folder">
+        <outline title="xkcd" text="xkcd" description="xkcd" type="atom" xmlUrl="https://xkcd.com/atom.xml" htmlUrl="https://xkcd.com/"/>
+      </outline>
+    </outline>
+    <outline title="Wiwi.Video &#x597D;&#x548C;&#x5F26;&#x806F;&#x64AD;&#x7DB2;" text="Wiwi.Video &#x597D;&#x548C;&#x5F26;&#x806F;&#x64AD;&#x7DB2;" description="Wiwi.Video &#x597D;&#x548C;&#x5F26;&#x806F;&#x64AD;&#x7DB2;" type="rss" xmlUrl="https://wiwi.video/feeds/videos.xml?sort=-publishedAt" htmlUrl="https://wiwi.video"/>
+    <outline title="&#x65AF;&#x83AB;&#x7B14;&#x8BB0;" text="&#x65AF;&#x83AB;&#x7B14;&#x8BB0;" description="&#x65AF;&#x83AB;&#x7B14;&#x8BB0;" type="atom" xmlUrl="https://notes.zhangxiaocai.cn/atom.xml" htmlUrl="https://notes.zhangxiaocai.cn/"/>
+    <outline title="&#x79D1;&#x6280;&#x6742;&#x6587;" text="&#x79D1;&#x6280;&#x6742;&#x6587;" description="&#x79D1;&#x6280;&#x6742;&#x6587;" type="folder">
+      <outline title="Linux &#x4E2D;&#x56FD;&#x25C6;&#x5F00;&#x6E90;&#x793E;&#x533A;" text="Linux &#x4E2D;&#x56FD;&#x25C6;&#x5F00;&#x6E90;&#x793E;&#x533A;" description="Linux &#x4E2D;&#x56FD;&#x25C6;&#x5F00;&#x6E90;&#x793E;&#x533A;" type="rss" xmlUrl="https://linux.cn/rss.xml" htmlUrl="https://linux.cn/"/>
+      <outline title="&#x5584;&#x7528;&#x4F73;&#x8F6F;" text="&#x5584;&#x7528;&#x4F73;&#x8F6F;" description="&#x5584;&#x7528;&#x4F73;&#x8F6F;" type="rss" xmlUrl="https://xbeta.info/feed" htmlUrl="https://xbeta.info"/>
+      <outline title="&#x5C0F;&#x4F17;&#x8F6F;&#x4EF6;" text="&#x5C0F;&#x4F17;&#x8F6F;&#x4EF6;" description="&#x5C0F;&#x4F17;&#x8F6F;&#x4EF6;" type="rss" xmlUrl="https://www.appinn.com/feed" htmlUrl="https://www.appinn.com"/>
+      <outline title="&#x5C11;&#x6570;&#x6D3E;" text="&#x5C11;&#x6570;&#x6D3E;" description="&#x5C11;&#x6570;&#x6D3E;" type="rss" xmlUrl="https://sspai.com/feed" htmlUrl="https://sspai.com"/>
+      <outline title="&#x5F02;&#x6B21;&#x5143;&#x8F6F;&#x4EF6;&#x4E16;&#x754C;" text="&#x5F02;&#x6B21;&#x5143;&#x8F6F;&#x4EF6;&#x4E16;&#x754C;" description="&#x5F02;&#x6B21;&#x5143;&#x8F6F;&#x4EF6;&#x4E16;&#x754C;" type="rss" xmlUrl="https://feed.iplaysoft.com/" htmlUrl="https://www.iplaysoft.com"/>
+      <outline title="Arch Linux" text="Arch Linux" description="Arch Linux" type="rss" xmlUrl="https://www.archlinuxcn.org/feed/" htmlUrl="https://www.archlinuxcn.org"/>
+    </outline>
+    <outline title="&#x4E2A;&#x4EBA;&#x535A;&#x5BA2;" text="&#x4E2A;&#x4EBA;&#x535A;&#x5BA2;" description="&#x4E2A;&#x4EBA;&#x535A;&#x5BA2;" type="folder">
+      <outline title="Phoenix's island" text="Phoenix's island" description="Phoenix's island" type="atom" xmlUrl="https://blog.phoenixlzx.com/atom.xml" htmlUrl="https://blog.phoenixlzx.com/"/>
+      <outline title="FKUN&#x306E;BLOG" text="FKUN&#x306E;BLOG" description="FKUN&#x306E;BLOG" type="rss" xmlUrl="https://blog.fkun.tech/feed/" htmlUrl="https://blog.fkun.tech/"/>
+      <outline title="SnowNeko&#x306E;Blog" text="SnowNeko&#x306E;Blog" description="SnowNeko&#x306E;Blog" type="rss" xmlUrl="https://www.snowneko.com/feed/" htmlUrl="https://www.snowneko.com/"/>
+      <outline title="&#x4F9D;&#x4E91;'s Blog" text="&#x4F9D;&#x4E91;'s Blog" description="&#x4F9D;&#x4E91;'s Blog" type="rss" xmlUrl="https://blog.lilydjwg.me/feed" htmlUrl="https://blog.lilydjwg.me/"/>
+      <outline title="Zyxiria" text="Zyxiria" description="Zyxiria" type="rss" xmlUrl="http://blog.ericzhuochen.com/index.xml" htmlUrl="http://blog.ericzhuochen.com/"/>
+      <outline title="Houge's Madness Blog" text="Houge's Madness Blog" description="Houge's Madness Blog" type="rss" xmlUrl="https://litterhougelangley.life/blog/feed/" htmlUrl="https://litterhougelangley.life/blog"/>
+      <outline title="Farseerfc&#x7684;&#x5C0F;&#x7AA9;" text="Farseerfc&#x7684;&#x5C0F;&#x7AA9;" description="Farseerfc&#x7684;&#x5C0F;&#x7AA9;" type="atom" xmlUrl="https://farseerfc.me/feeds/atom.xml" htmlUrl="https://farseerfc.me/feeds/atom.xml"/>
+      <outline title="hsingko's blog" text="hsingko's blog" description="hsingko's blog" type="rss" xmlUrl="https://hsingko.github.io/index.xml" htmlUrl="https://hsingko.github.io/"/>
+    </outline>
+    <outline title="&#x65B0;&#x95FB;" text="&#x65B0;&#x95FB;" description="&#x65B0;&#x95FB;" type="folder">
+      <outline title="&#x6708;&#x5149;&#x535A;&#x5BA2;" text="&#x6708;&#x5149;&#x535A;&#x5BA2;" description="&#x6708;&#x5149;&#x535A;&#x5BA2;" type="rss" xmlUrl="https://www.williamlong.info/rss.xml" htmlUrl="https://www.williamlong.info/"/>
+      <outline title="&#x5947;&#x5BA2;Solidot&#x2013;&#x4F20;&#x9012;&#x6700;&#x65B0;&#x79D1;&#x6280;&#x60C5;&#x62A5;" text="&#x5947;&#x5BA2;Solidot&#x2013;&#x4F20;&#x9012;&#x6700;&#x65B0;&#x79D1;&#x6280;&#x60C5;&#x62A5;" description="&#x5947;&#x5BA2;Solidot&#x2013;&#x4F20;&#x9012;&#x6700;&#x65B0;&#x79D1;&#x6280;&#x60C5;&#x62A5;" type="rss" xmlUrl="https://www.solidot.org/index.rss" htmlUrl="https://www.solidot.org"/>
+      <outline title="&#x56FD;&#x9645;&#x9891;&#x9053;" text="&#x56FD;&#x9645;&#x9891;&#x9053;" description="&#x56FD;&#x9645;&#x9891;&#x9053;" type="rss" xmlUrl="http://www.people.com.cn/rss/world.xml" htmlUrl="http://world.people.cn"/>
+      <outline title="&#x5317;&#x4EAC;&#x672C;&#x5730;&#x5B9D;&#x7126;&#x70B9;&#x8D44;&#x8BAF;" text="&#x5317;&#x4EAC;&#x672C;&#x5730;&#x5B9D;&#x7126;&#x70B9;&#x8D44;&#x8BAF;" description="&#x5317;&#x4EAC;&#x672C;&#x5730;&#x5B9D;&#x7126;&#x70B9;&#x8D44;&#x8BAF;" type="rss" xmlUrl="https://rsshub.app/bendibao/news/bj" htmlUrl="http://bj.bendibao.com"/>
+      <outline title="&#x6709;&#x8DA3;&#x5929;&#x6587;&#x5947;&#x89C2; - Interesting Sky" text="&#x6709;&#x8DA3;&#x5929;&#x6587;&#x5947;&#x89C2; - Interesting Sky" description="&#x6709;&#x8DA3;&#x5929;&#x6587;&#x5947;&#x89C2; - Interesting Sky" type="rss" xmlUrl="https://rsshub.app/interesting-sky" htmlUrl="https://interesting-sky.china-vo.org"/>
+    </outline>
+  </body>
+</opml>

@@ -1,11 +1,11 @@
-"插件加载QAQ
+"插件加载
 call plug#begin()
 
 "markdown
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() }, 'for': ['markdown', 'vim-plug']}
 Plug 'dhruvasagar/vim-table-mode'
 
-"Plug 'lilydjwg/fcitx.vim'
+Plug 'lilydjwg/fcitx.vim'
 Plug 'tpope/vim-unimpaired'
 Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
@@ -21,8 +21,12 @@ call plug#end()
 " => 设置-----
 syntax on
 set background=dark    " Setting dark mode"
+
 autocmd vimenter * ++nested colorscheme gruvbox
 "colorscheme elflord
+filetype on
+filetype indent on
+filetype plugin on
 filetype plugin indent on 
 
 set foldmethod=syntax
@@ -34,10 +38,15 @@ set tabstop=4
 set shiftwidth=4
 
 set laststatus=2
-set wildmenu
+set wildmenu " 提示！可选！命令
 set number
 set hlsearch
+set cursorline " 显示一条线or 高亮
+"set nowrap "取消超过屏幕换行
+set showcmd "在右下脚显示在干什么
 set tags=tags;
+set ignorecase "忽略大小写
+set smartcase "智慧大小写 大只搜大 小 大小都搜
 
 let test#strategy = "vimterminal"
 let g:airline#extensions#tabline#enabled = 1
@@ -45,10 +54,14 @@ let g:airline#extensions#tabline#enabled = 1
 
 autocmd BufWritePost *.rs silent! !ctags -R &
 "autocmd VimEnter * NERDTree
-autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+"autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+map tt :NERDTreeToggle<CR>
 "按键云云
-let mapleader = "\<space>"
-noremap <leader>w :w<cr>
+
+let mapleader = "\<space>" "设置导航按键 即space+w 用的那个
+"let &t_SI = "\<Esc>]50;CursorShape=1\x7"
+"let &t_SR = "\<Esc>]50;CursorShape=2\x7"
+"let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 "inoremap ' ''<esc>i
 "inoremap \" \"\"<esc>i
 "inoremap () ()<esc>i
@@ -57,6 +70,7 @@ noremap <leader>w :w<cr>
 "跳转到函数定义处
 noremap <leader>] :YcmCompleter GoTo<cr>
 noremap <leader>w :w<cr>
+noremap <leader><CR> :nohlsearch<CR>
 "缓冲区加载QAQ
 "noremap <leader>1 :b1<cr>
 "noremap <leader>2 :b2<cr>
@@ -67,3 +81,8 @@ noremap <leader>w :w<cr>
 "noremap <leader>7 :b7<cr>
 "noremap <leader>8 :b8<cr>
 "noremap <leader>9 :b9<cr>
+map <right> :vertical resize+5<CR>
+map <left> :vertical resize-5<CR>
+map <up> :res +5<CR>
+map <down> :res -5<CR>
+"tabe标签

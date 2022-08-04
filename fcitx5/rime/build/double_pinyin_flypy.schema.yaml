@@ -1,13 +1,13 @@
 __build_info:
   rime_version: 1.7.3
   timestamps:
-    default: 1624840803
-    default.custom: 1645360355
-    double_pinyin_flypy.custom: 1645529398
+    default: 1654509031
+    default.custom: 1657280405
+    double_pinyin_flypy.custom: 1645797475
     double_pinyin_flypy.schema: 1584212952
-    key_bindings: 1624840803
+    key_bindings: 1654509031
     key_bindings.custom: 0
-    punctuation: 1624840803
+    punctuation: 1654509031
     punctuation.custom: 0
 emoji_suggestion:
   opencc_config: emoji.json
