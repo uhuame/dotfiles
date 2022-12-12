@@ -14,13 +14,13 @@ Plug 'easymotion/vim-easymotion'
 Plug 'morhetz/gruvbox'
 "code
 Plug 'vim-test/vim-test'
-"Plug 'Valloric/YouCompleteMe', {'do': 'python ./install.py --rust-completer'}
+Plug 'Valloric/YouCompleteMe', {'do': 'python ./install.py'}
+Plug 'voldikss/vim-translator'
 
 call plug#end()
 
 " => 设置-----
 syntax on
-set background=dark    " Setting dark mode"
 
 autocmd vimenter * ++nested colorscheme gruvbox
 "colorscheme elflord
@@ -29,6 +29,7 @@ filetype indent on
 filetype plugin on
 filetype plugin indent on 
 
+set background=dark    " Setting dark mode"
 set foldmethod=syntax
 set directory=$HOME/.vim/swap//
 
@@ -36,10 +37,11 @@ set noautoindent 			"自动缩进
 set expandtab 			"展开制表符
 set tabstop=4
 set shiftwidth=4
+"set relativenumber 突出当前行号，并显示剩下行号与当前的距离
+set number
 
 set laststatus=2
 set wildmenu " 提示！可选！命令
-set number
 set hlsearch
 set cursorline " 显示一条线or 高亮
 "set nowrap "取消超过屏幕换行
@@ -47,9 +49,14 @@ set showcmd "在右下脚显示在干什么
 set tags=tags;
 set ignorecase "忽略大小写
 set smartcase "智慧大小写 大只搜大 小 大小都搜
+set pastetoggle=<F5> "粘贴模式
 
 let test#strategy = "vimterminal"
 let g:airline#extensions#tabline#enabled = 1
+let g:fcitx5_remote = "/usr/bin/fcitx5-remote" "设置后端为remote?
+let g:fcitx5_rime = 1
+
+let g:mkdp_vrowserfunc= "katex"
 
 
 autocmd BufWritePost *.rs silent! !ctags -R &
@@ -63,14 +70,16 @@ let mapleader = "\<space>" "设置导航按键 即space+w 用的那个
 "let &t_SR = "\<Esc>]50;CursorShape=2\x7"
 "let &t_EI = "\<Esc>]50;CursorShape=0\x7"
 "inoremap ' ''<esc>i
-"inoremap \" \"\"<esc>i
+"inoremap \" \"\"<esc>i 
 "inoremap () ()<esc>i
-"inoremap { {}<esc>i
+inoremap {} {}<esc>i
 "inoremap [ []<esc>i
+noremap <leader>t :TranslateW<cr>
 "跳转到函数定义处
 noremap <leader>] :YcmCompleter GoTo<cr>
 noremap <leader>w :w<cr>
 noremap <leader><CR> :nohlsearch<CR>
+noremap <leader>r :!python <up><CR>
 "缓冲区加载QAQ
 "noremap <leader>1 :b1<cr>
 "noremap <leader>2 :b2<cr>
